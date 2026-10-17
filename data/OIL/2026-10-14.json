@@ -1,0 +1,19 @@
+{
+  "symbol": "OIL",
+  "instrument_type": "share",
+  "date": "2026-10-14",
+  "name": null,
+  "market": "REGS",
+  "trades": 6,
+  "volume": 11957,
+  "value": 1386.545,
+  "open": 0.116,
+  "min": 0.115,
+  "max": 0.116,
+  "average": 0.116,
+  "close": 0.115,
+  "reference_price": 0.1155,
+  "change_percent": -0.43,
+  "fetchedAt": "2026-10-17T09:27:51Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

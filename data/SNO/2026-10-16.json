@@ -1,0 +1,19 @@
+{
+  "symbol": "SNO",
+  "instrument_type": "share",
+  "date": "2026-10-16",
+  "name": null,
+  "market": "REGS",
+  "trades": 3,
+  "volume": 64,
+  "value": 1614,
+  "open": 25,
+  "min": 25,
+  "max": 26,
+  "average": 25.2,
+  "close": 26,
+  "reference_price": 25,
+  "change_percent": 4,
+  "fetchedAt": "2026-10-17T09:27:47Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

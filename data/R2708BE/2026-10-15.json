@@ -1,0 +1,19 @@
+{
+  "symbol": "R2708BE",
+  "instrument_type": "bond",
+  "date": "2026-10-15",
+  "name": null,
+  "market": "EREGT",
+  "trades": 2,
+  "volume": 30,
+  "value": 16242.2,
+  "open": 100.6001,
+  "min": 100.6001,
+  "max": 100.75,
+  "average": 100.6501,
+  "close": 100.75,
+  "reference_price": 100.6,
+  "change_percent": 0.15,
+  "fetchedAt": "2026-10-17T09:27:49Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

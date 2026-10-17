@@ -1,0 +1,19 @@
+{
+  "symbol": "SNG",
+  "instrument_type": "share",
+  "date": "2026-10-13",
+  "name": null,
+  "market": "REGS",
+  "trades": 555,
+  "volume": 222875,
+  "value": 3992712.4,
+  "open": 17.74,
+  "min": 17.68,
+  "max": 18.1,
+  "average": 17.92,
+  "close": 18.06,
+  "reference_price": 17.72,
+  "change_percent": 1.92,
+  "fetchedAt": "2026-10-17T09:27:53Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

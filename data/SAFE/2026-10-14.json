@@ -1,0 +1,19 @@
+{
+  "symbol": "SAFE",
+  "instrument_type": "share",
+  "date": "2026-10-14",
+  "name": null,
+  "market": "REGS",
+  "trades": 21,
+  "volume": 42528,
+  "value": 41870.214,
+  "open": 0.98,
+  "min": 0.972,
+  "max": 0.986,
+  "average": 0.984,
+  "close": 0.986,
+  "reference_price": 0.972,
+  "change_percent": 1.44,
+  "fetchedAt": "2026-10-17T09:27:51Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "BNET31E",
+  "instrument_type": "bond",
+  "date": "2026-10-13",
+  "name": null,
+  "market": "EORDB",
+  "trades": 6,
+  "volume": 126,
+  "value": 67518.45,
+  "open": 98.5,
+  "min": 98.5,
+  "max": 98.53,
+  "average": 98.51,
+  "close": 98.53,
+  "reference_price": 98.5,
+  "change_percent": 0.03,
+  "fetchedAt": "2026-10-17T09:27:53Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

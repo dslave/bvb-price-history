@@ -1,0 +1,19 @@
+{
+  "symbol": "R2810A",
+  "instrument_type": "bond",
+  "date": "2026-10-15",
+  "name": null,
+  "market": "REGT",
+  "trades": 9,
+  "volume": 57,
+  "value": 5456.83,
+  "open": 95.02,
+  "min": 95.02,
+  "max": 101,
+  "average": 95.6439,
+  "close": 99.8,
+  "reference_price": 100,
+  "change_percent": -0.2,
+  "fetchedAt": "2026-10-17T09:27:49Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
