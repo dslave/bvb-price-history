@@ -32,7 +32,7 @@ For historical prices, configure the **Historical** source in the same provider:
 
 Wealthfolio substitutes `{SYMBOL}` with the asset ticker, for example `R2804AE`. In the asset's market data settings, select **BVB Daily Data** as its preferred provider and enable automatic updates if desired. Make sure the asset's currency is set appropriately (typically RON for BVB listings).
 
-`latest.json` remains a single current quote. `historical.json` contains a `values` array of available daily quotes for Wealthfolio's Historical source. Historical data is limited to snapshots present in this repository; BVB's direct export only allows recent backfills, while the bond history also includes previously imported dates.
+`latest.json` remains a single current quote. `historical.json` contains only the latest 30 available daily quotes for Wealthfolio's Historical source. The per-day JSON snapshots remain available as the longer archive.
 
 See Wealthfolio's [Custom Market Data Providers guide](https://wealthfolio.app/docs/guide/custom-providers/) for current provider options and field mapping.
 

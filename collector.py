@@ -26,6 +26,7 @@ EXCHSEGMENT = os.environ.get("BVB_EXCHSEGMENT", "BSE")
 DATA_DIR = Path(os.environ.get("DATA_DIR", "./data"))
 SYMBOL_FILTER = {item.strip().upper() for item in os.environ.get("SYMBOL_FILTER", "").split(",") if item.strip()}
 INSTRUMENT_TYPES = {"s": "share", "u": "fund_unit", "b": "bond"}
+HISTORY_LIMIT = 30
 try:
     from zoneinfo import ZoneInfo
     LOCAL_TZ = ZoneInfo("Europe/Bucharest")
@@ -272,7 +273,7 @@ def write_historical_series(
             "symbol": symbol,
             "instrument_type": next((r.get("instrument_type") for r in records if r.get("instrument_type")), None),
             "source": "BVB market history",
-            "values": [by_date[day] for day in sorted(by_date)],
+            "values": [by_date[day] for day in sorted(by_date)[-HISTORY_LIMIT:]],
         }
         if has_market_data_changed(history_path, document):
             atomic_json(history_path, document)
