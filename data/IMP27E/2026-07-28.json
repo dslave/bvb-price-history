@@ -1,0 +1,20 @@
+{
+  "symbol": "IMP27E",
+  "instrument_type": "bond",
+  "date": "2026-07-28",
+  "name": "IMPACT DEVELOPER & CONTRACTOR",
+  "market": "EORDB",
+  "trades": 3,
+  "volume": 30.0,
+  "value": 16452.92,
+  "open": 101.0,
+  "min": 101.0,
+  "max": 101.25,
+  "average": 101.01,
+  "close": 101.25,
+  "reference_price": 101.25,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-07-28T18:09:42Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

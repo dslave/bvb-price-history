@@ -1,0 +1,20 @@
+{
+  "symbol": "CECRO28E",
+  "instrument_type": "bond",
+  "date": "2026-03-24",
+  "name": "CEC 2028 EURO",
+  "market": "EORDB",
+  "trades": 1,
+  "volume": 10.0,
+  "value": 5148142.78,
+  "open": 100.0,
+  "min": 100.0,
+  "max": 100.0,
+  "average": 100.0,
+  "close": 100.0,
+  "reference_price": 100.0,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-03-24T17:50:50Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

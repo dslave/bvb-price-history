@@ -1,0 +1,20 @@
+{
+  "symbol": "R3606A",
+  "instrument_type": "bond",
+  "date": "2026-06-23",
+  "name": "MINISTERUL FINANTELOR",
+  "market": "POFB",
+  "trades": 823,
+  "volume": 492989.0,
+  "value": 49298900.0,
+  "open": 100.0,
+  "min": 100.0,
+  "max": 100.0,
+  "average": 100.0,
+  "close": 100.0,
+  "reference_price": 0.0,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-06-23T19:04:57Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "R3511AE",
+  "instrument_type": "bond",
+  "date": "2026-02-16",
+  "name": "MINISTERUL FINANTELOR",
+  "market": "EREGT",
+  "trades": 8,
+  "volume": 105.0,
+  "value": 55271.95,
+  "open": 101.72,
+  "min": 101.71,
+  "max": 102.1999,
+  "average": 101.7612,
+  "close": 101.7205,
+  "reference_price": 101.7,
+  "change_percent": 0.02,
+  "fetchedAt": "2026-02-16T17:32:48Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

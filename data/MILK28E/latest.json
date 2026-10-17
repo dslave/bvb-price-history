@@ -1,0 +1,20 @@
+{
+  "symbol": "MILK28E",
+  "instrument_type": "bond",
+  "date": "2026-10-16",
+  "name": "AGROSERV MARIUTA",
+  "market": "EXRB",
+  "trades": 2,
+  "volume": 14.0,
+  "value": 7816.79,
+  "open": 104.98,
+  "min": 104.98,
+  "max": 104.99,
+  "average": 104.98,
+  "close": 104.99,
+  "reference_price": 101.0,
+  "change_percent": 3.95,
+  "fetchedAt": "2026-10-16T19:46:02Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

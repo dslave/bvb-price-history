@@ -1,0 +1,20 @@
+{
+  "symbol": "PRF26E",
+  "instrument_type": "bond",
+  "date": "2026-05-05",
+  "name": "Prefera Foods",
+  "market": "EXRB",
+  "trades": 3,
+  "volume": 26.0,
+  "value": 59051.58,
+  "open": 85.23,
+  "min": 85.21,
+  "max": 85.23,
+  "average": 85.22,
+  "close": 85.21,
+  "reference_price": 88.0,
+  "change_percent": -3.17,
+  "fetchedAt": "2026-05-05T18:05:44Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

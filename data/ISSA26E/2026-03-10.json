@@ -1,0 +1,20 @@
+{
+  "symbol": "ISSA26E",
+  "instrument_type": "bond",
+  "date": "2026-03-10",
+  "name": "CRAMA LA SALINA - OB. 2026",
+  "market": "EXRB",
+  "trades": 1,
+  "volume": 1.0,
+  "value": 519.63,
+  "open": 101.89,
+  "min": 101.89,
+  "max": 101.89,
+  "average": 101.89,
+  "close": 101.89,
+  "reference_price": 102.0,
+  "change_percent": -0.11,
+  "fetchedAt": "2026-03-10T17:40:32Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

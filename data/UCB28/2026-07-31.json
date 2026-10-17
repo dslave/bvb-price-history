@@ -1,0 +1,20 @@
+{
+  "symbol": "UCB28",
+  "instrument_type": "bond",
+  "date": "2026-07-31",
+  "name": "UniCredit Bank bonds",
+  "market": "QIDB",
+  "trades": 1,
+  "volume": 50.0,
+  "value": 26847609.5,
+  "open": 101.97,
+  "min": 101.97,
+  "max": 101.97,
+  "average": 101.97,
+  "close": 101.97,
+  "reference_price": 100.0,
+  "change_percent": 1.97,
+  "fetchedAt": "2026-07-31T18:15:00Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

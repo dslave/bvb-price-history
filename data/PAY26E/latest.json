@@ -1,0 +1,20 @@
+{
+  "symbol": "PAY26E",
+  "instrument_type": "bond",
+  "date": "2026-05-11",
+  "name": "SELFPAY - Obligatiuni 2026 EUR",
+  "market": "EXRB",
+  "trades": 4,
+  "volume": 31.0,
+  "value": 16279.45,
+  "open": 99.45,
+  "min": 99.06,
+  "max": 99.5,
+  "average": 99.41,
+  "close": 99.06,
+  "reference_price": 99.45,
+  "change_percent": -0.39,
+  "fetchedAt": "2026-05-11T18:52:01Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

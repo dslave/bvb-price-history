@@ -1,0 +1,20 @@
+{
+  "symbol": "AVANT29E",
+  "instrument_type": "bond",
+  "date": "2026-05-26",
+  "name": "AVANT CREDIT Bonds 2029",
+  "market": "EPOFB",
+  "trades": 12,
+  "volume": 17861.0,
+  "value": 9371130.87,
+  "open": 100.0,
+  "min": 100.0,
+  "max": 100.0,
+  "average": 100.0,
+  "close": 100.0,
+  "reference_price": 100.0,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-05-26T19:12:51Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

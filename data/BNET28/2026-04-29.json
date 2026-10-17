@@ -1,0 +1,20 @@
+{
+  "symbol": "BNET28",
+  "instrument_type": "bond",
+  "date": "2026-04-29",
+  "name": "BITTNET SYSTEMS",
+  "market": "ORDB",
+  "trades": 10,
+  "volume": 428.0,
+  "value": 41240.21,
+  "open": 88.1,
+  "min": 88.1,
+  "max": 96.0,
+  "average": 95.05,
+  "close": 94.0,
+  "reference_price": 95.45,
+  "change_percent": -1.52,
+  "fetchedAt": "2026-04-29T18:08:16Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

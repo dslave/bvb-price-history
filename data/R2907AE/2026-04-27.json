@@ -1,0 +1,20 @@
+{
+  "symbol": "R2907AE",
+  "instrument_type": "bond",
+  "date": "2026-04-27",
+  "name": "MINISTERUL FINANTELOR",
+  "market": "EREGT",
+  "trades": 3,
+  "volume": 30.0,
+  "value": 15753.6,
+  "open": 98.9997,
+  "min": 98.9997,
+  "max": 98.9997,
+  "average": 98.9997,
+  "close": 98.9997,
+  "reference_price": 98.501,
+  "change_percent": 0.51,
+  "fetchedAt": "2026-04-27T18:01:03Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "IMPI26E",
+  "instrument_type": "bond",
+  "date": "2026-06-22",
+  "name": "IMPETUM 2026",
+  "market": "EXRB",
+  "trades": 1,
+  "volume": 1.0,
+  "value": 2910.42,
+  "open": 55.7,
+  "min": 55.7,
+  "max": 55.7,
+  "average": 55.7,
+  "close": 55.7,
+  "reference_price": 65.45,
+  "change_percent": -14.9,
+  "fetchedAt": "2026-06-22T19:59:17Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

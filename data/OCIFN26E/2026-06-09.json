@@ -1,0 +1,20 @@
+{
+  "symbol": "OCIFN26E",
+  "instrument_type": "bond",
+  "date": "2026-06-09",
+  "name": "OCEAN CREDIT IFN",
+  "market": "EXRB",
+  "trades": 5,
+  "volume": 35.0,
+  "value": 18079.94,
+  "open": 97.7,
+  "min": 97.0,
+  "max": 97.7,
+  "average": 97.34,
+  "close": 97.0,
+  "reference_price": 97.85,
+  "change_percent": -0.87,
+  "fetchedAt": "2026-06-09T19:08:41Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

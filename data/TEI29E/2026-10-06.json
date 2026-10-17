@@ -1,0 +1,20 @@
+{
+  "symbol": "TEI29E",
+  "instrument_type": "bond",
+  "date": "2026-10-06",
+  "name": "TEILOR HOLDING S.A.",
+  "market": "EXRB",
+  "trades": 1,
+  "volume": 8.0,
+  "value": 4636.72,
+  "open": 104.98,
+  "min": 104.98,
+  "max": 104.98,
+  "average": 104.98,
+  "close": 104.98,
+  "reference_price": 104.9,
+  "change_percent": 0.08,
+  "fetchedAt": "2026-10-06T21:24:06Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "PMB32",
+  "instrument_type": "bond",
+  "date": "2026-09-28",
+  "name": "OBLIGATIUNI MUN. BUCURESTI 2032",
+  "market": "ORDB",
+  "trades": 1,
+  "volume": 1.0,
+  "value": 10019.35,
+  "open": 96.9,
+  "min": 96.9,
+  "max": 96.9,
+  "average": 96.9,
+  "close": 96.9,
+  "reference_price": 97.5,
+  "change_percent": -0.62,
+  "fetchedAt": "2026-09-28T22:21:41Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "R3508AE",
+  "instrument_type": "bond",
+  "date": "2026-09-15",
+  "name": "MINISTERUL FINANTELOR",
+  "market": "EREGT",
+  "trades": 11,
+  "volume": 242.0,
+  "value": 129289.4,
+  "open": 101.0998,
+  "min": 100.85,
+  "max": 101.0998,
+  "average": 101.0121,
+  "close": 101.0987,
+  "reference_price": 101.1,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-09-15T19:56:00Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

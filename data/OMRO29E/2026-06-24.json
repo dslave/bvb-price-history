@@ -1,0 +1,20 @@
+{
+  "symbol": "OMRO29E",
+  "instrument_type": "bond",
+  "date": "2026-06-24",
+  "name": "OMRO IFN S.A. - Obligatiuni EUR 2029",
+  "market": "EXRB",
+  "trades": 3,
+  "volume": 69.0,
+  "value": 38109.0,
+  "open": 102.5,
+  "min": 101.0,
+  "max": 102.5,
+  "average": 101.05,
+  "close": 101.0,
+  "reference_price": 102.5,
+  "change_percent": -1.46,
+  "fetchedAt": "2026-06-24T18:28:13Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

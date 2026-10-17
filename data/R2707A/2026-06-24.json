@@ -1,0 +1,20 @@
+{
+  "symbol": "R2707A",
+  "instrument_type": "bond",
+  "date": "2026-06-24",
+  "name": "MINISTERUL FINANTELOR",
+  "market": "REGT",
+  "trades": 6,
+  "volume": 205.0,
+  "value": 20400.5,
+  "open": 99.7501,
+  "min": 99.4823,
+  "max": 99.7501,
+  "average": 99.6455,
+  "close": 99.4823,
+  "reference_price": 99.9097,
+  "change_percent": -0.43,
+  "fetchedAt": "2026-06-24T18:28:13Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

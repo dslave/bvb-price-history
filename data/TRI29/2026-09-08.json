@@ -1,0 +1,20 @@
+{
+  "symbol": "TRI29",
+  "instrument_type": "bond",
+  "date": "2026-09-08",
+  "name": "TRICOMSERV S.A.",
+  "market": "XRB",
+  "trades": 1,
+  "volume": 1.0,
+  "value": 17.29,
+  "open": 17.11,
+  "min": 17.11,
+  "max": 17.11,
+  "average": 17.11,
+  "close": 17.11,
+  "reference_price": 14.88,
+  "change_percent": 14.99,
+  "fetchedAt": "2026-09-08T19:41:02Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

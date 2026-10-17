@@ -1,0 +1,20 @@
+{
+  "symbol": "LIBRA32E",
+  "instrument_type": "bond",
+  "date": "2026-05-05",
+  "name": "LIBRA INTERNET BANK BONDS EUR 2032",
+  "market": "EORDB",
+  "trades": 4,
+  "volume": 47.0,
+  "value": 119452.25,
+  "open": 96.01,
+  "min": 96.01,
+  "max": 96.01,
+  "average": 96.01,
+  "close": 96.01,
+  "reference_price": 96.01,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-05-05T18:05:44Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

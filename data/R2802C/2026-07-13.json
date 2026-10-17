@@ -1,0 +1,20 @@
+{
+  "symbol": "R2802C",
+  "instrument_type": "bond",
+  "date": "2026-07-13",
+  "name": "MINISTERUL FINANTELOR",
+  "market": "REGT",
+  "trades": 13,
+  "volume": 2460.0,
+  "value": 246511.35,
+  "open": 97.75,
+  "min": 97.701,
+  "max": 97.75,
+  "average": 97.7279,
+  "close": 97.75,
+  "reference_price": 97.75,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-07-13T18:26:22Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

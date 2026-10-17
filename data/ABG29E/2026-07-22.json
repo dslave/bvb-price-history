@@ -1,0 +1,20 @@
+{
+  "symbol": "ABG29E",
+  "instrument_type": "bond",
+  "date": "2026-07-22",
+  "name": "ALPHA BUILDERS GROUP BONDS 2029",
+  "market": "EXRB",
+  "trades": 2,
+  "volume": 11.0,
+  "value": 5816.09,
+  "open": 100.2,
+  "min": 100.2,
+  "max": 100.2,
+  "average": 100.2,
+  "close": 100.2,
+  "reference_price": 100.07,
+  "change_percent": 0.13,
+  "fetchedAt": "2026-07-22T18:03:35Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

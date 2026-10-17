@@ -1,0 +1,20 @@
+{
+  "symbol": "BNET31E",
+  "instrument_type": "bond",
+  "date": "2026-09-11",
+  "name": "BITTNET SYSTEMS",
+  "market": "EORDB",
+  "trades": 9,
+  "volume": 191.0,
+  "value": 100088.23,
+  "open": 98.8,
+  "min": 98.5,
+  "max": 98.89,
+  "average": 98.74,
+  "close": 98.89,
+  "reference_price": 98.5,
+  "change_percent": 0.4,
+  "fetchedAt": "2026-09-11T19:21:52Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

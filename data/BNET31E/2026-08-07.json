@@ -1,0 +1,20 @@
+{
+  "symbol": "BNET31E",
+  "instrument_type": "bond",
+  "date": "2026-08-07",
+  "name": "BITTNET SYSTEMS",
+  "market": "EPOFB",
+  "trades": 477,
+  "volume": 77230.0,
+  "value": 38528001.22,
+  "open": 95.0,
+  "min": 95.0,
+  "max": 95.0,
+  "average": 95.0,
+  "close": 95.0,
+  "reference_price": 0.0,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-08-07T17:41:08Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

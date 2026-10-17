@@ -1,0 +1,20 @@
+{
+  "symbol": "NRF29",
+  "instrument_type": "bond",
+  "date": "2026-02-24",
+  "name": "Obligatiuni NOROFERT 2029",
+  "market": "XRB",
+  "trades": 2,
+  "volume": 48.0,
+  "value": 4799.57,
+  "open": 98.13,
+  "min": 98.13,
+  "max": 98.13,
+  "average": 98.13,
+  "close": 98.13,
+  "reference_price": 99.15,
+  "change_percent": -1.03,
+  "fetchedAt": "2026-02-24T17:52:18Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

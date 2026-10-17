@@ -1,0 +1,20 @@
+{
+  "symbol": "BNET27A",
+  "instrument_type": "bond",
+  "date": "2026-03-30",
+  "name": "BITTNET SYSTEMS- Ob. 2027",
+  "market": "ORDB",
+  "trades": 2,
+  "volume": 26.0,
+  "value": 2604.01,
+  "open": 100.4,
+  "min": 100.0,
+  "max": 100.4,
+  "average": 100.02,
+  "close": 100.0,
+  "reference_price": 100.49,
+  "change_percent": -0.49,
+  "fetchedAt": "2026-03-30T17:45:34Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

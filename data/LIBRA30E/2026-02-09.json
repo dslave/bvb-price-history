@@ -1,0 +1,20 @@
+{
+  "symbol": "LIBRA30E",
+  "instrument_type": "bond",
+  "date": "2026-02-09",
+  "name": "LIBRA INTERNET BANK BONDS EUR 2030",
+  "market": "EXRB",
+  "trades": 1,
+  "volume": 6.0,
+  "value": 15258.62,
+  "open": 97.99,
+  "min": 97.99,
+  "max": 97.99,
+  "average": 97.99,
+  "close": 97.99,
+  "reference_price": 98.0,
+  "change_percent": -0.01,
+  "fetchedAt": "2026-02-09T17:44:27Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

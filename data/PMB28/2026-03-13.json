@@ -1,0 +1,20 @@
+{
+  "symbol": "PMB28",
+  "instrument_type": "bond",
+  "date": "2026-03-13",
+  "name": "OBLIGATIUNI MUNICIPIUL BUCURESTI (2028)",
+  "market": "ORDB",
+  "trades": 1,
+  "volume": 1.0,
+  "value": 9528.23,
+  "open": 90.25,
+  "min": 90.25,
+  "max": 90.25,
+  "average": 90.25,
+  "close": 90.25,
+  "reference_price": 99.99,
+  "change_percent": -9.74,
+  "fetchedAt": "2026-03-13T17:28:49Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

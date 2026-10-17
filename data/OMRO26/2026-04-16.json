@@ -1,0 +1,20 @@
+{
+  "symbol": "OMRO26",
+  "instrument_type": "bond",
+  "date": "2026-04-16",
+  "name": "OMRO IFN 2026",
+  "market": "XRB",
+  "trades": 4,
+  "volume": 124.0,
+  "value": 11419.04,
+  "open": 90.02,
+  "min": 90.02,
+  "max": 90.07,
+  "average": 90.06,
+  "close": 90.06,
+  "reference_price": 97.89,
+  "change_percent": -8.0,
+  "fetchedAt": "2026-04-16T18:03:19Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

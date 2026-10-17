@@ -1,0 +1,20 @@
+{
+  "symbol": "OMRO32",
+  "instrument_type": "bond",
+  "date": "2026-02-13",
+  "name": "OMRO IFN S.A.",
+  "market": "XRB",
+  "trades": 3,
+  "volume": 45.0,
+  "value": 4517.5,
+  "open": 106.0,
+  "min": 100.5,
+  "max": 106.0,
+  "average": 100.62,
+  "close": 100.5,
+  "reference_price": 106.0,
+  "change_percent": -5.19,
+  "fetchedAt": "2026-02-13T17:35:17Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

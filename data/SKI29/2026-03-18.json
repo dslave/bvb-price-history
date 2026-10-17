@@ -1,0 +1,20 @@
+{
+  "symbol": "SKI29",
+  "instrument_type": "bond",
+  "date": "2026-03-18",
+  "name": "SKI SURIANU - 2029",
+  "market": "XRB",
+  "trades": 1,
+  "volume": 50.0,
+  "value": 4551.39,
+  "open": 90.5,
+  "min": 90.5,
+  "max": 90.5,
+  "average": 90.5,
+  "close": 90.5,
+  "reference_price": 98.49,
+  "change_percent": -8.11,
+  "fetchedAt": "2026-03-18T17:54:37Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

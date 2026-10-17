@@ -1,0 +1,20 @@
+{
+  "symbol": "ANS26E",
+  "instrument_type": "bond",
+  "date": "2026-03-16",
+  "name": "Ansett Logistics Obligatiuni Euro 2026",
+  "market": "EXRB",
+  "trades": 2,
+  "volume": 39.0,
+  "value": 20145.31,
+  "open": 100.3,
+  "min": 100.3,
+  "max": 100.3,
+  "average": 100.3,
+  "close": 100.3,
+  "reference_price": 100.49,
+  "change_percent": -0.19,
+  "fetchedAt": "2026-03-16T17:55:02Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

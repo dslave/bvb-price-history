@@ -1,0 +1,20 @@
+{
+  "symbol": "HUE26",
+  "instrument_type": "bond",
+  "date": "2026-05-07",
+  "name": "CJ HUNEDOARA",
+  "market": "ORDB",
+  "trades": 1,
+  "volume": 7.0,
+  "value": 24.4,
+  "open": 101.0,
+  "min": 101.0,
+  "max": 101.0,
+  "average": 101.0,
+  "close": 101.0,
+  "reference_price": 99.07,
+  "change_percent": 1.95,
+  "fetchedAt": "2026-05-07T18:17:46Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

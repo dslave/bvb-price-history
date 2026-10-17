@@ -1,0 +1,20 @@
+{
+  "symbol": "OCIFN31E",
+  "instrument_type": "bond",
+  "date": "2026-06-17",
+  "name": "OCEAN CREDIT IFN BONDS 31",
+  "market": "EPOFB",
+  "trades": 12,
+  "volume": 20000.0,
+  "value": 10462000.0,
+  "open": 100.0,
+  "min": 100.0,
+  "max": 100.0,
+  "average": 100.0,
+  "close": 100.0,
+  "reference_price": 100.0,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-06-17T19:19:04Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

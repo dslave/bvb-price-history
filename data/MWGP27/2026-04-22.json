@@ -1,0 +1,20 @@
+{
+  "symbol": "MWGP27",
+  "instrument_type": "bond",
+  "date": "2026-04-22",
+  "name": "MW Green Power Export - Obligatiuni 2027",
+  "market": "XRB",
+  "trades": 1,
+  "volume": 1.0,
+  "value": 19.54,
+  "open": 17.0,
+  "min": 17.0,
+  "max": 17.0,
+  "average": 17.0,
+  "close": 17.0,
+  "reference_price": 19.99,
+  "change_percent": -14.96,
+  "fetchedAt": "2026-04-22T17:54:17Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

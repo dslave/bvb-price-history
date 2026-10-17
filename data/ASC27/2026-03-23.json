@@ -1,0 +1,20 @@
+{
+  "symbol": "ASC27",
+  "instrument_type": "bond",
+  "date": "2026-03-23",
+  "name": "OB. ASCENDIA - 2027",
+  "market": "XRB",
+  "trades": 3,
+  "volume": 119.0,
+  "value": 12119.49,
+  "open": 101.2,
+  "min": 101.2,
+  "max": 101.29,
+  "average": 101.21,
+  "close": 101.29,
+  "reference_price": 100.8,
+  "change_percent": 0.49,
+  "fetchedAt": "2026-03-23T17:44:52Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

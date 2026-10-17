@@ -1,0 +1,20 @@
+{
+  "symbol": "ORV27",
+  "instrument_type": "bond",
+  "date": "2026-10-08",
+  "name": "PRIMARIA ORASULUI ORAVITA",
+  "market": "ORDB",
+  "trades": 1,
+  "volume": 1.0,
+  "value": 11.08,
+  "open": 102.0,
+  "min": 102.0,
+  "max": 102.0,
+  "average": 102.0,
+  "close": 102.0,
+  "reference_price": 96.11,
+  "change_percent": 6.13,
+  "fetchedAt": "2026-10-08T21:40:19Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

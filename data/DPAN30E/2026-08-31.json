@@ -1,0 +1,20 @@
+{
+  "symbol": "DPAN30E",
+  "instrument_type": "bond",
+  "date": "2026-08-31",
+  "name": "DERPAN S.A",
+  "market": "EXRB",
+  "trades": 1,
+  "volume": 3.0,
+  "value": 1612.38,
+  "open": 102.0,
+  "min": 102.0,
+  "max": 102.0,
+  "average": 102.0,
+  "close": 102.0,
+  "reference_price": 103.0,
+  "change_percent": -0.97,
+  "fetchedAt": "2026-08-31T21:42:11Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

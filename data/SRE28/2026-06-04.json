@@ -1,0 +1,20 @@
+{
+  "symbol": "SRE28",
+  "instrument_type": "bond",
+  "date": "2026-06-04",
+  "name": "PRIMARIA ORASULUI SIRET",
+  "market": "ORDB",
+  "trades": 2,
+  "volume": 11.0,
+  "value": 156.36,
+  "open": 95.49,
+  "min": 95.31,
+  "max": 95.49,
+  "average": 95.44,
+  "close": 95.31,
+  "reference_price": 99.24,
+  "change_percent": -3.96,
+  "fetchedAt": "2026-06-04T19:14:26Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

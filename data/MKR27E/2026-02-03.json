@@ -1,0 +1,20 @@
+{
+  "symbol": "MKR27E",
+  "instrument_type": "bond",
+  "date": "2026-02-03",
+  "name": "MK KREDIT IFN S.A.",
+  "market": "EXRB",
+  "trades": 1,
+  "volume": 1.0,
+  "value": 542.05,
+  "open": 105.19,
+  "min": 105.19,
+  "max": 105.19,
+  "average": 105.19,
+  "close": 105.19,
+  "reference_price": 103.0,
+  "change_percent": 2.13,
+  "fetchedAt": "2026-02-09T07:32:52Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

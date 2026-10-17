@@ -1,0 +1,20 @@
+{
+  "symbol": "R2808AE",
+  "instrument_type": "bond",
+  "date": "2026-02-23",
+  "name": "MINISTERUL FINANTELOR",
+  "market": "EDLST",
+  "trades": 1,
+  "volume": 5000.0,
+  "value": 2716650.0,
+  "open": 103.5,
+  "min": 103.5,
+  "max": 103.5,
+  "average": 103.5,
+  "close": 103.5,
+  "reference_price": 102.5,
+  "change_percent": 0.98,
+  "fetchedAt": "2026-02-23T17:56:08Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

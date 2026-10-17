@@ -1,0 +1,20 @@
+{
+  "symbol": "AAB26",
+  "instrument_type": "bond",
+  "date": "2026-03-06",
+  "name": "AGROLAND AGRIBUSINESS - 2026",
+  "market": "XRB",
+  "trades": 5,
+  "volume": 48.0,
+  "value": 4828.22,
+  "open": 99.7,
+  "min": 99.7,
+  "max": 99.7,
+  "average": 99.7,
+  "close": 99.7,
+  "reference_price": 99.99,
+  "change_percent": -0.29,
+  "fetchedAt": "2026-03-06T17:28:48Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

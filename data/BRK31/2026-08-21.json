@@ -1,0 +1,20 @@
+{
+  "symbol": "BRK31",
+  "instrument_type": "bond",
+  "date": "2026-08-21",
+  "name": "SSIF BRK FINANCIAL GROUP - Ob. 2031",
+  "market": "POFB",
+  "trades": 19,
+  "volume": 100000.0,
+  "value": 9893295.0,
+  "open": 100.0,
+  "min": 98.0,
+  "max": 100.0,
+  "average": 99.0,
+  "close": 98.0,
+  "reference_price": 0.0,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-08-21T17:20:23Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

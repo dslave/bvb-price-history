@@ -1,0 +1,20 @@
+{
+  "symbol": "SBET29",
+  "instrument_type": "bond",
+  "date": "2026-06-08",
+  "name": "Stanleybet Capital",
+  "market": "XRB",
+  "trades": 5,
+  "volume": 504.0,
+  "value": 48569.67,
+  "open": 92.0,
+  "min": 90.06,
+  "max": 93.0,
+  "average": 92.84,
+  "close": 93.0,
+  "reference_price": 92.0,
+  "change_percent": 1.09,
+  "fetchedAt": "2026-06-08T19:15:45Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

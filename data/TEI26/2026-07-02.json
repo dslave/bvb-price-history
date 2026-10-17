@@ -1,0 +1,20 @@
+{
+  "symbol": "TEI26",
+  "instrument_type": "bond",
+  "date": "2026-07-02",
+  "name": "Teilor Holding S.A. - obligatiuni 2026",
+  "market": "XRB",
+  "trades": 1,
+  "volume": 19.0,
+  "value": 1897.26,
+  "open": 99.11,
+  "min": 99.11,
+  "max": 99.11,
+  "average": 99.11,
+  "close": 99.11,
+  "reference_price": 99.8,
+  "change_percent": -0.69,
+  "fetchedAt": "2026-07-02T18:22:49Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

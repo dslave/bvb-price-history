@@ -1,0 +1,20 @@
+{
+  "symbol": "ELF26",
+  "instrument_type": "bond",
+  "date": "2026-02-16",
+  "name": "ELEFANT ONLINE",
+  "market": "XRB",
+  "trades": 2,
+  "volume": 17.0,
+  "value": 67.77,
+  "open": 1.68,
+  "min": 1.68,
+  "max": 1.93,
+  "average": 1.92,
+  "close": 1.93,
+  "reference_price": 1.68,
+  "change_percent": 14.88,
+  "fetchedAt": "2026-02-16T17:32:48Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

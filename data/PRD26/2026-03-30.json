@@ -1,0 +1,20 @@
+{
+  "symbol": "PRD26",
+  "instrument_type": "bond",
+  "date": "2026-03-30",
+  "name": "ORASUL PREDEAL",
+  "market": "ORDB",
+  "trades": 1,
+  "volume": 2.0,
+  "value": 11.08,
+  "open": 107.9,
+  "min": 107.9,
+  "max": 107.9,
+  "average": 107.9,
+  "close": 107.9,
+  "reference_price": 99.52,
+  "change_percent": 8.42,
+  "fetchedAt": "2026-03-30T17:45:34Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

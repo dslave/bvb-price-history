@@ -1,0 +1,20 @@
+{
+  "symbol": "PBK28E",
+  "instrument_type": "bond",
+  "date": "2026-07-17",
+  "name": "Patria Bank Obligatiuni 2028 EUR",
+  "market": "EORDB",
+  "trades": 2,
+  "volume": 4.0,
+  "value": 10578.51,
+  "open": 99.0,
+  "min": 98.98,
+  "max": 99.0,
+  "average": 98.99,
+  "close": 98.98,
+  "reference_price": 99.0,
+  "change_percent": -0.02,
+  "fetchedAt": "2026-07-17T17:57:34Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

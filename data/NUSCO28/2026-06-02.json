@@ -1,0 +1,20 @@
+{
+  "symbol": "NUSCO28",
+  "instrument_type": "bond",
+  "date": "2026-06-02",
+  "name": "NUSCO IMOBILIARA",
+  "market": "XRB",
+  "trades": 2,
+  "volume": 31.0,
+  "value": 3118.29,
+  "open": 99.86,
+  "min": 99.86,
+  "max": 99.87,
+  "average": 99.86,
+  "close": 99.87,
+  "reference_price": 87.31,
+  "change_percent": 14.39,
+  "fetchedAt": "2026-06-02T19:58:59Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

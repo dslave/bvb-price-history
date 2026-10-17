@@ -1,0 +1,20 @@
+{
+  "symbol": "IMP26E",
+  "instrument_type": "bond",
+  "date": "2026-10-09",
+  "name": "IMPACT DEVELOPER & CONTRACTOR 2026 EUR",
+  "market": "EORDB",
+  "trades": 2,
+  "volume": 16.0,
+  "value": 43497.32,
+  "open": 99.74,
+  "min": 99.74,
+  "max": 99.74,
+  "average": 99.74,
+  "close": 99.74,
+  "reference_price": 99.25,
+  "change_percent": 0.49,
+  "fetchedAt": "2026-10-09T21:24:23Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

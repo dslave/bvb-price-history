@@ -1,0 +1,20 @@
+{
+  "symbol": "AGR28",
+  "instrument_type": "bond",
+  "date": "2026-05-06",
+  "name": "Agroland Business System Bonds 2028",
+  "market": "XRB",
+  "trades": 1,
+  "volume": 20.0,
+  "value": 2034.23,
+  "open": 100.75,
+  "min": 100.75,
+  "max": 100.75,
+  "average": 100.75,
+  "close": 100.75,
+  "reference_price": 100.77,
+  "change_percent": -0.02,
+  "fetchedAt": "2026-05-06T18:10:46Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "CJC33E",
+  "instrument_type": "bond",
+  "date": "2026-09-09",
+  "name": "JUDETUL CLUJ",
+  "market": "EORDB",
+  "trades": 2,
+  "volume": 31.0,
+  "value": 17310.37,
+  "open": 104.99,
+  "min": 104.99,
+  "max": 105.0,
+  "average": 105.0,
+  "close": 105.0,
+  "reference_price": 100.0,
+  "change_percent": 5.0,
+  "fetchedAt": "2026-09-09T19:33:56Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

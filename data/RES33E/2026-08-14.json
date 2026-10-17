@@ -1,0 +1,20 @@
+{
+  "symbol": "RES33E",
+  "instrument_type": "bond",
+  "date": "2026-08-14",
+  "name": "Municipiul Resita",
+  "market": "EORDB",
+  "trades": 1,
+  "volume": 44.0,
+  "value": 22004.35,
+  "open": 94.0,
+  "min": 94.0,
+  "max": 94.0,
+  "average": 94.0,
+  "close": 94.0,
+  "reference_price": 94.66,
+  "change_percent": -0.7,
+  "fetchedAt": "2026-08-14T17:44:53Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

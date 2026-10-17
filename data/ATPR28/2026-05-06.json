@@ -1,0 +1,20 @@
+{
+  "symbol": "ATPR28",
+  "instrument_type": "bond",
+  "date": "2026-05-06",
+  "name": "ARTPRINT - 2028",
+  "market": "XRB",
+  "trades": 4,
+  "volume": 56.0,
+  "value": 5379.66,
+  "open": 87.5,
+  "min": 87.5,
+  "max": 93.0,
+  "average": 91.66,
+  "close": 90.01,
+  "reference_price": 93.93,
+  "change_percent": -4.17,
+  "fetchedAt": "2026-05-06T18:10:46Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

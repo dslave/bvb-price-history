@@ -1,0 +1,20 @@
+{
+  "symbol": "HUE26B",
+  "instrument_type": "bond",
+  "date": "2026-04-20",
+  "name": "CONSILIUL JUDETEAN HUNEDOARA",
+  "market": "ORDB",
+  "trades": 1,
+  "volume": 5.0,
+  "value": 16.89,
+  "open": 98.17,
+  "min": 98.17,
+  "max": 98.17,
+  "average": 98.17,
+  "close": 98.17,
+  "reference_price": 100.44,
+  "change_percent": -2.26,
+  "fetchedAt": "2026-04-20T17:52:02Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "R3112A",
+  "instrument_type": "bond",
+  "date": "2026-08-10",
+  "name": "MINISTERUL FINANTELOR",
+  "market": "REGT",
+  "trades": 7,
+  "volume": 111.0,
+  "value": 11634.7,
+  "open": 99.9999,
+  "min": 99.612,
+  "max": 100.0,
+  "average": 99.9275,
+  "close": 99.6333,
+  "reference_price": 100.0,
+  "change_percent": -0.37,
+  "fetchedAt": "2026-08-10T17:43:49Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

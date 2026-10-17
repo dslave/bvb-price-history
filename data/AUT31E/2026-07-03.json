@@ -1,0 +1,20 @@
+{
+  "symbol": "AUT31E",
+  "instrument_type": "bond",
+  "date": "2026-07-03",
+  "name": "Obligatiuni Autonom Services 2031",
+  "market": "EPOFB",
+  "trades": 10,
+  "volume": 300.0,
+  "value": 157077000.0,
+  "open": 100.0,
+  "min": 100.0,
+  "max": 100.0,
+  "average": 100.0,
+  "close": 100.0,
+  "reference_price": 100.0,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-07-03T18:07:50Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

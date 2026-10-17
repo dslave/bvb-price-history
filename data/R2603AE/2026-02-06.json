@@ -1,0 +1,20 @@
+{
+  "symbol": "R2603AE",
+  "instrument_type": "bond",
+  "date": "2026-02-06",
+  "name": "MINISTERUL FINANTELOR",
+  "market": "EREGT",
+  "trades": 17,
+  "volume": 721.0,
+  "value": 370231.32,
+  "open": 99.41,
+  "min": 99.4,
+  "max": 99.77,
+  "average": 99.4232,
+  "close": 99.4,
+  "reference_price": 99.41,
+  "change_percent": -0.01,
+  "fetchedAt": "2026-02-09T07:33:01Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "JOBS26E",
+  "instrument_type": "bond",
+  "date": "2026-04-22",
+  "name": "BESTJOBS RECRUTARE - Obligatiuni 2026 EUR",
+  "market": "EXRB",
+  "trades": 6,
+  "volume": 24.0,
+  "value": 41902.38,
+  "open": 65.0,
+  "min": 65.0,
+  "max": 67.0,
+  "average": 66.02,
+  "close": 66.7,
+  "reference_price": 66.0,
+  "change_percent": 1.06,
+  "fetchedAt": "2026-04-22T17:54:17Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

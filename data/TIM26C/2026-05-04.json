@@ -1,0 +1,20 @@
+{
+  "symbol": "TIM26C",
+  "instrument_type": "bond",
+  "date": "2026-05-04",
+  "name": "MUNICIPIUL TIMISOARA",
+  "market": "ORDB",
+  "trades": 2,
+  "volume": 260.0,
+  "value": 938.73,
+  "open": 104.9,
+  "min": 104.9,
+  "max": 104.9,
+  "average": 104.9,
+  "close": 104.9,
+  "reference_price": 104.99,
+  "change_percent": -0.09,
+  "fetchedAt": "2026-05-04T18:10:08Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

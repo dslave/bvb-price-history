@@ -1,0 +1,20 @@
+{
+  "symbol": "LIH28",
+  "instrument_type": "bond",
+  "date": "2026-06-22",
+  "name": "Life Is Hard Bonds 2028",
+  "market": "XRB",
+  "trades": 5,
+  "volume": 160.0,
+  "value": 14927.1,
+  "open": 91.43,
+  "min": 91.43,
+  "max": 91.5,
+  "average": 91.46,
+  "close": 91.5,
+  "reference_price": 90.99,
+  "change_percent": 0.56,
+  "fetchedAt": "2026-06-22T19:59:17Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

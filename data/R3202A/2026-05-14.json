@@ -1,0 +1,20 @@
+{
+  "symbol": "R3202A",
+  "instrument_type": "bond",
+  "date": "2026-05-14",
+  "name": "MINISTERUL FINANTELOR",
+  "market": "REGT",
+  "trades": 4,
+  "volume": 64.0,
+  "value": 6340.8,
+  "open": 97.35,
+  "min": 97.29,
+  "max": 97.35,
+  "average": 97.305,
+  "close": 97.29,
+  "reference_price": 97.35,
+  "change_percent": -0.06,
+  "fetchedAt": "2026-05-14T18:29:59Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "BNET28A",
+  "instrument_type": "bond",
+  "date": "2026-09-23",
+  "name": "BITTNET SYSTEMS Bonds 2028A",
+  "market": "ORDB",
+  "trades": 3,
+  "volume": 180.0,
+  "value": 17467.72,
+  "open": 95.71,
+  "min": 95.2,
+  "max": 95.71,
+  "average": 95.37,
+  "close": 95.2,
+  "reference_price": 95.97,
+  "change_percent": -0.8,
+  "fetchedAt": "2026-09-23T19:55:08Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "PBK27E",
+  "instrument_type": "bond",
+  "date": "2026-08-04",
+  "name": "Patria Bank Obligatiuni 2027",
+  "market": "EORDB",
+  "trades": 11,
+  "volume": 149.0,
+  "value": 399006.73,
+  "open": 99.6,
+  "min": 99.34,
+  "max": 100.0,
+  "average": 99.6,
+  "close": 99.34,
+  "reference_price": 99.31,
+  "change_percent": 0.03,
+  "fetchedAt": "2026-08-04T18:23:02Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

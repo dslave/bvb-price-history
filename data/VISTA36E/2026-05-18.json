@@ -1,0 +1,20 @@
+{
+  "symbol": "VISTA36E",
+  "instrument_type": "bond",
+  "date": "2026-05-18",
+  "name": "Vista Bank Bonds 2036",
+  "market": "EORDB",
+  "trades": 1,
+  "volume": 2.0,
+  "value": 1051161.62,
+  "open": 100.0,
+  "min": 100.0,
+  "max": 100.0,
+  "average": 100.0,
+  "close": 100.0,
+  "reference_price": 100.0,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-05-18T18:26:53Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

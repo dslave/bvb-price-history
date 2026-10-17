@@ -1,0 +1,20 @@
+{
+  "symbol": "BRK26",
+  "instrument_type": "bond",
+  "date": "2026-06-17",
+  "name": "SSIF BRK FINANCIAL GROUP - Ob. 2026",
+  "market": "ORDB",
+  "trades": 9,
+  "volume": 550.0,
+  "value": 54412.11,
+  "open": 98.5,
+  "min": 98.21,
+  "max": 98.5,
+  "average": 98.32,
+  "close": 98.4,
+  "reference_price": 99.08,
+  "change_percent": -0.69,
+  "fetchedAt": "2026-06-17T19:19:04Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

@@ -1,0 +1,20 @@
+{
+  "symbol": "R3108A",
+  "instrument_type": "bond",
+  "date": "2026-03-19",
+  "name": "MINISTERUL FINANTELOR",
+  "market": "REGT",
+  "trades": 5,
+  "volume": 136.0,
+  "value": 14574.91,
+  "open": 102.67,
+  "min": 102.0,
+  "max": 103.2,
+  "average": 102.3677,
+  "close": 103.2,
+  "reference_price": 103.4,
+  "change_percent": -0.19,
+  "fetchedAt": "2026-03-19T17:48:46Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

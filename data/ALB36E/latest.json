@@ -1,0 +1,20 @@
+{
+  "symbol": "ALB36E",
+  "instrument_type": "bond",
+  "date": "2026-09-28",
+  "name": "PRIMARIA MUNICIPIULUI ALBA IULIA - Ob. 2036",
+  "market": "EPOFY",
+  "trades": 4,
+  "volume": 300000.0,
+  "value": 158154000.0,
+  "open": 2.5,
+  "min": 2.5,
+  "max": 2.5,
+  "average": 2.5,
+  "close": 2.5,
+  "reference_price": 0.0,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-09-28T22:21:41Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}

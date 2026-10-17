@@ -1,0 +1,20 @@
+{
+  "symbol": "RGMT28E",
+  "instrument_type": "bond",
+  "date": "2026-09-15",
+  "name": "RAGMET RAFFINERIA S.A - Ob. 2028",
+  "market": "EPOFY",
+  "trades": 43,
+  "volume": 25059.0,
+  "value": 13172764.53,
+  "open": 11.0,
+  "min": 11.0,
+  "max": 11.0,
+  "average": 11.0,
+  "close": 11.0,
+  "reference_price": 0.0,
+  "change_percent": 0.0,
+  "fetchedAt": "2026-09-15T19:56:00Z",
+  "source": "BVB",
+  "importedFrom": "https://github.com/florinc7474/ro-bond-history"
+}
