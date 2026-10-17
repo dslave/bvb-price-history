@@ -42,13 +42,53 @@ jobs:
           BACKFILL_DAYS: ${{ github.event_name == 'schedule' && '7' || inputs.backfill_days }}
         run: python collector.py --backfill "$BACKFILL_DAYS"
 
-      - name: Commit new or updated JSON files
+      - name: Stage data changes
         run: |
           if find data -type f -name '*.json' -print -quit 2>/dev/null | grep -q .; then
             git add -A -- data/
           fi
+
+      - name: Ignore fetchedAt-only changes
+        run: |
+          python - <<'PY'
+          import json
+          import subprocess
+
+          paths = subprocess.check_output(
+              ["git", "diff", "--cached", "--name-only", "--", "data"], text=True
+          ).splitlines()
+
+          for path in paths:
+              if not path.endswith(".json"):
+                  continue
+
+              previous = subprocess.run(
+                  ["git", "show", f"HEAD:{path}"], capture_output=True, text=True
+              )
+              staged = subprocess.run(
+                  ["git", "show", f":{path}"], capture_output=True, text=True
+              )
+              # New and deleted files are real changes and remain staged.
+              if previous.returncode or staged.returncode:
+                  continue
+
+              try:
+                  before = json.loads(previous.stdout)
+                  after = json.loads(staged.stdout)
+              except json.JSONDecodeError:
+                  continue
+
+              before.pop("fetchedAt", None)
+              after.pop("fetchedAt", None)
+              if before == after:
+                  subprocess.run(["git", "reset", "-q", "HEAD", "--", path], check=True)
+                  print(f"Ignoring fetchedAt-only change: {path}")
+          PY
+
+      - name: Commit new or updated JSON files
+        run: |
           if git diff --cached --quiet; then
-            echo "No data changes to commit."
+            echo "No data changes apart from fetchedAt; nothing to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
