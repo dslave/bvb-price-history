@@ -1,0 +1,63 @@
+{
+  "symbol": "ARM",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-13",
+      "close": 0.262,
+      "open": 0.234,
+      "average": 0.238,
+      "trades": 4,
+      "volume": 5500,
+      "value": 1308.392,
+      "reference_price": 0.234,
+      "change_percent": 11.97,
+      "market": "REGS",
+      "high": 0.262,
+      "low": 0.234
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.262,
+      "open": 0.262,
+      "average": 0.262,
+      "trades": 4,
+      "volume": 475,
+      "value": 124.45,
+      "reference_price": 0.262,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.262,
+      "low": 0.262
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.262,
+      "open": 0.262,
+      "average": 0.262,
+      "trades": 3,
+      "volume": 1030,
+      "value": 269.86,
+      "reference_price": 0.262,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.262,
+      "low": 0.262
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.258,
+      "open": 0.258,
+      "average": 0.25,
+      "trades": 9,
+      "volume": 3986,
+      "value": 993.528,
+      "reference_price": 0.262,
+      "change_percent": -1.53,
+      "market": "REGS",
+      "high": 0.258,
+      "low": 0.224
+    }
+  ]
+}

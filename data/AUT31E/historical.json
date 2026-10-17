@@ -1,0 +1,21 @@
+{
+  "symbol": "AUT31E",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-07-03",
+      "close": 100.0,
+      "open": 100.0,
+      "average": 100.0,
+      "trades": 10,
+      "volume": 300.0,
+      "value": 157077000.0,
+      "reference_price": 100.0,
+      "change_percent": 0.0,
+      "market": "EPOFB",
+      "high": 100.0,
+      "low": 100.0
+    }
+  ]
+}

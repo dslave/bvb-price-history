@@ -1,0 +1,77 @@
+{
+  "symbol": "AROBS",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.74,
+      "open": 0.74,
+      "average": 0.746,
+      "trades": 40,
+      "volume": 181637,
+      "value": 135602.254,
+      "reference_price": 0.746,
+      "change_percent": -0.8,
+      "market": "REGS",
+      "high": 0.75,
+      "low": 0.738
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.734,
+      "open": 0.74,
+      "average": 0.742,
+      "trades": 34,
+      "volume": 97151,
+      "value": 72126.228,
+      "reference_price": 0.74,
+      "change_percent": -0.81,
+      "market": "REGS",
+      "high": 0.744,
+      "low": 0.732
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.73,
+      "open": 0.738,
+      "average": 0.732,
+      "trades": 39,
+      "volume": 132931,
+      "value": 97229.488,
+      "reference_price": 0.734,
+      "change_percent": -0.54,
+      "market": "REGS",
+      "high": 0.738,
+      "low": 0.728
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.73,
+      "open": 0.73,
+      "average": 0.732,
+      "trades": 45,
+      "volume": 507559,
+      "value": 371575.638,
+      "reference_price": 0.73,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.74,
+      "low": 0.728
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.736,
+      "open": 0.74,
+      "average": 0.73,
+      "trades": 62,
+      "volume": 1330760,
+      "value": 971313.41,
+      "reference_price": 0.73,
+      "change_percent": 0.82,
+      "market": "REGS",
+      "high": 0.74,
+      "low": 0.726
+    }
+  ]
+}

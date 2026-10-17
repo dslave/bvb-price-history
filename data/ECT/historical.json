@@ -1,0 +1,35 @@
+{
+  "symbol": "ECT",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-15",
+      "close": 0.071,
+      "open": 0.071,
+      "average": 0.071,
+      "trades": 2,
+      "volume": 128,
+      "value": 9.088,
+      "reference_price": 0.069,
+      "change_percent": 2.9,
+      "market": "REGS",
+      "high": 0.071,
+      "low": 0.071
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.071,
+      "open": 0.071,
+      "average": 0.071,
+      "trades": 1,
+      "volume": 12,
+      "value": 0.852,
+      "reference_price": 0.071,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.071,
+      "low": 0.071
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "symbol": "TRANSI",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.68,
+      "open": 0.688,
+      "average": 0.686,
+      "trades": 20,
+      "volume": 21812,
+      "value": 14971.768,
+      "reference_price": 0.688,
+      "change_percent": -1.16,
+      "market": "REGS",
+      "high": 0.688,
+      "low": 0.68
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.688,
+      "open": 0.68,
+      "average": 0.684,
+      "trades": 16,
+      "volume": 279202,
+      "value": 190950.992,
+      "reference_price": 0.68,
+      "change_percent": 1.18,
+      "market": "REGS",
+      "high": 0.688,
+      "low": 0.68
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.68,
+      "open": 0.688,
+      "average": 0.684,
+      "trades": 25,
+      "volume": 38100,
+      "value": 26038.542,
+      "reference_price": 0.688,
+      "change_percent": -1.16,
+      "market": "REGS",
+      "high": 0.688,
+      "low": 0.68
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.69,
+      "open": 0.68,
+      "average": 0.688,
+      "trades": 45,
+      "volume": 422719,
+      "value": 290469.666,
+      "reference_price": 0.68,
+      "change_percent": 1.47,
+      "market": "REGS",
+      "high": 0.698,
+      "low": 0.68
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.69,
+      "open": 0.69,
+      "average": 0.688,
+      "trades": 23,
+      "volume": 159276,
+      "value": 109593.076,
+      "reference_price": 0.69,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.69,
+      "low": 0.676
+    }
+  ]
+}

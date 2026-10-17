@@ -1,0 +1,77 @@
+{
+  "symbol": "SFG",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 32.8,
+      "open": 32.6,
+      "average": 32.6,
+      "trades": 28,
+      "volume": 2149,
+      "value": 69996.4,
+      "reference_price": 32.5,
+      "change_percent": 0.92,
+      "market": "REGS",
+      "high": 32.8,
+      "low": 32.5
+    },
+    {
+      "date": "2026-10-13",
+      "close": 33,
+      "open": 32.8,
+      "average": 32.9,
+      "trades": 16,
+      "volume": 1384,
+      "value": 45469,
+      "reference_price": 32.8,
+      "change_percent": 0.61,
+      "market": "REGS",
+      "high": 33,
+      "low": 32.8
+    },
+    {
+      "date": "2026-10-14",
+      "close": 33,
+      "open": 33,
+      "average": 32.8,
+      "trades": 28,
+      "volume": 13274,
+      "value": 436043.3,
+      "reference_price": 33,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 33,
+      "low": 32.5
+    },
+    {
+      "date": "2026-10-15",
+      "close": 33.3,
+      "open": 33,
+      "average": 32.8,
+      "trades": 67,
+      "volume": 8708,
+      "value": 285860.8,
+      "reference_price": 33,
+      "change_percent": 0.91,
+      "market": "REGS",
+      "high": 33.3,
+      "low": 32.6
+    },
+    {
+      "date": "2026-10-16",
+      "close": 33,
+      "open": 33,
+      "average": 33.2,
+      "trades": 60,
+      "volume": 14588,
+      "value": 484934.9,
+      "reference_price": 33.3,
+      "change_percent": -0.9,
+      "market": "REGS",
+      "high": 33.8,
+      "low": 33
+    }
+  ]
+}

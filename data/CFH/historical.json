@@ -1,0 +1,77 @@
+{
+  "symbol": "CFH",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 49.5,
+      "open": 49.5,
+      "average": 49.35,
+      "trades": 115,
+      "volume": 5200,
+      "value": 256679.3,
+      "reference_price": 49.6,
+      "change_percent": -0.2,
+      "market": "REGS",
+      "high": 49.7,
+      "low": 49
+    },
+    {
+      "date": "2026-10-13",
+      "close": 50.8,
+      "open": 49,
+      "average": 49.95,
+      "trades": 135,
+      "volume": 15157,
+      "value": 757194.55,
+      "reference_price": 49.5,
+      "change_percent": 2.63,
+      "market": "REGS",
+      "high": 50.9,
+      "low": 49
+    },
+    {
+      "date": "2026-10-14",
+      "close": 49.95,
+      "open": 51,
+      "average": 50,
+      "trades": 279,
+      "volume": 80528,
+      "value": 4024477.6,
+      "reference_price": 50.8,
+      "change_percent": -1.67,
+      "market": "REGS",
+      "high": 51.5,
+      "low": 48.95
+    },
+    {
+      "date": "2026-10-15",
+      "close": 50.2,
+      "open": 49.9,
+      "average": 50,
+      "trades": 203,
+      "volume": 24965,
+      "value": 1249335.9,
+      "reference_price": 49.95,
+      "change_percent": 0.5,
+      "market": "REGS",
+      "high": 50.8,
+      "low": 49.1
+    },
+    {
+      "date": "2026-10-16",
+      "close": 50.3,
+      "open": 50.4,
+      "average": 50.1,
+      "trades": 181,
+      "volume": 14868,
+      "value": 745439.65,
+      "reference_price": 50.2,
+      "change_percent": 0.2,
+      "market": "REGS",
+      "high": 51.2,
+      "low": 49.6
+    }
+  ]
+}

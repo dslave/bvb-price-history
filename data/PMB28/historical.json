@@ -1,0 +1,63 @@
+{
+  "symbol": "PMB28",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-03-12",
+      "close": 99.99,
+      "open": 99.99,
+      "average": 99.99,
+      "trades": 1,
+      "volume": 1.0,
+      "value": 10500.7,
+      "reference_price": 96.0,
+      "change_percent": 4.16,
+      "market": "ORDB",
+      "high": 99.99,
+      "low": 99.99
+    },
+    {
+      "date": "2026-03-13",
+      "close": 90.25,
+      "open": 90.25,
+      "average": 90.25,
+      "trades": 1,
+      "volume": 1.0,
+      "value": 9528.23,
+      "reference_price": 99.99,
+      "change_percent": -9.74,
+      "market": "ORDB",
+      "high": 90.25,
+      "low": 90.25
+    },
+    {
+      "date": "2026-09-07",
+      "close": 97.6,
+      "open": 96.7,
+      "average": 97.59,
+      "trades": 2,
+      "volume": 101.0,
+      "value": 1007209.29,
+      "reference_price": 97.0,
+      "change_percent": 0.62,
+      "market": "ORDB",
+      "high": 97.6,
+      "low": 96.7
+    },
+    {
+      "date": "2026-09-08",
+      "close": 97.6,
+      "open": 97.6,
+      "average": 97.6,
+      "trades": 2,
+      "volume": 89.0,
+      "value": 887756.71,
+      "reference_price": 97.6,
+      "change_percent": 0.0,
+      "market": "ORDB",
+      "high": 97.6,
+      "low": 97.6
+    }
+  ]
+}

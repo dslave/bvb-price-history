@@ -1,0 +1,63 @@
+{
+  "symbol": "SOCP",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 1.81,
+      "open": 1.81,
+      "average": 1.81,
+      "trades": 8,
+      "volume": 1314,
+      "value": 2378.99,
+      "reference_price": 1.81,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 1.82,
+      "low": 1.81
+    },
+    {
+      "date": "2026-10-14",
+      "close": 1.75,
+      "open": 1.81,
+      "average": 1.81,
+      "trades": 5,
+      "volume": 2741,
+      "value": 4964.92,
+      "reference_price": 1.81,
+      "change_percent": -3.31,
+      "market": "REGS",
+      "high": 1.82,
+      "low": 1.75
+    },
+    {
+      "date": "2026-10-15",
+      "close": 1.82,
+      "open": 1.78,
+      "average": 1.8,
+      "trades": 12,
+      "volume": 6578,
+      "value": 11837.35,
+      "reference_price": 1.75,
+      "change_percent": 4,
+      "market": "REGS",
+      "high": 1.82,
+      "low": 1.76
+    },
+    {
+      "date": "2026-10-16",
+      "close": 1.88,
+      "open": 1.82,
+      "average": 1.85,
+      "trades": 13,
+      "volume": 2811,
+      "value": 5212.21,
+      "reference_price": 1.82,
+      "change_percent": 3.3,
+      "market": "REGS",
+      "high": 1.89,
+      "low": 1.82
+    }
+  ]
+}

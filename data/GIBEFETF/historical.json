@@ -1,0 +1,77 @@
+{
+  "symbol": "GIBEFETF",
+  "instrument_type": "fund_unit",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 20.815,
+      "open": 20.845,
+      "average": 20.87,
+      "trades": 22,
+      "volume": 2440,
+      "value": 50926.22,
+      "reference_price": 20.78,
+      "change_percent": 0.17,
+      "market": "REGS",
+      "high": 20.9,
+      "low": 20.72
+    },
+    {
+      "date": "2026-10-13",
+      "close": 20.925,
+      "open": 20.81,
+      "average": 20.795,
+      "trades": 19,
+      "volume": 2629,
+      "value": 54670.38,
+      "reference_price": 20.815,
+      "change_percent": 0.53,
+      "market": "REGS",
+      "high": 20.925,
+      "low": 20.6
+    },
+    {
+      "date": "2026-10-14",
+      "close": 20.76,
+      "open": 20.925,
+      "average": 20.98,
+      "trades": 10,
+      "volume": 312,
+      "value": 6545.855,
+      "reference_price": 20.925,
+      "change_percent": -0.79,
+      "market": "REGS",
+      "high": 21.05,
+      "low": 20.76
+    },
+    {
+      "date": "2026-10-15",
+      "close": 21.495,
+      "open": 21.17,
+      "average": 21.555,
+      "trades": 24,
+      "volume": 1571,
+      "value": 33865.15,
+      "reference_price": 20.76,
+      "change_percent": 3.54,
+      "market": "REGS",
+      "high": 21.63,
+      "low": 21.17
+    },
+    {
+      "date": "2026-10-16",
+      "close": 21.695,
+      "open": 21.52,
+      "average": 21.745,
+      "trades": 23,
+      "volume": 1947,
+      "value": 42339.99,
+      "reference_price": 21.495,
+      "change_percent": 0.93,
+      "market": "REGS",
+      "high": 21.8,
+      "low": 21.52
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "symbol": "UAM",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-13",
+      "close": 0.3,
+      "open": 0.344,
+      "average": 0.32,
+      "trades": 12,
+      "volume": 24950,
+      "value": 7958.64,
+      "reference_price": 0.344,
+      "change_percent": -12.79,
+      "market": "REGS",
+      "high": 0.344,
+      "low": 0.3
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.304,
+      "open": 0.34,
+      "average": 0.34,
+      "trades": 5,
+      "volume": 710,
+      "value": 241.04,
+      "reference_price": 0.3,
+      "change_percent": 1.33,
+      "market": "REGS",
+      "high": 0.34,
+      "low": 0.304
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.3,
+      "open": 0.304,
+      "average": 0.302,
+      "trades": 7,
+      "volume": 4593,
+      "value": 1386.04,
+      "reference_price": 0.304,
+      "change_percent": -1.32,
+      "market": "REGS",
+      "high": 0.304,
+      "low": 0.3
+    }
+  ]
+}

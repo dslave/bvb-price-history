@@ -1,0 +1,49 @@
+{
+  "symbol": "R2810A",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 100,
+      "open": 100,
+      "average": 100,
+      "trades": 1744,
+      "volume": 1254776,
+      "value": 125477600,
+      "reference_price": 0,
+      "change_percent": 0,
+      "market": "POFB",
+      "high": 100,
+      "low": 100
+    },
+    {
+      "date": "2026-10-15",
+      "close": 99.8,
+      "open": 95.02,
+      "average": 95.6439,
+      "trades": 9,
+      "volume": 57,
+      "value": 5456.83,
+      "reference_price": 100,
+      "change_percent": -0.2,
+      "market": "REGT",
+      "high": 101,
+      "low": 95.02
+    },
+    {
+      "date": "2026-10-16",
+      "close": 100.5,
+      "open": 100.9999,
+      "average": 99.8143,
+      "trades": 5,
+      "volume": 119,
+      "value": 11890.99,
+      "reference_price": 99.8,
+      "change_percent": 0.7,
+      "market": "REGT",
+      "high": 100.9999,
+      "low": 99.76
+    }
+  ]
+}

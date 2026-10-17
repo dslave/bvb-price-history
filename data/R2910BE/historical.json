@@ -1,0 +1,49 @@
+{
+  "symbol": "R2910BE",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 100,
+      "open": 100,
+      "average": 100,
+      "trades": 1060,
+      "volume": 87596,
+      "value": 46788527.44,
+      "reference_price": 0,
+      "change_percent": 0,
+      "market": "EPOFB",
+      "high": 100,
+      "low": 100
+    },
+    {
+      "date": "2026-10-15",
+      "close": 100.2,
+      "open": 100.2,
+      "average": 100.2,
+      "trades": 2,
+      "volume": 17,
+      "value": 9102.31,
+      "reference_price": 100,
+      "change_percent": 0.2,
+      "market": "EREGT",
+      "high": 100.2,
+      "low": 100.2
+    },
+    {
+      "date": "2026-10-16",
+      "close": 100.5,
+      "open": 100.5,
+      "average": 100.5,
+      "trades": 3,
+      "volume": 99,
+      "value": 53148.15,
+      "reference_price": 100.2,
+      "change_percent": 0.3,
+      "market": "EREGT",
+      "high": 100.5,
+      "low": 100.5
+    }
+  ]
+}

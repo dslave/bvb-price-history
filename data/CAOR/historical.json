@@ -1,0 +1,21 @@
+{
+  "symbol": "CAOR",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-16",
+      "close": 1.6,
+      "open": 1.64,
+      "average": 1.62,
+      "trades": 8,
+      "volume": 2000,
+      "value": 3239.41,
+      "reference_price": 1.84,
+      "change_percent": -13.04,
+      "market": "REGS",
+      "high": 1.64,
+      "low": 1.6
+    }
+  ]
+}

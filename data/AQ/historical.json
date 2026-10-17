@@ -1,0 +1,77 @@
+{
+  "symbol": "AQ",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 1.585,
+      "open": 1.59,
+      "average": 1.585,
+      "trades": 35,
+      "volume": 25086,
+      "value": 39810.84,
+      "reference_price": 1.59,
+      "change_percent": -0.31,
+      "market": "REGS",
+      "high": 1.595,
+      "low": 1.585
+    },
+    {
+      "date": "2026-10-13",
+      "close": 1.58,
+      "open": 1.58,
+      "average": 1.585,
+      "trades": 43,
+      "volume": 97671,
+      "value": 154647.835,
+      "reference_price": 1.585,
+      "change_percent": -0.32,
+      "market": "REGS",
+      "high": 1.585,
+      "low": 1.57
+    },
+    {
+      "date": "2026-10-14",
+      "close": 1.615,
+      "open": 1.615,
+      "average": 1.59,
+      "trades": 39,
+      "volume": 390141,
+      "value": 620996.24,
+      "reference_price": 1.58,
+      "change_percent": 2.22,
+      "market": "REGS",
+      "high": 1.62,
+      "low": 1.58
+    },
+    {
+      "date": "2026-10-15",
+      "close": 1.63,
+      "open": 1.625,
+      "average": 1.625,
+      "trades": 30,
+      "volume": 31057,
+      "value": 50458.66,
+      "reference_price": 1.615,
+      "change_percent": 0.93,
+      "market": "REGS",
+      "high": 1.635,
+      "low": 1.615
+    },
+    {
+      "date": "2026-10-16",
+      "close": 1.625,
+      "open": 1.63,
+      "average": 1.62,
+      "trades": 50,
+      "volume": 152571,
+      "value": 246942.135,
+      "reference_price": 1.63,
+      "change_percent": -0.31,
+      "market": "REGS",
+      "high": 1.635,
+      "low": 1.61
+    }
+  ]
+}

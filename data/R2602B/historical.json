@@ -1,0 +1,77 @@
+{
+  "symbol": "R2602B",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-02-02",
+      "close": 100.15,
+      "open": 100.153,
+      "average": 100.1503,
+      "trades": 7,
+      "volume": 276.0,
+      "value": 29744.76,
+      "reference_price": 100.001,
+      "change_percent": 0.15,
+      "market": "REGT",
+      "high": 100.153,
+      "low": 100.15
+    },
+    {
+      "date": "2026-02-03",
+      "close": 100.0,
+      "open": 100.0001,
+      "average": 100.0142,
+      "trades": 15,
+      "volume": 318.0,
+      "value": 34237.2,
+      "reference_price": 100.15,
+      "change_percent": -0.15,
+      "market": "REGT",
+      "high": 100.1,
+      "low": 100.0
+    },
+    {
+      "date": "2026-02-04",
+      "close": 99.9006,
+      "open": 99.9006,
+      "average": 99.9006,
+      "trades": 3,
+      "volume": 70.0,
+      "value": 7529.9,
+      "reference_price": 100.0,
+      "change_percent": -0.1,
+      "market": "REGT",
+      "high": 99.9006,
+      "low": 99.9006
+    },
+    {
+      "date": "2026-02-05",
+      "close": 99.89,
+      "open": 99.9006,
+      "average": 99.964,
+      "trades": 8,
+      "volume": 1578.0,
+      "value": 169941.03,
+      "reference_price": 99.9006,
+      "change_percent": -0.01,
+      "market": "REGT",
+      "high": 100.0,
+      "low": 99.8101
+    },
+    {
+      "date": "2026-02-06",
+      "close": 99.9499,
+      "open": 99.95,
+      "average": 99.95,
+      "trades": 4,
+      "volume": 197.0,
+      "value": 21216.9,
+      "reference_price": 99.89,
+      "change_percent": 0.06,
+      "market": "REGT",
+      "high": 99.95,
+      "low": 99.9499
+    }
+  ]
+}

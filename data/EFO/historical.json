@@ -1,0 +1,77 @@
+{
+  "symbol": "EFO",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.95,
+      "open": 0.95,
+      "average": 0.93,
+      "trades": 10,
+      "volume": 22061,
+      "value": 20542.7,
+      "reference_price": 0.92,
+      "change_percent": 3.26,
+      "market": "REGS",
+      "high": 0.95,
+      "low": 0.92
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.94,
+      "open": 0.945,
+      "average": 0.905,
+      "trades": 15,
+      "volume": 47843,
+      "value": 43247.43,
+      "reference_price": 0.95,
+      "change_percent": -1.05,
+      "market": "REGS",
+      "high": 0.945,
+      "low": 0.845
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.89,
+      "open": 0.93,
+      "average": 0.925,
+      "trades": 4,
+      "volume": 132,
+      "value": 122.28,
+      "reference_price": 0.94,
+      "change_percent": -5.32,
+      "market": "REGS",
+      "high": 0.93,
+      "low": 0.89
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.925,
+      "open": 0.9,
+      "average": 0.91,
+      "trades": 7,
+      "volume": 1995,
+      "value": 1816.9,
+      "reference_price": 0.89,
+      "change_percent": 3.93,
+      "market": "REGS",
+      "high": 0.925,
+      "low": 0.89
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.925,
+      "open": 0.925,
+      "average": 0.92,
+      "trades": 3,
+      "volume": 2159,
+      "value": 1991.095,
+      "reference_price": 0.925,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.925,
+      "low": 0.905
+    }
+  ]
+}

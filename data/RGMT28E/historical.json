@@ -1,0 +1,21 @@
+{
+  "symbol": "RGMT28E",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-09-15",
+      "close": 11.0,
+      "open": 11.0,
+      "average": 11.0,
+      "trades": 43,
+      "volume": 25059.0,
+      "value": 13172764.53,
+      "reference_price": 0.0,
+      "change_percent": 0.0,
+      "market": "EPOFY",
+      "high": 11.0,
+      "low": 11.0
+    }
+  ]
+}

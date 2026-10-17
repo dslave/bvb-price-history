@@ -1,0 +1,77 @@
+{
+  "symbol": "ICWIGETF",
+  "instrument_type": "fund_unit",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 62.25,
+      "open": 70,
+      "average": 62.3,
+      "trades": 491,
+      "volume": 35290,
+      "value": 2198688.81,
+      "reference_price": 61.12,
+      "change_percent": 1.85,
+      "market": "REGS",
+      "high": 70,
+      "low": 62
+    },
+    {
+      "date": "2026-10-13",
+      "close": 62.7,
+      "open": 68.8,
+      "average": 62.88,
+      "trades": 680,
+      "volume": 68761,
+      "value": 4323627.44,
+      "reference_price": 62.25,
+      "change_percent": 0.72,
+      "market": "REGS",
+      "high": 68.8,
+      "low": 62.4
+    },
+    {
+      "date": "2026-10-14",
+      "close": 62.68,
+      "open": 64.3,
+      "average": 62.66,
+      "trades": 354,
+      "volume": 26147,
+      "value": 1638273.27,
+      "reference_price": 62.55,
+      "change_percent": 0.21,
+      "market": "REGS",
+      "high": 64.3,
+      "low": 62.31
+    },
+    {
+      "date": "2026-10-15",
+      "close": 62.6,
+      "open": 62.79,
+      "average": 62.36,
+      "trades": 269,
+      "volume": 13633,
+      "value": 850172.45,
+      "reference_price": 62.65,
+      "change_percent": -0.08,
+      "market": "REGS",
+      "high": 62.79,
+      "low": 61.81
+    },
+    {
+      "date": "2026-10-16",
+      "close": 63.1,
+      "open": 62.55,
+      "average": 63.06,
+      "trades": 166,
+      "volume": 12451,
+      "value": 785158.6,
+      "reference_price": 62.45,
+      "change_percent": 1.04,
+      "market": "REGS",
+      "high": 63.4,
+      "low": 62.55
+    }
+  ]
+}

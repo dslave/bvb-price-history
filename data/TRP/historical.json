@@ -1,0 +1,77 @@
+{
+  "symbol": "TRP",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.3895,
+      "open": 0.3965,
+      "average": 0.3905,
+      "trades": 66,
+      "volume": 119021,
+      "value": 46474.1805,
+      "reference_price": 0.3915,
+      "change_percent": -0.51,
+      "market": "REGS",
+      "high": 0.3965,
+      "low": 0.389
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.395,
+      "open": 0.3895,
+      "average": 0.392,
+      "trades": 57,
+      "volume": 889609,
+      "value": 348625.173,
+      "reference_price": 0.3895,
+      "change_percent": 1.41,
+      "market": "REGS",
+      "high": 0.395,
+      "low": 0.389
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.396,
+      "open": 0.3965,
+      "average": 0.3945,
+      "trades": 50,
+      "volume": 198456,
+      "value": 78295.7255,
+      "reference_price": 0.395,
+      "change_percent": 0.25,
+      "market": "REGS",
+      "high": 0.3965,
+      "low": 0.3915
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.405,
+      "open": 0.396,
+      "average": 0.4015,
+      "trades": 147,
+      "volume": 3364648,
+      "value": 1350417.969,
+      "reference_price": 0.396,
+      "change_percent": 2.27,
+      "market": "REGS",
+      "high": 0.408,
+      "low": 0.393
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.401,
+      "open": 0.408,
+      "average": 0.4035,
+      "trades": 68,
+      "volume": 982167,
+      "value": 396205.657,
+      "reference_price": 0.405,
+      "change_percent": -0.99,
+      "market": "REGS",
+      "high": 0.408,
+      "low": 0.401
+    }
+  ]
+}

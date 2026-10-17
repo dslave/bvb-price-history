@@ -1,0 +1,63 @@
+{
+  "symbol": "BUCV",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-13",
+      "close": 1.19,
+      "open": 1.19,
+      "average": 1.19,
+      "trades": 1,
+      "volume": 2,
+      "value": 2.38,
+      "reference_price": 1.18,
+      "change_percent": 0.85,
+      "market": "REGS",
+      "high": 1.19,
+      "low": 1.19
+    },
+    {
+      "date": "2026-10-14",
+      "close": 1.12,
+      "open": 1.12,
+      "average": 1.12,
+      "trades": 1,
+      "volume": 2,
+      "value": 2.24,
+      "reference_price": 1.19,
+      "change_percent": -5.88,
+      "market": "REGS",
+      "high": 1.12,
+      "low": 1.12
+    },
+    {
+      "date": "2026-10-15",
+      "close": 1.17,
+      "open": 1.17,
+      "average": 1.17,
+      "trades": 1,
+      "volume": 50,
+      "value": 58.5,
+      "reference_price": 1.12,
+      "change_percent": 4.46,
+      "market": "REGS",
+      "high": 1.17,
+      "low": 1.17
+    },
+    {
+      "date": "2026-10-16",
+      "close": 1.13,
+      "open": 1.13,
+      "average": 1.13,
+      "trades": 2,
+      "volume": 1260,
+      "value": 1423.8,
+      "reference_price": 1.17,
+      "change_percent": -3.42,
+      "market": "REGS",
+      "high": 1.13,
+      "low": 1.13
+    }
+  ]
+}

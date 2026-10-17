@@ -1,0 +1,63 @@
+{
+  "symbol": "BCM",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-13",
+      "close": 0.129,
+      "open": 0.126,
+      "average": 0.126,
+      "trades": 5,
+      "volume": 120012,
+      "value": 15121.548,
+      "reference_price": 0.125,
+      "change_percent": 3.2,
+      "market": "REGS",
+      "high": 0.129,
+      "low": 0.126
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.129,
+      "open": 0.129,
+      "average": 0.129,
+      "trades": 1,
+      "volume": 40,
+      "value": 5.16,
+      "reference_price": 0.129,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.129,
+      "low": 0.129
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.13,
+      "open": 0.129,
+      "average": 0.129,
+      "trades": 7,
+      "volume": 28200,
+      "value": 3631.726,
+      "reference_price": 0.129,
+      "change_percent": 0.78,
+      "market": "REGS",
+      "high": 0.13,
+      "low": 0.126
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.13,
+      "open": 0.13,
+      "average": 0.13,
+      "trades": 1,
+      "volume": 4,
+      "value": 0.52,
+      "reference_price": 0.13,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.13,
+      "low": 0.13
+    }
+  ]
+}

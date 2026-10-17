@@ -1,0 +1,77 @@
+{
+  "symbol": "ROC1",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.616,
+      "open": 0.588,
+      "average": 0.598,
+      "trades": 12,
+      "volume": 29545,
+      "value": 17679.772,
+      "reference_price": 0.55,
+      "change_percent": 12,
+      "market": "REGS",
+      "high": 0.62,
+      "low": 0.57
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.612,
+      "open": 0.616,
+      "average": 0.592,
+      "trades": 4,
+      "volume": 176,
+      "value": 104.212,
+      "reference_price": 0.616,
+      "change_percent": -0.65,
+      "market": "REGS",
+      "high": 0.616,
+      "low": 0.564
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.626,
+      "open": 0.612,
+      "average": 0.602,
+      "trades": 27,
+      "volume": 215933,
+      "value": 129830.914,
+      "reference_price": 0.612,
+      "change_percent": 2.29,
+      "market": "REGS",
+      "high": 0.634,
+      "low": 0.59
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.62,
+      "open": 0.624,
+      "average": 0.582,
+      "trades": 8,
+      "volume": 51275,
+      "value": 29881.92,
+      "reference_price": 0.626,
+      "change_percent": -0.96,
+      "market": "REGS",
+      "high": 0.624,
+      "low": 0.58
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.602,
+      "open": 0.616,
+      "average": 0.576,
+      "trades": 13,
+      "volume": 56116,
+      "value": 32366.886,
+      "reference_price": 0.62,
+      "change_percent": -2.9,
+      "market": "REGS",
+      "high": 0.618,
+      "low": 0.574
+    }
+  ]
+}

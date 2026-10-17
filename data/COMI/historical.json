@@ -1,0 +1,77 @@
+{
+  "symbol": "COMI",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.0094,
+      "open": 0.0094,
+      "average": 0.0094,
+      "trades": 8,
+      "volume": 25904,
+      "value": 243.4976,
+      "reference_price": 0.0094,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.0094,
+      "low": 0.0094
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.0096,
+      "open": 0.0094,
+      "average": 0.0094,
+      "trades": 3,
+      "volume": 61966,
+      "value": 583.5904,
+      "reference_price": 0.0094,
+      "change_percent": 2.13,
+      "market": "REGS",
+      "high": 0.0096,
+      "low": 0.0094
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.009,
+      "open": 0.0096,
+      "average": 0.009,
+      "trades": 6,
+      "volume": 268145,
+      "value": 2414.445,
+      "reference_price": 0.0096,
+      "change_percent": -6.25,
+      "market": "REGS",
+      "high": 0.0096,
+      "low": 0.009
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.0094,
+      "open": 0.0096,
+      "average": 0.0094,
+      "trades": 6,
+      "volume": 64204,
+      "value": 606.2224,
+      "reference_price": 0.009,
+      "change_percent": 4.44,
+      "market": "REGS",
+      "high": 0.0096,
+      "low": 0.0094
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.0096,
+      "open": 0.0094,
+      "average": 0.0096,
+      "trades": 3,
+      "volume": 145027,
+      "value": 1382.3952,
+      "reference_price": 0.0094,
+      "change_percent": 2.13,
+      "market": "REGS",
+      "high": 0.0096,
+      "low": 0.0094
+    }
+  ]
+}

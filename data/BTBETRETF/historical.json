@@ -1,0 +1,77 @@
+{
+  "symbol": "BTBETRETF",
+  "instrument_type": "fund_unit",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 11.68,
+      "open": 11.68,
+      "average": 11.67,
+      "trades": 551,
+      "volume": 120413,
+      "value": 1405298.5,
+      "reference_price": 11.684,
+      "change_percent": -0.03,
+      "market": "REGS",
+      "high": 11.73,
+      "low": 11.6
+    },
+    {
+      "date": "2026-10-13",
+      "close": 11.718,
+      "open": 11.68,
+      "average": 11.678,
+      "trades": 388,
+      "volume": 119505,
+      "value": 1395645.564,
+      "reference_price": 11.68,
+      "change_percent": 0.33,
+      "market": "REGS",
+      "high": 11.72,
+      "low": 11.57
+    },
+    {
+      "date": "2026-10-14",
+      "close": 11.83,
+      "open": 11.728,
+      "average": 11.736,
+      "trades": 421,
+      "volume": 173705,
+      "value": 2038663.952,
+      "reference_price": 11.718,
+      "change_percent": 0.96,
+      "market": "REGS",
+      "high": 11.83,
+      "low": 11.69
+    },
+    {
+      "date": "2026-10-15",
+      "close": 12.04,
+      "open": 11.89,
+      "average": 11.96,
+      "trades": 637,
+      "volume": 343032,
+      "value": 4102449.238,
+      "reference_price": 11.83,
+      "change_percent": 1.78,
+      "market": "REGS",
+      "high": 12.042,
+      "low": 11.86
+    },
+    {
+      "date": "2026-10-16",
+      "close": 12.128,
+      "open": 12.04,
+      "average": 12.112,
+      "trades": 617,
+      "volume": 110626,
+      "value": 1339896.468,
+      "reference_price": 12.04,
+      "change_percent": 0.73,
+      "market": "REGS",
+      "high": 12.172,
+      "low": 12.04
+    }
+  ]
+}

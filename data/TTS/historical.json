@@ -1,0 +1,77 @@
+{
+  "symbol": "TTS",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 7.22,
+      "open": 7.4,
+      "average": 7.26,
+      "trades": 41,
+      "volume": 22504,
+      "value": 163195.76,
+      "reference_price": 7.34,
+      "change_percent": -1.63,
+      "market": "REGS",
+      "high": 7.4,
+      "low": 7.22
+    },
+    {
+      "date": "2026-10-13",
+      "close": 7.26,
+      "open": 7.24,
+      "average": 7.24,
+      "trades": 26,
+      "volume": 12473,
+      "value": 90413.02,
+      "reference_price": 7.22,
+      "change_percent": 0.55,
+      "market": "REGS",
+      "high": 7.28,
+      "low": 7.24
+    },
+    {
+      "date": "2026-10-14",
+      "close": 7.26,
+      "open": 7.26,
+      "average": 7.32,
+      "trades": 53,
+      "volume": 48438,
+      "value": 354544.82,
+      "reference_price": 7.26,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 7.38,
+      "low": 7.24
+    },
+    {
+      "date": "2026-10-15",
+      "close": 7.32,
+      "open": 7.2,
+      "average": 7.36,
+      "trades": 49,
+      "volume": 76405,
+      "value": 561832.84,
+      "reference_price": 7.26,
+      "change_percent": 0.83,
+      "market": "REGS",
+      "high": 7.38,
+      "low": 7.18
+    },
+    {
+      "date": "2026-10-16",
+      "close": 7.36,
+      "open": 7.34,
+      "average": 7.32,
+      "trades": 43,
+      "volume": 8373,
+      "value": 61289.52,
+      "reference_price": 7.32,
+      "change_percent": 0.55,
+      "market": "REGS",
+      "high": 7.36,
+      "low": 7.28
+    }
+  ]
+}

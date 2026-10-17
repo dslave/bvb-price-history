@@ -1,0 +1,77 @@
+{
+  "symbol": "CMP",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.658,
+      "open": 0.64,
+      "average": 0.644,
+      "trades": 5,
+      "volume": 7130,
+      "value": 4598.42,
+      "reference_price": 0.658,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.658,
+      "low": 0.634
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.65,
+      "open": 0.65,
+      "average": 0.65,
+      "trades": 4,
+      "volume": 5859,
+      "value": 3808.35,
+      "reference_price": 0.658,
+      "change_percent": -1.22,
+      "market": "REGS",
+      "high": 0.65,
+      "low": 0.65
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.654,
+      "open": 0.654,
+      "average": 0.654,
+      "trades": 1,
+      "volume": 1,
+      "value": 0.654,
+      "reference_price": 0.65,
+      "change_percent": 0.62,
+      "market": "REGS",
+      "high": 0.654,
+      "low": 0.654
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.66,
+      "open": 0.65,
+      "average": 0.652,
+      "trades": 7,
+      "volume": 16000,
+      "value": 10439.166,
+      "reference_price": 0.654,
+      "change_percent": 0.92,
+      "market": "REGS",
+      "high": 0.664,
+      "low": 0.65
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.67,
+      "open": 0.66,
+      "average": 0.66,
+      "trades": 18,
+      "volume": 254495,
+      "value": 167989.89,
+      "reference_price": 0.66,
+      "change_percent": 1.52,
+      "market": "REGS",
+      "high": 0.676,
+      "low": 0.66
+    }
+  ]
+}

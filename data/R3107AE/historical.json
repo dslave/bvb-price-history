@@ -1,0 +1,91 @@
+{
+  "symbol": "R3107AE",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-07-13",
+      "close": 100.0,
+      "open": 100.0,
+      "average": 100.0,
+      "trades": 612,
+      "volume": 110880.0,
+      "value": 58031265.6,
+      "reference_price": 0.0,
+      "change_percent": 0.0,
+      "market": "EPOFB",
+      "high": 100.0,
+      "low": 100.0
+    },
+    {
+      "date": "2026-08-28",
+      "close": 96.1221,
+      "open": 96.1221,
+      "average": 96.1221,
+      "trades": 4,
+      "volume": 20.0,
+      "value": 10175.8,
+      "reference_price": 96.0,
+      "change_percent": 0.13,
+      "market": "EREGT",
+      "high": 96.1221,
+      "low": 96.1221
+    },
+    {
+      "date": "2026-09-16",
+      "close": 99.75,
+      "open": 99.75,
+      "average": 99.75,
+      "trades": 4,
+      "volume": 25.0,
+      "value": 13238.0,
+      "reference_price": 96.1221,
+      "change_percent": 3.77,
+      "market": "EREGT",
+      "high": 99.75,
+      "low": 99.75
+    },
+    {
+      "date": "2026-09-17",
+      "close": 96.13,
+      "open": 96.1301,
+      "average": 96.13,
+      "trades": 4,
+      "volume": 20.0,
+      "value": 10213.6,
+      "reference_price": 99.75,
+      "change_percent": -3.63,
+      "market": "EREGT",
+      "high": 96.1301,
+      "low": 96.13
+    },
+    {
+      "date": "2026-09-29",
+      "close": 98.0,
+      "open": 98.0,
+      "average": 98.0,
+      "trades": 1,
+      "volume": 1.0,
+      "value": 522.74,
+      "reference_price": 96.13,
+      "change_percent": 1.95,
+      "market": "EREGT",
+      "high": 98.0,
+      "low": 98.0
+    },
+    {
+      "date": "2026-10-14",
+      "close": 99.9999,
+      "open": 99.9999,
+      "average": 99.9999,
+      "trades": 1,
+      "volume": 1,
+      "value": 540.21,
+      "reference_price": 98,
+      "change_percent": 2.04,
+      "market": "EREGT",
+      "high": 99.9999,
+      "low": 99.9999
+    }
+  ]
+}

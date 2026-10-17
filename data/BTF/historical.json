@@ -1,0 +1,21 @@
+{
+  "symbol": "BTF",
+  "instrument_type": "fund_unit",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 1180,
+      "open": 1180,
+      "average": 1180,
+      "trades": 1,
+      "volume": 60,
+      "value": 70800,
+      "reference_price": 1160,
+      "change_percent": 1.72,
+      "market": "REGS",
+      "high": 1180,
+      "low": 1180
+    }
+  ]
+}

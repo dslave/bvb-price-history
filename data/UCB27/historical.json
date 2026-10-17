@@ -1,0 +1,21 @@
+{
+  "symbol": "UCB27",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-07-31",
+      "close": 102.93,
+      "open": 102.93,
+      "average": 102.93,
+      "trades": 1,
+      "volume": 40.0,
+      "value": 21709189.0,
+      "reference_price": 100.0,
+      "change_percent": 2.93,
+      "market": "QIDB",
+      "high": 102.93,
+      "low": 102.93
+    }
+  ]
+}

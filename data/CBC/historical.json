@@ -1,0 +1,21 @@
+{
+  "symbol": "CBC",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-13",
+      "close": 25,
+      "open": 25,
+      "average": 25,
+      "trades": 2,
+      "volume": 7,
+      "value": 175,
+      "reference_price": 24.8,
+      "change_percent": 0.81,
+      "market": "REGS",
+      "high": 25,
+      "low": 25
+    }
+  ]
+}

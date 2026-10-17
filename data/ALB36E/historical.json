@@ -1,0 +1,21 @@
+{
+  "symbol": "ALB36E",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-09-28",
+      "close": 2.5,
+      "open": 2.5,
+      "average": 2.5,
+      "trades": 4,
+      "volume": 300000.0,
+      "value": 158154000.0,
+      "reference_price": 0.0,
+      "change_percent": 0.0,
+      "market": "EPOFY",
+      "high": 2.5,
+      "low": 2.5
+    }
+  ]
+}

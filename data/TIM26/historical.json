@@ -1,0 +1,77 @@
+{
+  "symbol": "TIM26",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-02-10",
+      "close": 101.99,
+      "open": 101.99,
+      "average": 101.99,
+      "trades": 1,
+      "volume": 12.0,
+      "value": 41.59,
+      "reference_price": 101.5,
+      "change_percent": 0.48,
+      "market": "ORDB",
+      "high": 101.99,
+      "low": 101.99
+    },
+    {
+      "date": "2026-03-02",
+      "close": 101.98,
+      "open": 101.98,
+      "average": 101.98,
+      "trades": 1,
+      "volume": 40.0,
+      "value": 139.07,
+      "reference_price": 101.99,
+      "change_percent": -0.01,
+      "market": "ORDB",
+      "high": 101.98,
+      "low": 101.98
+    },
+    {
+      "date": "2026-03-06",
+      "close": 101.98,
+      "open": 101.98,
+      "average": 101.98,
+      "trades": 1,
+      "volume": 195.0,
+      "value": 678.59,
+      "reference_price": 101.98,
+      "change_percent": 0.0,
+      "market": "ORDB",
+      "high": 101.98,
+      "low": 101.98
+    },
+    {
+      "date": "2026-04-02",
+      "close": 101.99,
+      "open": 101.99,
+      "average": 101.99,
+      "trades": 1,
+      "volume": 450.0,
+      "value": 1572.79,
+      "reference_price": 101.98,
+      "change_percent": 0.01,
+      "market": "ORDB",
+      "high": 101.99,
+      "low": 101.99
+    },
+    {
+      "date": "2026-04-07",
+      "close": 101.98,
+      "open": 101.98,
+      "average": 101.98,
+      "trades": 1,
+      "volume": 65.0,
+      "value": 227.27,
+      "reference_price": 101.99,
+      "change_percent": -0.01,
+      "market": "ORDB",
+      "high": 101.98,
+      "low": 101.98
+    }
+  ]
+}

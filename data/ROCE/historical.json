@@ -1,0 +1,63 @@
+{
+  "symbol": "ROCE",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.218,
+      "open": 0.22,
+      "average": 0.218,
+      "trades": 2,
+      "volume": 1000000,
+      "value": 218000.094,
+      "reference_price": 0.218,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.22,
+      "low": 0.218
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.221,
+      "open": 0.221,
+      "average": 0.221,
+      "trades": 1,
+      "volume": 20,
+      "value": 4.42,
+      "reference_price": 0.218,
+      "change_percent": 1.38,
+      "market": "REGS",
+      "high": 0.221,
+      "low": 0.221
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.218,
+      "open": 0.218,
+      "average": 0.219,
+      "trades": 7,
+      "volume": 47540,
+      "value": 10387.72,
+      "reference_price": 0.221,
+      "change_percent": -1.36,
+      "market": "REGS",
+      "high": 0.222,
+      "low": 0.218
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.222,
+      "open": 0.222,
+      "average": 0.22,
+      "trades": 8,
+      "volume": 38025,
+      "value": 8371.55,
+      "reference_price": 0.218,
+      "change_percent": 1.83,
+      "market": "REGS",
+      "high": 0.222,
+      "low": 0.22
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "symbol": "MFC",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-14",
+      "close": 19.4,
+      "open": 19.4,
+      "average": 19.4,
+      "trades": 1,
+      "volume": 1,
+      "value": 19.4,
+      "reference_price": 20.8,
+      "change_percent": -6.73,
+      "market": "REGS",
+      "high": 19.4,
+      "low": 19.4
+    },
+    {
+      "date": "2026-10-16",
+      "close": 20.6,
+      "open": 20.6,
+      "average": 20.6,
+      "trades": 1,
+      "volume": 10,
+      "value": 206,
+      "reference_price": 19.4,
+      "change_percent": 6.19,
+      "market": "REGS",
+      "high": 20.6,
+      "low": 20.6
+    }
+  ]
+}

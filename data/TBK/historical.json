@@ -1,0 +1,77 @@
+{
+  "symbol": "TBK",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 16.5,
+      "open": 16.5,
+      "average": 16.5,
+      "trades": 3,
+      "volume": 56,
+      "value": 924,
+      "reference_price": 16,
+      "change_percent": 3.13,
+      "market": "REGS",
+      "high": 16.5,
+      "low": 16.5
+    },
+    {
+      "date": "2026-10-13",
+      "close": 16.65,
+      "open": 16.65,
+      "average": 16.65,
+      "trades": 1,
+      "volume": 10,
+      "value": 166.5,
+      "reference_price": 16.5,
+      "change_percent": 0.91,
+      "market": "REGS",
+      "high": 16.65,
+      "low": 16.65
+    },
+    {
+      "date": "2026-10-14",
+      "close": 16.1,
+      "open": 16.5,
+      "average": 16.4,
+      "trades": 4,
+      "volume": 85,
+      "value": 1392,
+      "reference_price": 16.65,
+      "change_percent": -3.3,
+      "market": "REGS",
+      "high": 16.5,
+      "low": 16.1
+    },
+    {
+      "date": "2026-10-15",
+      "close": 16.25,
+      "open": 16.1,
+      "average": 16.25,
+      "trades": 6,
+      "volume": 118,
+      "value": 1917.5,
+      "reference_price": 16.1,
+      "change_percent": 0.93,
+      "market": "REGS",
+      "high": 16.3,
+      "low": 16.1
+    },
+    {
+      "date": "2026-10-16",
+      "close": 16.25,
+      "open": 16.05,
+      "average": 16.1,
+      "trades": 12,
+      "volume": 886,
+      "value": 14243,
+      "reference_price": 16.25,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 16.25,
+      "low": 16
+    }
+  ]
+}

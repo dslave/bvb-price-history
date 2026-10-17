@@ -1,0 +1,77 @@
+{
+  "symbol": "AAG",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 4.02,
+      "open": 4,
+      "average": 4.01,
+      "trades": 5,
+      "volume": 400,
+      "value": 1603.54,
+      "reference_price": 4.02,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 4.03,
+      "low": 4
+    },
+    {
+      "date": "2026-10-13",
+      "close": 4.02,
+      "open": 3.96,
+      "average": 3.93,
+      "trades": 15,
+      "volume": 2400,
+      "value": 9429.52,
+      "reference_price": 4.02,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 4.02,
+      "low": 3.91
+    },
+    {
+      "date": "2026-10-14",
+      "close": 4.02,
+      "open": 4.05,
+      "average": 4.03,
+      "trades": 2,
+      "volume": 60,
+      "value": 241.5,
+      "reference_price": 4.02,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 4.05,
+      "low": 4.02
+    },
+    {
+      "date": "2026-10-15",
+      "close": 4.02,
+      "open": 3.92,
+      "average": 3.92,
+      "trades": 2,
+      "volume": 21,
+      "value": 82.42,
+      "reference_price": 4.02,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 4.02,
+      "low": 3.92
+    },
+    {
+      "date": "2026-10-16",
+      "close": 4.04,
+      "open": 4.04,
+      "average": 4.04,
+      "trades": 1,
+      "volume": 1,
+      "value": 4.04,
+      "reference_price": 4.02,
+      "change_percent": 0.5,
+      "market": "REGS",
+      "high": 4.04,
+      "low": 4.04
+    }
+  ]
+}

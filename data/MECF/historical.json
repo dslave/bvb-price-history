@@ -1,0 +1,21 @@
+{
+  "symbol": "MECF",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-14",
+      "close": 0.12,
+      "open": 0.12,
+      "average": 0.12,
+      "trades": 2,
+      "volume": 108,
+      "value": 12.96,
+      "reference_price": 0.12,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.12,
+      "low": 0.12
+    }
+  ]
+}

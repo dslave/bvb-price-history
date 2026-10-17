@@ -1,0 +1,77 @@
+{
+  "symbol": "RRC",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.316,
+      "open": 0.286,
+      "average": 0.3,
+      "trades": 227,
+      "volume": 1996183,
+      "value": 597892.262,
+      "reference_price": 0.28,
+      "change_percent": 12.86,
+      "market": "REGS",
+      "high": 0.32,
+      "low": 0.28
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.358,
+      "open": 0.316,
+      "average": 0.342,
+      "trades": 463,
+      "volume": 4784324,
+      "value": 1633063.966,
+      "reference_price": 0.316,
+      "change_percent": 13.29,
+      "market": "REGS",
+      "high": 0.362,
+      "low": 0.304
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.408,
+      "open": 0.378,
+      "average": 0.386,
+      "trades": 777,
+      "volume": 5663987,
+      "value": 2189715.466,
+      "reference_price": 0.358,
+      "change_percent": 13.97,
+      "market": "REGS",
+      "high": 0.41,
+      "low": 0.326
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.468,
+      "open": 0.412,
+      "average": 0.456,
+      "trades": 578,
+      "volume": 4483341,
+      "value": 2041246.266,
+      "reference_price": 0.408,
+      "change_percent": 14.71,
+      "market": "REGS",
+      "high": 0.468,
+      "low": 0.412
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.456,
+      "open": 0.5,
+      "average": 0.496,
+      "trades": 1138,
+      "volume": 4909435,
+      "value": 2430935.772,
+      "reference_price": 0.468,
+      "change_percent": -2.56,
+      "market": "REGS",
+      "high": 0.535,
+      "low": 0.426
+    }
+  ]
+}

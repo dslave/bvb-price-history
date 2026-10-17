@@ -1,0 +1,77 @@
+{
+  "symbol": "RPH",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.204,
+      "open": 0.206,
+      "average": 0.204,
+      "trades": 3,
+      "volume": 10555,
+      "value": 2154.33,
+      "reference_price": 0.202,
+      "change_percent": 0.99,
+      "market": "REGS",
+      "high": 0.206,
+      "low": 0.204
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.206,
+      "open": 0.2,
+      "average": 0.2,
+      "trades": 2,
+      "volume": 7500,
+      "value": 1503,
+      "reference_price": 0.204,
+      "change_percent": 0.98,
+      "market": "REGS",
+      "high": 0.206,
+      "low": 0.2
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.206,
+      "open": 0.2,
+      "average": 0.204,
+      "trades": 4,
+      "volume": 5026,
+      "value": 1025.276,
+      "reference_price": 0.206,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.206,
+      "low": 0.2
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.204,
+      "open": 0.206,
+      "average": 0.204,
+      "trades": 5,
+      "volume": 18983,
+      "value": 3879.332,
+      "reference_price": 0.206,
+      "change_percent": -0.97,
+      "market": "REGS",
+      "high": 0.206,
+      "low": 0.204
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.208,
+      "open": 0.206,
+      "average": 0.206,
+      "trades": 7,
+      "volume": 31001,
+      "value": 6380.228,
+      "reference_price": 0.204,
+      "change_percent": 1.96,
+      "market": "REGS",
+      "high": 0.208,
+      "low": 0.204
+    }
+  ]
+}

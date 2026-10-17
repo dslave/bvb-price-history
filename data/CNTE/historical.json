@@ -1,0 +1,21 @@
+{
+  "symbol": "CNTE",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-13",
+      "close": 36,
+      "open": 36,
+      "average": 36,
+      "trades": 1,
+      "volume": 1,
+      "value": 36,
+      "reference_price": 36,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 36,
+      "low": 36
+    }
+  ]
+}

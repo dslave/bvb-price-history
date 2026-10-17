@@ -1,0 +1,21 @@
+{
+  "symbol": "BCR33",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-06-12",
+      "close": 100.0,
+      "open": 100.0,
+      "average": 100.0,
+      "trades": 16,
+      "volume": 1667.0,
+      "value": 1000200000.0,
+      "reference_price": 100.0,
+      "change_percent": 0.0,
+      "market": "POFB",
+      "high": 100.0,
+      "low": 100.0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "symbol": "SNO",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 25.2,
+      "open": 25.6,
+      "average": 25.2,
+      "trades": 6,
+      "volume": 88,
+      "value": 2220.8,
+      "reference_price": 25.8,
+      "change_percent": -2.33,
+      "market": "REGS",
+      "high": 25.6,
+      "low": 25.2
+    },
+    {
+      "date": "2026-10-13",
+      "close": 25.4,
+      "open": 25.8,
+      "average": 25.6,
+      "trades": 7,
+      "volume": 83,
+      "value": 2119.4,
+      "reference_price": 25.2,
+      "change_percent": 0.79,
+      "market": "REGS",
+      "high": 25.8,
+      "low": 25.2
+    },
+    {
+      "date": "2026-10-14",
+      "close": 25.2,
+      "open": 26,
+      "average": 25.6,
+      "trades": 9,
+      "volume": 166,
+      "value": 4260.8,
+      "reference_price": 25.4,
+      "change_percent": -0.79,
+      "market": "REGS",
+      "high": 26,
+      "low": 25.2
+    },
+    {
+      "date": "2026-10-15",
+      "close": 25,
+      "open": 25.4,
+      "average": 25.4,
+      "trades": 9,
+      "volume": 231,
+      "value": 5860.2,
+      "reference_price": 25.2,
+      "change_percent": -0.79,
+      "market": "REGS",
+      "high": 26,
+      "low": 25
+    },
+    {
+      "date": "2026-10-16",
+      "close": 26,
+      "open": 25,
+      "average": 25.2,
+      "trades": 3,
+      "volume": 64,
+      "value": 1614,
+      "reference_price": 25,
+      "change_percent": 4,
+      "market": "REGS",
+      "high": 26,
+      "low": 25
+    }
+  ]
+}

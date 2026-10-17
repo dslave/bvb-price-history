@@ -1,0 +1,77 @@
+{
+  "symbol": "INFINITY",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 4.86,
+      "open": 4.76,
+      "average": 4.85,
+      "trades": 53,
+      "volume": 113678,
+      "value": 551096.99,
+      "reference_price": 4.85,
+      "change_percent": 0.21,
+      "market": "REGS",
+      "high": 4.86,
+      "low": 4.76
+    },
+    {
+      "date": "2026-10-13",
+      "close": 4.9,
+      "open": 4.85,
+      "average": 4.86,
+      "trades": 30,
+      "volume": 62699,
+      "value": 304729.59,
+      "reference_price": 4.86,
+      "change_percent": 0.82,
+      "market": "REGS",
+      "high": 4.9,
+      "low": 4.85
+    },
+    {
+      "date": "2026-10-14",
+      "close": 5.04,
+      "open": 4.93,
+      "average": 4.99,
+      "trades": 68,
+      "volume": 285845,
+      "value": 1427478.14,
+      "reference_price": 4.9,
+      "change_percent": 2.86,
+      "market": "REGS",
+      "high": 5.06,
+      "low": 4.9
+    },
+    {
+      "date": "2026-10-15",
+      "close": 5.1,
+      "open": 4.98,
+      "average": 5.1,
+      "trades": 59,
+      "volume": 113162,
+      "value": 576968.04,
+      "reference_price": 5.04,
+      "change_percent": 1.19,
+      "market": "REGS",
+      "high": 5.12,
+      "low": 4.98
+    },
+    {
+      "date": "2026-10-16",
+      "close": 5.14,
+      "open": 5.12,
+      "average": 5.12,
+      "trades": 52,
+      "volume": 105941,
+      "value": 541989.52,
+      "reference_price": 5.1,
+      "change_percent": 0.78,
+      "market": "REGS",
+      "high": 5.14,
+      "low": 5.02
+    }
+  ]
+}

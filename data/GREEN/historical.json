@@ -1,0 +1,49 @@
+{
+  "symbol": "GREEN",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 13.4,
+      "open": 11.9,
+      "average": 12.6,
+      "trades": 10,
+      "volume": 196,
+      "value": 2462.4,
+      "reference_price": 13.8,
+      "change_percent": -2.9,
+      "market": "REGS",
+      "high": 13.4,
+      "low": 11.8
+    },
+    {
+      "date": "2026-10-13",
+      "close": 13.6,
+      "open": 13.6,
+      "average": 13.6,
+      "trades": 1,
+      "volume": 10,
+      "value": 136,
+      "reference_price": 13.4,
+      "change_percent": 1.49,
+      "market": "REGS",
+      "high": 13.6,
+      "low": 13.6
+    },
+    {
+      "date": "2026-10-15",
+      "close": 13,
+      "open": 11.7,
+      "average": 12.5,
+      "trades": 5,
+      "volume": 94,
+      "value": 1171.9,
+      "reference_price": 13.6,
+      "change_percent": -4.41,
+      "market": "REGS",
+      "high": 13,
+      "low": 11.7
+    }
+  ]
+}

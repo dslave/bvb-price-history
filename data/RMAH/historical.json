@@ -1,0 +1,77 @@
+{
+  "symbol": "RMAH",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.752,
+      "open": 0.726,
+      "average": 0.732,
+      "trades": 4,
+      "volume": 1084,
+      "value": 793.618,
+      "reference_price": 0.74,
+      "change_percent": 1.62,
+      "market": "REGS",
+      "high": 0.752,
+      "low": 0.726
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.742,
+      "open": 0.752,
+      "average": 0.742,
+      "trades": 6,
+      "volume": 435,
+      "value": 323.024,
+      "reference_price": 0.752,
+      "change_percent": -1.33,
+      "market": "REGS",
+      "high": 0.752,
+      "low": 0.73
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.744,
+      "open": 0.746,
+      "average": 0.746,
+      "trades": 4,
+      "volume": 916,
+      "value": 682.936,
+      "reference_price": 0.742,
+      "change_percent": 0.27,
+      "market": "REGS",
+      "high": 0.748,
+      "low": 0.74
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.746,
+      "open": 0.748,
+      "average": 0.752,
+      "trades": 7,
+      "volume": 1571,
+      "value": 1181.102,
+      "reference_price": 0.744,
+      "change_percent": 0.27,
+      "market": "REGS",
+      "high": 0.752,
+      "low": 0.746
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.732,
+      "open": 0.752,
+      "average": 0.756,
+      "trades": 19,
+      "volume": 18768,
+      "value": 14201.06,
+      "reference_price": 0.746,
+      "change_percent": -1.88,
+      "market": "REGS",
+      "high": 0.774,
+      "low": 0.732
+    }
+  ]
+}

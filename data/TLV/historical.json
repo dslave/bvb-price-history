@@ -1,0 +1,77 @@
+{
+  "symbol": "TLV",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 35.5,
+      "open": 35.38,
+      "average": 35.56,
+      "trades": 1130,
+      "volume": 417257,
+      "value": 14834346.02,
+      "reference_price": 35.42,
+      "change_percent": 0.23,
+      "market": "REGS",
+      "high": 35.8,
+      "low": 35.38
+    },
+    {
+      "date": "2026-10-13",
+      "close": 35.44,
+      "open": 35.48,
+      "average": 35.48,
+      "trades": 818,
+      "volume": 624513,
+      "value": 22158644.3,
+      "reference_price": 35.5,
+      "change_percent": -0.17,
+      "market": "REGS",
+      "high": 35.6,
+      "low": 35.3
+    },
+    {
+      "date": "2026-10-14",
+      "close": 35.1,
+      "open": 35.3,
+      "average": 35.2,
+      "trades": 928,
+      "volume": 607050,
+      "value": 21364403.82,
+      "reference_price": 35.44,
+      "change_percent": -0.96,
+      "market": "REGS",
+      "high": 35.44,
+      "low": 35.1
+    },
+    {
+      "date": "2026-10-15",
+      "close": 35.44,
+      "open": 35.12,
+      "average": 35.32,
+      "trades": 1087,
+      "volume": 794232,
+      "value": 28057207.14,
+      "reference_price": 35.1,
+      "change_percent": 0.97,
+      "market": "REGS",
+      "high": 35.5,
+      "low": 35.06
+    },
+    {
+      "date": "2026-10-16",
+      "close": 35.98,
+      "open": 35.52,
+      "average": 35.78,
+      "trades": 1125,
+      "volume": 536542,
+      "value": 19192499.44,
+      "reference_price": 35.44,
+      "change_percent": 1.52,
+      "market": "REGS",
+      "high": 35.98,
+      "low": 35.52
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "symbol": "SNP",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 1.24,
+      "open": 1.236,
+      "average": 1.244,
+      "trades": 888,
+      "volume": 4724280,
+      "value": 5874516.848,
+      "reference_price": 1.234,
+      "change_percent": 0.49,
+      "market": "REGS",
+      "high": 1.249,
+      "low": 1.231
+    },
+    {
+      "date": "2026-10-13",
+      "close": 1.24,
+      "open": 1.246,
+      "average": 1.249,
+      "trades": 703,
+      "volume": 3335524,
+      "value": 4165916.78,
+      "reference_price": 1.24,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 1.252,
+      "low": 1.24
+    },
+    {
+      "date": "2026-10-14",
+      "close": 1.258,
+      "open": 1.25,
+      "average": 1.249,
+      "trades": 646,
+      "volume": 3330103,
+      "value": 4160716.763,
+      "reference_price": 1.24,
+      "change_percent": 1.45,
+      "market": "REGS",
+      "high": 1.259,
+      "low": 1.243
+    },
+    {
+      "date": "2026-10-15",
+      "close": 1.305,
+      "open": 1.26,
+      "average": 1.294,
+      "trades": 1479,
+      "volume": 11995562,
+      "value": 15516077.335,
+      "reference_price": 1.258,
+      "change_percent": 3.74,
+      "market": "REGS",
+      "high": 1.309,
+      "low": 1.26
+    },
+    {
+      "date": "2026-10-16",
+      "close": 1.311,
+      "open": 1.31,
+      "average": 1.32,
+      "trades": 1319,
+      "volume": 8258872,
+      "value": 10902286.97,
+      "reference_price": 1.305,
+      "change_percent": 0.46,
+      "market": "REGS",
+      "high": 1.33,
+      "low": 1.31
+    }
+  ]
+}

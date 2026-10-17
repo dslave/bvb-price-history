@@ -1,0 +1,77 @@
+{
+  "symbol": "SMTL",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 36.7,
+      "open": 37.8,
+      "average": 37.2,
+      "trades": 55,
+      "volume": 2098,
+      "value": 77979.3,
+      "reference_price": 37,
+      "change_percent": -0.81,
+      "market": "REGS",
+      "high": 37.8,
+      "low": 36.7
+    },
+    {
+      "date": "2026-10-13",
+      "close": 37,
+      "open": 36.8,
+      "average": 36.8,
+      "trades": 37,
+      "volume": 3517,
+      "value": 129432.9,
+      "reference_price": 36.7,
+      "change_percent": 0.82,
+      "market": "REGS",
+      "high": 37,
+      "low": 36.6
+    },
+    {
+      "date": "2026-10-14",
+      "close": 36.8,
+      "open": 37.2,
+      "average": 36.9,
+      "trades": 30,
+      "volume": 1238,
+      "value": 45718.9,
+      "reference_price": 37,
+      "change_percent": -0.54,
+      "market": "REGS",
+      "high": 37.2,
+      "low": 36.8
+    },
+    {
+      "date": "2026-10-15",
+      "close": 37.9,
+      "open": 36.7,
+      "average": 37.1,
+      "trades": 68,
+      "volume": 3682,
+      "value": 136515.3,
+      "reference_price": 36.8,
+      "change_percent": 2.99,
+      "market": "REGS",
+      "high": 38,
+      "low": 36.6
+    },
+    {
+      "date": "2026-10-16",
+      "close": 38.4,
+      "open": 38,
+      "average": 38.6,
+      "trades": 109,
+      "volume": 12251,
+      "value": 472484.9,
+      "reference_price": 37.9,
+      "change_percent": 1.32,
+      "market": "REGS",
+      "high": 39,
+      "low": 38
+    }
+  ]
+}

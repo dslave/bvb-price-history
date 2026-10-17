@@ -1,0 +1,77 @@
+{
+  "symbol": "ICCROETF",
+  "instrument_type": "fund_unit",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 224.5,
+      "open": 224,
+      "average": 224.1,
+      "trades": 10,
+      "volume": 44,
+      "value": 9860.5,
+      "reference_price": 224.5,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 224.5,
+      "low": 223.5
+    },
+    {
+      "date": "2026-10-13",
+      "close": 225,
+      "open": 224.5,
+      "average": 225.45,
+      "trades": 7,
+      "volume": 85,
+      "value": 19162,
+      "reference_price": 224,
+      "change_percent": 0.45,
+      "market": "REGS",
+      "high": 225.5,
+      "low": 224.5
+    },
+    {
+      "date": "2026-10-14",
+      "close": 226,
+      "open": 226,
+      "average": 226,
+      "trades": 4,
+      "volume": 74,
+      "value": 16724,
+      "reference_price": 224.5,
+      "change_percent": 0.67,
+      "market": "REGS",
+      "high": 226,
+      "low": 226
+    },
+    {
+      "date": "2026-10-15",
+      "close": 226,
+      "open": 225.5,
+      "average": 225.45,
+      "trades": 4,
+      "volume": 63,
+      "value": 14202.5,
+      "reference_price": 225.5,
+      "change_percent": 0.22,
+      "market": "REGS",
+      "high": 226,
+      "low": 225
+    },
+    {
+      "date": "2026-10-16",
+      "close": 226,
+      "open": 225.5,
+      "average": 226.05,
+      "trades": 6,
+      "volume": 36,
+      "value": 8137.5,
+      "reference_price": 225,
+      "change_percent": 0.44,
+      "market": "REGS",
+      "high": 226.5,
+      "low": 225.5
+    }
+  ]
+}

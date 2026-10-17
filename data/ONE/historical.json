@@ -1,0 +1,77 @@
+{
+  "symbol": "ONE",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 35.1,
+      "open": 35.1,
+      "average": 35.15,
+      "trades": 117,
+      "volume": 72830,
+      "value": 2561026.85,
+      "reference_price": 34.8,
+      "change_percent": 0.86,
+      "market": "REGS",
+      "high": 35.7,
+      "low": 34.4
+    },
+    {
+      "date": "2026-10-13",
+      "close": 35.3,
+      "open": 35.6,
+      "average": 35.1,
+      "trades": 68,
+      "volume": 32368,
+      "value": 1135796,
+      "reference_price": 35.1,
+      "change_percent": 0.57,
+      "market": "REGS",
+      "high": 35.6,
+      "low": 35
+    },
+    {
+      "date": "2026-10-14",
+      "close": 34.8,
+      "open": 35,
+      "average": 34.55,
+      "trades": 53,
+      "volume": 34042,
+      "value": 1175555.65,
+      "reference_price": 35.3,
+      "change_percent": -1.42,
+      "market": "REGS",
+      "high": 35,
+      "low": 34.3
+    },
+    {
+      "date": "2026-10-15",
+      "close": 35.2,
+      "open": 34.75,
+      "average": 34.9,
+      "trades": 64,
+      "volume": 48912,
+      "value": 1706255.8,
+      "reference_price": 34.8,
+      "change_percent": 1.15,
+      "market": "REGS",
+      "high": 35.2,
+      "low": 34.3
+    },
+    {
+      "date": "2026-10-16",
+      "close": 35.2,
+      "open": 35.2,
+      "average": 35.15,
+      "trades": 44,
+      "volume": 5722,
+      "value": 200995.25,
+      "reference_price": 35.2,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 35.25,
+      "low": 34.85
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "symbol": "ICGROETF",
+  "instrument_type": "fund_unit",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-14",
+      "close": 58.85,
+      "open": 58.85,
+      "average": 58.85,
+      "trades": 1,
+      "volume": 3,
+      "value": 176.55,
+      "reference_price": 58.85,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 58.85,
+      "low": 58.85
+    }
+  ]
+}

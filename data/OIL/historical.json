@@ -1,0 +1,77 @@
+{
+  "symbol": "OIL",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.115,
+      "open": 0.115,
+      "average": 0.113,
+      "trades": 27,
+      "volume": 188907,
+      "value": 21365.3245,
+      "reference_price": 0.115,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.1155,
+      "low": 0.112
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.1155,
+      "open": 0.1155,
+      "average": 0.1155,
+      "trades": 14,
+      "volume": 74711,
+      "value": 8617.817,
+      "reference_price": 0.115,
+      "change_percent": 0.43,
+      "market": "REGS",
+      "high": 0.116,
+      "low": 0.115
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.115,
+      "open": 0.116,
+      "average": 0.116,
+      "trades": 6,
+      "volume": 11957,
+      "value": 1386.545,
+      "reference_price": 0.1155,
+      "change_percent": -0.43,
+      "market": "REGS",
+      "high": 0.116,
+      "low": 0.115
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.1155,
+      "open": 0.115,
+      "average": 0.114,
+      "trades": 23,
+      "volume": 122619,
+      "value": 14002.287,
+      "reference_price": 0.115,
+      "change_percent": 0.43,
+      "market": "REGS",
+      "high": 0.116,
+      "low": 0.112
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.1155,
+      "open": 0.116,
+      "average": 0.115,
+      "trades": 21,
+      "volume": 94823,
+      "value": 10881.744,
+      "reference_price": 0.1155,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.116,
+      "low": 0.113
+    }
+  ]
+}

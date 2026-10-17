@@ -1,0 +1,21 @@
+{
+  "symbol": "ELJ",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-14",
+      "close": 0.163,
+      "open": 0.163,
+      "average": 0.163,
+      "trades": 1,
+      "volume": 20,
+      "value": 3.26,
+      "reference_price": 0.154,
+      "change_percent": 5.84,
+      "market": "REGS",
+      "high": 0.163,
+      "low": 0.163
+    }
+  ]
+}

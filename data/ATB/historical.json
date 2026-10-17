@@ -1,0 +1,77 @@
+{
+  "symbol": "ATB",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 1.99,
+      "open": 2,
+      "average": 2.005,
+      "trades": 89,
+      "volume": 19914,
+      "value": 39889.077,
+      "reference_price": 2,
+      "change_percent": -0.5,
+      "market": "REGS",
+      "high": 2.02,
+      "low": 1.982
+    },
+    {
+      "date": "2026-10-13",
+      "close": 2.04,
+      "open": 1.98,
+      "average": 2.025,
+      "trades": 91,
+      "volume": 145856,
+      "value": 295253.12,
+      "reference_price": 1.99,
+      "change_percent": 2.51,
+      "market": "REGS",
+      "high": 2.05,
+      "low": 1.98
+    },
+    {
+      "date": "2026-10-14",
+      "close": 2.01,
+      "open": 2.04,
+      "average": 2.02,
+      "trades": 83,
+      "volume": 119002,
+      "value": 240654.71,
+      "reference_price": 2.04,
+      "change_percent": -1.47,
+      "market": "REGS",
+      "high": 2.05,
+      "low": 2
+    },
+    {
+      "date": "2026-10-15",
+      "close": 2.035,
+      "open": 1.97,
+      "average": 2.01,
+      "trades": 131,
+      "volume": 149330,
+      "value": 300053.308,
+      "reference_price": 2.01,
+      "change_percent": 1.24,
+      "market": "REGS",
+      "high": 2.04,
+      "low": 1.968
+    },
+    {
+      "date": "2026-10-16",
+      "close": 2.035,
+      "open": 2.02,
+      "average": 2.03,
+      "trades": 86,
+      "volume": 67447,
+      "value": 137003.73,
+      "reference_price": 2.035,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 2.055,
+      "low": 2.005
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "symbol": "TGN",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 84.4,
+      "open": 86.1,
+      "average": 85.4,
+      "trades": 224,
+      "volume": 6417,
+      "value": 547698.5,
+      "reference_price": 86.1,
+      "change_percent": -1.97,
+      "market": "REGS",
+      "high": 86.1,
+      "low": 84.1
+    },
+    {
+      "date": "2026-10-13",
+      "close": 86,
+      "open": 85.2,
+      "average": 85,
+      "trades": 195,
+      "volume": 10854,
+      "value": 923101.7,
+      "reference_price": 84.4,
+      "change_percent": 1.9,
+      "market": "REGS",
+      "high": 86,
+      "low": 82.9
+    },
+    {
+      "date": "2026-10-14",
+      "close": 87.8,
+      "open": 86,
+      "average": 86.8,
+      "trades": 236,
+      "volume": 13447,
+      "value": 1166991,
+      "reference_price": 86,
+      "change_percent": 2.09,
+      "market": "REGS",
+      "high": 87.8,
+      "low": 86
+    },
+    {
+      "date": "2026-10-15",
+      "close": 91,
+      "open": 87.8,
+      "average": 90.2,
+      "trades": 395,
+      "volume": 36386,
+      "value": 3283312.2,
+      "reference_price": 87.8,
+      "change_percent": 3.64,
+      "market": "REGS",
+      "high": 91.5,
+      "low": 87.8
+    },
+    {
+      "date": "2026-10-16",
+      "close": 90.1,
+      "open": 91.5,
+      "average": 90.3,
+      "trades": 284,
+      "volume": 15071,
+      "value": 1361183.1,
+      "reference_price": 91,
+      "change_percent": -0.99,
+      "market": "REGS",
+      "high": 91.7,
+      "low": 89.5
+    }
+  ]
+}

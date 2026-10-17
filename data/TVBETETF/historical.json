@@ -1,0 +1,77 @@
+{
+  "symbol": "TVBETETF",
+  "instrument_type": "fund_unit",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 56.87,
+      "open": 57.2,
+      "average": 57.28,
+      "trades": 1469,
+      "volume": 59844,
+      "value": 3428028.68,
+      "reference_price": 56.69,
+      "change_percent": 0.32,
+      "market": "REGS",
+      "high": 57.5,
+      "low": 56.87
+    },
+    {
+      "date": "2026-10-13",
+      "close": 57.22,
+      "open": 56.99,
+      "average": 57.2,
+      "trades": 846,
+      "volume": 21932,
+      "value": 1254613.69,
+      "reference_price": 56.87,
+      "change_percent": 0.62,
+      "market": "REGS",
+      "high": 57.44,
+      "low": 56.87
+    },
+    {
+      "date": "2026-10-14",
+      "close": 57.87,
+      "open": 57.29,
+      "average": 57.53,
+      "trades": 817,
+      "volume": 38322,
+      "value": 2204836.44,
+      "reference_price": 57.22,
+      "change_percent": 1.14,
+      "market": "REGS",
+      "high": 57.98,
+      "low": 57.22
+    },
+    {
+      "date": "2026-10-15",
+      "close": 58.81,
+      "open": 57.98,
+      "average": 58.59,
+      "trades": 1162,
+      "volume": 70779,
+      "value": 4147245.45,
+      "reference_price": 57.58,
+      "change_percent": 2.14,
+      "market": "REGS",
+      "high": 59,
+      "low": 57.94
+    },
+    {
+      "date": "2026-10-16",
+      "close": 59.37,
+      "open": 59,
+      "average": 59.47,
+      "trades": 1148,
+      "volume": 55329,
+      "value": 3290138.22,
+      "reference_price": 58.53,
+      "change_percent": 1.44,
+      "market": "REGS",
+      "high": 59.71,
+      "low": 58.9
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "symbol": "ICBETNETF",
+  "instrument_type": "fund_unit",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 152.22,
+      "open": 152.2,
+      "average": 152.68,
+      "trades": 57,
+      "volume": 1337,
+      "value": 204126.02,
+      "reference_price": 151.58,
+      "change_percent": 0.42,
+      "market": "REGS",
+      "high": 152.96,
+      "low": 152
+    },
+    {
+      "date": "2026-10-13",
+      "close": 153,
+      "open": 151.96,
+      "average": 152.42,
+      "trades": 27,
+      "volume": 145,
+      "value": 22100.3,
+      "reference_price": 151.72,
+      "change_percent": 0.84,
+      "market": "REGS",
+      "high": 153,
+      "low": 151.74
+    },
+    {
+      "date": "2026-10-14",
+      "close": 153.5,
+      "open": 152.7,
+      "average": 153.24,
+      "trades": 22,
+      "volume": 136,
+      "value": 20840.4,
+      "reference_price": 152.6,
+      "change_percent": 0.59,
+      "market": "REGS",
+      "high": 153.58,
+      "low": 152.6
+    },
+    {
+      "date": "2026-10-15",
+      "close": 155.5,
+      "open": 153.6,
+      "average": 155.74,
+      "trades": 37,
+      "volume": 1160,
+      "value": 180649.5,
+      "reference_price": 153.46,
+      "change_percent": 1.33,
+      "market": "REGS",
+      "high": 157.02,
+      "low": 153.6
+    },
+    {
+      "date": "2026-10-16",
+      "close": 155,
+      "open": 157.3,
+      "average": 155.42,
+      "trades": 43,
+      "volume": 678,
+      "value": 105371.66,
+      "reference_price": 155.98,
+      "change_percent": -0.63,
+      "market": "REGS",
+      "high": 157.3,
+      "low": 154.82
+    }
+  ]
+}

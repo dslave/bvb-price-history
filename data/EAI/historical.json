@@ -1,0 +1,77 @@
+{
+  "symbol": "EAI",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 16.04,
+      "open": 16.16,
+      "average": 15.84,
+      "trades": 92,
+      "volume": 10387,
+      "value": 164608.64,
+      "reference_price": 15.9,
+      "change_percent": 0.88,
+      "market": "REGS",
+      "high": 16.16,
+      "low": 15.76
+    },
+    {
+      "date": "2026-10-13",
+      "close": 16.04,
+      "open": 16.04,
+      "average": 15.98,
+      "trades": 81,
+      "volume": 12699,
+      "value": 202891.4,
+      "reference_price": 16.04,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 16.12,
+      "low": 15.82
+    },
+    {
+      "date": "2026-10-14",
+      "close": 16,
+      "open": 16.1,
+      "average": 15.96,
+      "trades": 55,
+      "volume": 6092,
+      "value": 97225.96,
+      "reference_price": 16.04,
+      "change_percent": -0.25,
+      "market": "REGS",
+      "high": 16.1,
+      "low": 15.82
+    },
+    {
+      "date": "2026-10-15",
+      "close": 16,
+      "open": 16.04,
+      "average": 16.02,
+      "trades": 129,
+      "volume": 127382,
+      "value": 2039510.38,
+      "reference_price": 16,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 16.2,
+      "low": 15.78
+    },
+    {
+      "date": "2026-10-16",
+      "close": 16.18,
+      "open": 16.16,
+      "average": 16.12,
+      "trades": 72,
+      "volume": 13908,
+      "value": 224112.7,
+      "reference_price": 16,
+      "change_percent": 1.13,
+      "market": "REGS",
+      "high": 16.2,
+      "low": 16
+    }
+  ]
+}

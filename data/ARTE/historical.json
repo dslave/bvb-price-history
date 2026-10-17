@@ -1,0 +1,35 @@
+{
+  "symbol": "ARTE",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 8.1,
+      "open": 8.3,
+      "average": 8.25,
+      "trades": 4,
+      "volume": 174,
+      "value": 1437.4,
+      "reference_price": 8.3,
+      "change_percent": -2.41,
+      "market": "REGS",
+      "high": 8.3,
+      "low": 8.1
+    },
+    {
+      "date": "2026-10-16",
+      "close": 8.1,
+      "open": 8.1,
+      "average": 8.1,
+      "trades": 4,
+      "volume": 79,
+      "value": 639.9,
+      "reference_price": 8.1,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 8.1,
+      "low": 8.1
+    }
+  ]
+}

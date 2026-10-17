@@ -1,0 +1,21 @@
+{
+  "symbol": "R3010A",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 100,
+      "open": 100,
+      "average": 100,
+      "trades": 983,
+      "volume": 633180,
+      "value": 63318000,
+      "reference_price": 0,
+      "change_percent": 0,
+      "market": "POFB",
+      "high": 100,
+      "low": 100
+    }
+  ]
+}

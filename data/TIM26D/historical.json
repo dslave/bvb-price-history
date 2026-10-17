@@ -1,0 +1,21 @@
+{
+  "symbol": "TIM26D",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-04-09",
+      "close": 99.67,
+      "open": 99.67,
+      "average": 99.67,
+      "trades": 1,
+      "volume": 1.0,
+      "value": 3.42,
+      "reference_price": 100.0,
+      "change_percent": -0.33,
+      "market": "ORDB",
+      "high": 99.67,
+      "low": 99.67
+    }
+  ]
+}

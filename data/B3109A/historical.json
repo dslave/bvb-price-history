@@ -1,0 +1,21 @@
+{
+  "symbol": "B3109A",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-05-07",
+      "close": 93.4,
+      "open": 93.4,
+      "average": 93.4,
+      "trades": 1,
+      "volume": 1.0,
+      "value": 4784.5,
+      "reference_price": 94.7,
+      "change_percent": -1.37,
+      "market": "REGT",
+      "high": 93.4,
+      "low": 93.4
+    }
+  ]
+}

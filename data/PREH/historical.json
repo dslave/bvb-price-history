@@ -1,0 +1,49 @@
+{
+  "symbol": "PREH",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 1.97,
+      "open": 1.97,
+      "average": 1.97,
+      "trades": 1,
+      "volume": 15,
+      "value": 29.55,
+      "reference_price": 1.96,
+      "change_percent": 0.51,
+      "market": "REGS",
+      "high": 1.97,
+      "low": 1.97
+    },
+    {
+      "date": "2026-10-14",
+      "close": 1.96,
+      "open": 1.97,
+      "average": 1.96,
+      "trades": 5,
+      "volume": 1000,
+      "value": 1961.41,
+      "reference_price": 1.97,
+      "change_percent": -0.51,
+      "market": "REGS",
+      "high": 1.97,
+      "low": 1.96
+    },
+    {
+      "date": "2026-10-16",
+      "close": 1.96,
+      "open": 1.96,
+      "average": 1.96,
+      "trades": 1,
+      "volume": 1000,
+      "value": 1960,
+      "reference_price": 1.96,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 1.96,
+      "low": 1.96
+    }
+  ]
+}

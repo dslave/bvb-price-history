@@ -1,0 +1,49 @@
+{
+  "symbol": "NAPO",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 2.08,
+      "open": 2.08,
+      "average": 2.08,
+      "trades": 2,
+      "volume": 6,
+      "value": 12.48,
+      "reference_price": 2.08,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 2.08,
+      "low": 2.08
+    },
+    {
+      "date": "2026-10-14",
+      "close": 2.08,
+      "open": 1.79,
+      "average": 2.02,
+      "trades": 2,
+      "volume": 28,
+      "value": 56.5,
+      "reference_price": 2.08,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 2.08,
+      "low": 1.79
+    },
+    {
+      "date": "2026-10-16",
+      "close": 1.79,
+      "open": 1.79,
+      "average": 1.79,
+      "trades": 1,
+      "volume": 30,
+      "value": 53.7,
+      "reference_price": 2.08,
+      "change_percent": -13.94,
+      "market": "REGS",
+      "high": 1.79,
+      "low": 1.79
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "symbol": "ELMA",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-13",
+      "close": 0.248,
+      "open": 0.25,
+      "average": 0.248,
+      "trades": 6,
+      "volume": 125000,
+      "value": 31100,
+      "reference_price": 0.25,
+      "change_percent": -0.8,
+      "market": "REGS",
+      "high": 0.25,
+      "low": 0.248
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.25,
+      "open": 0.252,
+      "average": 0.246,
+      "trades": 8,
+      "volume": 15517,
+      "value": 3822.63,
+      "reference_price": 0.248,
+      "change_percent": 0.81,
+      "market": "REGS",
+      "high": 0.252,
+      "low": 0.246
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.25,
+      "open": 0.246,
+      "average": 0.248,
+      "trades": 5,
+      "volume": 25000,
+      "value": 6190,
+      "reference_price": 0.25,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.25,
+      "low": 0.246
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.252,
+      "open": 0.246,
+      "average": 0.25,
+      "trades": 9,
+      "volume": 161211,
+      "value": 40307.312,
+      "reference_price": 0.25,
+      "change_percent": 0.8,
+      "market": "REGS",
+      "high": 0.252,
+      "low": 0.246
+    }
+  ]
+}

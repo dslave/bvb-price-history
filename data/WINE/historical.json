@@ -1,0 +1,77 @@
+{
+  "symbol": "WINE",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 20.8,
+      "open": 20.3,
+      "average": 20.5,
+      "trades": 22,
+      "volume": 401,
+      "value": 8202.4,
+      "reference_price": 20.8,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 20.8,
+      "low": 20.3
+    },
+    {
+      "date": "2026-10-13",
+      "close": 21.2,
+      "open": 20.8,
+      "average": 21,
+      "trades": 46,
+      "volume": 74958,
+      "value": 1573871.2,
+      "reference_price": 20.8,
+      "change_percent": 1.92,
+      "market": "REGS",
+      "high": 21.2,
+      "low": 20.3
+    },
+    {
+      "date": "2026-10-14",
+      "close": 20.8,
+      "open": 21.2,
+      "average": 20.4,
+      "trades": 23,
+      "volume": 3646,
+      "value": 74452,
+      "reference_price": 21.2,
+      "change_percent": -1.89,
+      "market": "REGS",
+      "high": 21.2,
+      "low": 20.3
+    },
+    {
+      "date": "2026-10-15",
+      "close": 20.9,
+      "open": 20.7,
+      "average": 20.8,
+      "trades": 26,
+      "volume": 2914,
+      "value": 60496.8,
+      "reference_price": 20.8,
+      "change_percent": 0.48,
+      "market": "REGS",
+      "high": 20.9,
+      "low": 20.5
+    },
+    {
+      "date": "2026-10-16",
+      "close": 20.4,
+      "open": 21,
+      "average": 20.6,
+      "trades": 28,
+      "volume": 1928,
+      "value": 39655.9,
+      "reference_price": 20.9,
+      "change_percent": -2.39,
+      "market": "REGS",
+      "high": 21,
+      "low": 20.4
+    }
+  ]
+}

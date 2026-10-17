@@ -1,0 +1,77 @@
+{
+  "symbol": "ARS",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 17.2,
+      "open": 17.3,
+      "average": 17.25,
+      "trades": 21,
+      "volume": 1182,
+      "value": 20371.6,
+      "reference_price": 17.3,
+      "change_percent": -0.58,
+      "market": "REGS",
+      "high": 17.3,
+      "low": 17.1
+    },
+    {
+      "date": "2026-10-13",
+      "close": 17.3,
+      "open": 17.2,
+      "average": 17.2,
+      "trades": 20,
+      "volume": 1501,
+      "value": 25834,
+      "reference_price": 17.2,
+      "change_percent": 0.58,
+      "market": "REGS",
+      "high": 17.3,
+      "low": 17.1
+    },
+    {
+      "date": "2026-10-14",
+      "close": 17.4,
+      "open": 17.3,
+      "average": 17.3,
+      "trades": 12,
+      "volume": 464,
+      "value": 8031.2,
+      "reference_price": 17.3,
+      "change_percent": 0.58,
+      "market": "REGS",
+      "high": 17.4,
+      "low": 17.05
+    },
+    {
+      "date": "2026-10-15",
+      "close": 17.4,
+      "open": 17.4,
+      "average": 17.3,
+      "trades": 32,
+      "volume": 3266,
+      "value": 56565.9,
+      "reference_price": 17.4,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 17.5,
+      "low": 17.05
+    },
+    {
+      "date": "2026-10-16",
+      "close": 17.5,
+      "open": 17.4,
+      "average": 17.35,
+      "trades": 26,
+      "volume": 2158,
+      "value": 37449,
+      "reference_price": 17.4,
+      "change_percent": 0.57,
+      "market": "REGS",
+      "high": 17.5,
+      "low": 17.25
+    }
+  ]
+}

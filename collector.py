@@ -162,7 +162,7 @@ def atomic_json(path: Path, document: dict) -> None:
     temp.replace(path)
 
 
-def has_market_data_changed(path: Path, document: dict) -> bool:
+def has_market_data_changed(path: Path, document: dict, ignored_fields: Tuple[str, ...] = ()) -> bool:
     """Ignore fetch timestamp changes so unchanged snapshots stay untouched."""
     if not path.exists():
         return True
@@ -173,16 +173,21 @@ def has_market_data_changed(path: Path, document: dict) -> bool:
     existing.pop("fetchedAt", None)
     candidate = dict(document)
     candidate.pop("fetchedAt", None)
+    for field in ignored_fields:
+        existing.pop(field, None)
+        candidate.pop(field, None)
     return existing != candidate
 
 
-def write_rows(rows: List[Dict[str, object]]) -> None:
+def write_rows(rows: List[Dict[str, object]]) -> Dict[str, List[Dict[str, object]]]:
     fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+    history_updates: Dict[str, List[Dict[str, object]]] = {}
     for row in rows:
         ticker_dir = DATA_DIR / str(row["symbol"])
         record = dict(row)
         record["fetchedAt"] = fetched_at
         record["source"] = "BVB Historical Trading Info CSV export"
+        history_updates.setdefault(str(row["symbol"]), []).append(record)
         daily_path = ticker_dir / f"{row['date']}.json"
         if has_market_data_changed(daily_path, record):
             atomic_json(daily_path, record)
@@ -194,25 +199,105 @@ def write_rows(rows: List[Dict[str, object]]) -> None:
             except (OSError, ValueError):
                 pass
         # Backfills are fetched newest-to-oldest; never let an older row replace latest.
-        if (not existing_date or str(row["date"]) >= existing_date) and has_market_data_changed(latest_path, record):
+        if (not existing_date or str(row["date"]) >= existing_date) and has_market_data_changed(
+            latest_path, record, ignored_fields=("values",)
+        ):
             atomic_json(latest_path, record)
+    return history_updates
 
 
-def run_backfill(days: int) -> int:
+def history_value(record: Dict[str, object]) -> Optional[Dict[str, object]]:
+    """Map one daily snapshot to Wealthfolio's historical-series fields."""
+    if record.get("date") is None or record.get("close") is None:
+        return None
+    item: Dict[str, object] = {"date": record["date"], "close": record["close"]}
+    for field in ("open", "average", "trades", "volume", "value", "reference_price", "change_percent", "market"):
+        if record.get(field) is not None:
+            item[field] = record[field]
+    if record.get("max") is not None:
+        item["high"] = record["max"]
+    if record.get("min") is not None:
+        item["low"] = record["min"]
+    return item
+
+
+def write_historical_series(
+    updates: Optional[Dict[str, List[Dict[str, object]]]] = None,
+) -> int:
+    """Write per-ticker historical.json arrays; full scan is for one-time generation."""
+    updated = 0
+    if updates is None:
+        ticker_updates: Dict[str, List[Dict[str, object]]] = {}
+        for ticker_dir in DATA_DIR.iterdir():
+            if ticker_dir.is_dir():
+                records = []
+                for daily_path in ticker_dir.glob("????-??-??.json"):
+                    try:
+                        records.append(json.loads(daily_path.read_text(encoding="utf-8")))
+                    except (OSError, ValueError):
+                        continue
+                if records:
+                    ticker_updates[ticker_dir.name] = records
+    else:
+        ticker_updates = updates
+
+    for symbol, records in ticker_updates.items():
+        ticker_dir = DATA_DIR / symbol
+        history_path = ticker_dir / "historical.json"
+        by_date: Dict[str, Dict[str, object]] = {}
+        if updates is not None and history_path.exists():
+            try:
+                existing = json.loads(history_path.read_text(encoding="utf-8"))
+                for item in existing.get("values", []):
+                    if item.get("date"):
+                        by_date[str(item["date"])] = item
+            except (OSError, ValueError, AttributeError):
+                pass
+        elif updates is not None:
+            # New tickers may already have older daily snapshots in the checkout.
+            records = []
+            for daily_path in ticker_dir.glob("????-??-??.json"):
+                try:
+                    records.append(json.loads(daily_path.read_text(encoding="utf-8")))
+                except (OSError, ValueError):
+                    continue
+
+        for record in records:
+            item = history_value(record)
+            if item:
+                by_date[str(item["date"])] = item
+        if not by_date:
+            continue
+        document = {
+            "symbol": symbol,
+            "instrument_type": next((r.get("instrument_type") for r in records if r.get("instrument_type")), None),
+            "source": "BVB market history",
+            "values": [by_date[day] for day in sorted(by_date)],
+        }
+        if has_market_data_changed(history_path, document):
+            atomic_json(history_path, document)
+            updated += 1
+    return updated
+
+
+def run_backfill(days: int) -> Tuple[int, Dict[str, List[Dict[str, object]]]]:
     """Request each of the last X calendar days, including today."""
     if days < 1:
         raise ValueError("--backfill must be at least 1")
     today = datetime.now(LOCAL_TZ).date()
     total_rows = 0
+    history_updates: Dict[str, List[Dict[str, object]]] = {}
     for offset in range(days):
         requested_day = today - timedelta(days=offset)
         rows = fetch_day(requested_day)
         if rows:
-            write_rows(rows)
+            updates = write_rows(rows)
+            for symbol, records in updates.items():
+                history_updates.setdefault(symbol, []).extend(records)
             total_rows += len(rows)
             print(f"{requested_day}: saved {len(rows)} rows")
         time.sleep(float(os.environ.get("BVB_REQUEST_DELAY", "0.2")))
-    return total_rows
+    return total_rows, history_updates
 
 
 def main() -> int:
@@ -222,12 +307,15 @@ def main() -> int:
     args = parser.parse_args()
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     if args.backfill is not None:
-        total_rows = run_backfill(args.backfill)
+        total_rows, history_updates = run_backfill(args.backfill)
     else:
         today = datetime.now(LOCAL_TZ).date()
         rows = fetch_day(today)
-        write_rows(rows)
+        history_updates = write_rows(rows)
         total_rows = len(rows)
+    history_count = write_historical_series(history_updates)
+    if history_count:
+        print(f"Updated {history_count} historical.json series for Wealthfolio")
     if total_rows:
         print(f"Saved {total_rows} share/fund-unit/bond rows under {DATA_DIR}")
     elif args.backfill is not None:

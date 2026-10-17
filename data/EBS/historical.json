@@ -1,0 +1,77 @@
+{
+  "symbol": "EBS",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 593.5,
+      "open": 599.5,
+      "average": 595,
+      "trades": 12,
+      "volume": 61,
+      "value": 36298.5,
+      "reference_price": 589.5,
+      "change_percent": 0.68,
+      "market": "REGS",
+      "high": 599.5,
+      "low": 590
+    },
+    {
+      "date": "2026-10-13",
+      "close": 597.5,
+      "open": 592.5,
+      "average": 599,
+      "trades": 19,
+      "volume": 116,
+      "value": 69503,
+      "reference_price": 593.5,
+      "change_percent": 0.67,
+      "market": "REGS",
+      "high": 600,
+      "low": 592.5
+    },
+    {
+      "date": "2026-10-14",
+      "close": 593,
+      "open": 597,
+      "average": 596,
+      "trades": 14,
+      "volume": 168,
+      "value": 100150,
+      "reference_price": 597.5,
+      "change_percent": -0.75,
+      "market": "REGS",
+      "high": 599,
+      "low": 591
+    },
+    {
+      "date": "2026-10-15",
+      "close": 589,
+      "open": 590,
+      "average": 592.5,
+      "trades": 46,
+      "volume": 707,
+      "value": 418757.5,
+      "reference_price": 593,
+      "change_percent": -0.67,
+      "market": "REGS",
+      "high": 600,
+      "low": 586.5
+    },
+    {
+      "date": "2026-10-16",
+      "close": 590.5,
+      "open": 590,
+      "average": 586.5,
+      "trades": 58,
+      "volume": 567,
+      "value": 332440.5,
+      "reference_price": 589,
+      "change_percent": 0.25,
+      "market": "REGS",
+      "high": 590.5,
+      "low": 584.5
+    }
+  ]
+}

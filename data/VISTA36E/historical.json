@@ -1,0 +1,91 @@
+{
+  "symbol": "VISTA36E",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-03-16",
+      "close": 100.0,
+      "open": 100.0,
+      "average": 100.0,
+      "trades": 3,
+      "volume": 170.0,
+      "value": 86609900.0,
+      "reference_price": 100.0,
+      "change_percent": 0.0,
+      "market": "EPOFB",
+      "high": 100.0,
+      "low": 100.0
+    },
+    {
+      "date": "2026-05-18",
+      "close": 100.0,
+      "open": 100.0,
+      "average": 100.0,
+      "trades": 1,
+      "volume": 2.0,
+      "value": 1051161.62,
+      "reference_price": 100.0,
+      "change_percent": 0.0,
+      "market": "EORDB",
+      "high": 100.0,
+      "low": 100.0
+    },
+    {
+      "date": "2026-05-22",
+      "close": 100.0,
+      "open": 100.0,
+      "average": 100.0,
+      "trades": 1,
+      "volume": 5.0,
+      "value": 2647512.58,
+      "reference_price": 100.0,
+      "change_percent": 0.0,
+      "market": "EORDB",
+      "high": 100.0,
+      "low": 100.0
+    },
+    {
+      "date": "2026-07-24",
+      "close": 100.0,
+      "open": 100.0,
+      "average": 100.0,
+      "trades": 2,
+      "volume": 2.0,
+      "value": 1053412.04,
+      "reference_price": 100.0,
+      "change_percent": 0.0,
+      "market": "EORDB",
+      "high": 100.0,
+      "low": 100.0
+    },
+    {
+      "date": "2026-07-27",
+      "close": 100.0,
+      "open": 100.0,
+      "average": 100.0,
+      "trades": 1,
+      "volume": 2.0,
+      "value": 1053408.33,
+      "reference_price": 100.0,
+      "change_percent": 0.0,
+      "market": "EORDB",
+      "high": 100.0,
+      "low": 100.0
+    },
+    {
+      "date": "2026-08-04",
+      "close": 100.0,
+      "open": 100.0,
+      "average": 100.0,
+      "trades": 1,
+      "volume": 1.0,
+      "value": 528461.53,
+      "reference_price": 100.0,
+      "change_percent": 0.0,
+      "market": "EORDB",
+      "high": 100.0,
+      "low": 100.0
+    }
+  ]
+}

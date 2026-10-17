@@ -1,0 +1,63 @@
+{
+  "symbol": "PPL",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 7.65,
+      "open": 7.65,
+      "average": 7.65,
+      "trades": 1,
+      "volume": 4,
+      "value": 30.6,
+      "reference_price": 7.65,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 7.65,
+      "low": 7.65
+    },
+    {
+      "date": "2026-10-13",
+      "close": 7.7,
+      "open": 7.65,
+      "average": 7.65,
+      "trades": 2,
+      "volume": 9,
+      "value": 69.05,
+      "reference_price": 7.65,
+      "change_percent": 0.65,
+      "market": "REGS",
+      "high": 7.7,
+      "low": 7.65
+    },
+    {
+      "date": "2026-10-15",
+      "close": 7.9,
+      "open": 7.7,
+      "average": 7.75,
+      "trades": 3,
+      "volume": 127,
+      "value": 986.9,
+      "reference_price": 7.7,
+      "change_percent": 2.6,
+      "market": "REGS",
+      "high": 7.9,
+      "low": 7.7
+    },
+    {
+      "date": "2026-10-16",
+      "close": 7.9,
+      "open": 7.9,
+      "average": 7.9,
+      "trades": 1,
+      "volume": 10,
+      "value": 79,
+      "reference_price": 7.9,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 7.9,
+      "low": 7.9
+    }
+  ]
+}

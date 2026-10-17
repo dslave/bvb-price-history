@@ -1,0 +1,77 @@
+{
+  "symbol": "EL",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 50.2,
+      "open": 50.2,
+      "average": 50,
+      "trades": 165,
+      "volume": 326200,
+      "value": 16313495.35,
+      "reference_price": 50.1,
+      "change_percent": 0.2,
+      "market": "REGS",
+      "high": 50.5,
+      "low": 49.75
+    },
+    {
+      "date": "2026-10-13",
+      "close": 50,
+      "open": 50.4,
+      "average": 50.2,
+      "trades": 151,
+      "volume": 25123,
+      "value": 1262213.7,
+      "reference_price": 50.2,
+      "change_percent": -0.4,
+      "market": "REGS",
+      "high": 50.7,
+      "low": 50
+    },
+    {
+      "date": "2026-10-14",
+      "close": 50.9,
+      "open": 50.5,
+      "average": 50.5,
+      "trades": 164,
+      "volume": 22145,
+      "value": 1117809.2,
+      "reference_price": 50,
+      "change_percent": 1.8,
+      "market": "REGS",
+      "high": 50.9,
+      "low": 49.85
+    },
+    {
+      "date": "2026-10-15",
+      "close": 50.7,
+      "open": 50.8,
+      "average": 50.8,
+      "trades": 273,
+      "volume": 50842,
+      "value": 2582668.1,
+      "reference_price": 50.9,
+      "change_percent": -0.39,
+      "market": "REGS",
+      "high": 51.2,
+      "low": 50.2
+    },
+    {
+      "date": "2026-10-16",
+      "close": 52.4,
+      "open": 51.2,
+      "average": 51.3,
+      "trades": 255,
+      "volume": 46007,
+      "value": 2361197.7,
+      "reference_price": 50.7,
+      "change_percent": 3.35,
+      "market": "REGS",
+      "high": 52.4,
+      "low": 50.3
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "symbol": "NC",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.635,
+      "open": 0.64,
+      "average": 0.635,
+      "trades": 6,
+      "volume": 20000,
+      "value": 12712.55,
+      "reference_price": 0.635,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.64,
+      "low": 0.635
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.645,
+      "open": 0.635,
+      "average": 0.64,
+      "trades": 7,
+      "volume": 8218,
+      "value": 5257.24,
+      "reference_price": 0.635,
+      "change_percent": 1.57,
+      "market": "REGS",
+      "high": 0.645,
+      "low": 0.635
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.645,
+      "open": 0.645,
+      "average": 0.645,
+      "trades": 8,
+      "volume": 2475,
+      "value": 1594.76,
+      "reference_price": 0.645,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.645,
+      "low": 0.64
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.64,
+      "open": 0.645,
+      "average": 0.64,
+      "trades": 2,
+      "volume": 849,
+      "value": 543.395,
+      "reference_price": 0.645,
+      "change_percent": -0.78,
+      "market": "REGS",
+      "high": 0.645,
+      "low": 0.64
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.64,
+      "open": 0.645,
+      "average": 0.64,
+      "trades": 2,
+      "volume": 333,
+      "value": 213.135,
+      "reference_price": 0.64,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.645,
+      "low": 0.64
+    }
+  ]
+}

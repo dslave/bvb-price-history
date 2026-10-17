@@ -1,0 +1,77 @@
+{
+  "symbol": "TRIP",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 1.376,
+      "open": 1.362,
+      "average": 1.37,
+      "trades": 52,
+      "volume": 54393,
+      "value": 74563.884,
+      "reference_price": 1.372,
+      "change_percent": 0.29,
+      "market": "REGS",
+      "high": 1.39,
+      "low": 1.35
+    },
+    {
+      "date": "2026-10-13",
+      "close": 1.346,
+      "open": 1.376,
+      "average": 1.332,
+      "trades": 59,
+      "volume": 56924,
+      "value": 75833.448,
+      "reference_price": 1.376,
+      "change_percent": -2.18,
+      "market": "REGS",
+      "high": 1.38,
+      "low": 1.314
+    },
+    {
+      "date": "2026-10-14",
+      "close": 1.348,
+      "open": 1.346,
+      "average": 1.328,
+      "trades": 27,
+      "volume": 8779,
+      "value": 11665.986,
+      "reference_price": 1.346,
+      "change_percent": 0.15,
+      "market": "REGS",
+      "high": 1.35,
+      "low": 1.312
+    },
+    {
+      "date": "2026-10-15",
+      "close": 1.316,
+      "open": 1.326,
+      "average": 1.318,
+      "trades": 63,
+      "volume": 58954,
+      "value": 77694.928,
+      "reference_price": 1.348,
+      "change_percent": -2.37,
+      "market": "REGS",
+      "high": 1.326,
+      "low": 1.314
+    },
+    {
+      "date": "2026-10-16",
+      "close": 1.332,
+      "open": 1.314,
+      "average": 1.336,
+      "trades": 82,
+      "volume": 129667,
+      "value": 173239.888,
+      "reference_price": 1.316,
+      "change_percent": 1.22,
+      "market": "REGS",
+      "high": 1.396,
+      "low": 1.312
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "symbol": "IMP",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 3.69,
+      "open": 3.7,
+      "average": 3.69,
+      "trades": 9,
+      "volume": 2181,
+      "value": 8052.38,
+      "reference_price": 3.7,
+      "change_percent": -0.27,
+      "market": "REGS",
+      "high": 3.75,
+      "low": 3.69
+    },
+    {
+      "date": "2026-10-13",
+      "close": 3.67,
+      "open": 3.69,
+      "average": 3.68,
+      "trades": 16,
+      "volume": 6236,
+      "value": 22959.47,
+      "reference_price": 3.69,
+      "change_percent": -0.54,
+      "market": "REGS",
+      "high": 3.73,
+      "low": 3.67
+    },
+    {
+      "date": "2026-10-14",
+      "close": 3.67,
+      "open": 3.69,
+      "average": 3.68,
+      "trades": 19,
+      "volume": 11402,
+      "value": 41939.02,
+      "reference_price": 3.67,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 3.7,
+      "low": 3.66
+    },
+    {
+      "date": "2026-10-15",
+      "close": 3.7,
+      "open": 3.7,
+      "average": 3.7,
+      "trades": 60,
+      "volume": 123724,
+      "value": 457476.4,
+      "reference_price": 3.67,
+      "change_percent": 0.82,
+      "market": "REGS",
+      "high": 3.74,
+      "low": 3.66
+    },
+    {
+      "date": "2026-10-16",
+      "close": 3.7,
+      "open": 3.73,
+      "average": 3.7,
+      "trades": 99,
+      "volume": 214307,
+      "value": 793497.93,
+      "reference_price": 3.7,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 3.77,
+      "low": 3.67
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "symbol": "SNG",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 17.72,
+      "open": 17.7,
+      "average": 17.76,
+      "trades": 572,
+      "volume": 122292,
+      "value": 2172359.6,
+      "reference_price": 17.62,
+      "change_percent": 0.57,
+      "market": "REGS",
+      "high": 17.88,
+      "low": 17.64
+    },
+    {
+      "date": "2026-10-13",
+      "close": 18.06,
+      "open": 17.74,
+      "average": 17.92,
+      "trades": 555,
+      "volume": 222875,
+      "value": 3992712.4,
+      "reference_price": 17.72,
+      "change_percent": 1.92,
+      "market": "REGS",
+      "high": 18.1,
+      "low": 17.68
+    },
+    {
+      "date": "2026-10-14",
+      "close": 18.42,
+      "open": 17.98,
+      "average": 18.16,
+      "trades": 772,
+      "volume": 374149,
+      "value": 6794991.2,
+      "reference_price": 18.06,
+      "change_percent": 1.99,
+      "market": "REGS",
+      "high": 18.42,
+      "low": 17.96
+    },
+    {
+      "date": "2026-10-15",
+      "close": 18.9,
+      "open": 18.5,
+      "average": 18.84,
+      "trades": 1030,
+      "volume": 795083,
+      "value": 14982504,
+      "reference_price": 18.42,
+      "change_percent": 2.61,
+      "market": "REGS",
+      "high": 19,
+      "low": 18.5
+    },
+    {
+      "date": "2026-10-16",
+      "close": 18.78,
+      "open": 18.94,
+      "average": 18.9,
+      "trades": 1107,
+      "volume": 577423,
+      "value": 10910844.9,
+      "reference_price": 18.9,
+      "change_percent": -0.63,
+      "market": "REGS",
+      "high": 19.3,
+      "low": 18.68
+    }
+  ]
+}

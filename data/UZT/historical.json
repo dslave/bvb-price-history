@@ -1,0 +1,49 @@
+{
+  "symbol": "UZT",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-13",
+      "close": 0.975,
+      "open": 0.975,
+      "average": 0.975,
+      "trades": 1,
+      "volume": 50,
+      "value": 48.75,
+      "reference_price": 0.975,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 0.975,
+      "low": 0.975
+    },
+    {
+      "date": "2026-10-15",
+      "close": 1,
+      "open": 0.975,
+      "average": 0.975,
+      "trades": 2,
+      "volume": 1389,
+      "value": 1354.3,
+      "reference_price": 0.975,
+      "change_percent": 2.56,
+      "market": "REGS",
+      "high": 1,
+      "low": 0.975
+    },
+    {
+      "date": "2026-10-16",
+      "close": 1,
+      "open": 1,
+      "average": 1,
+      "trades": 2,
+      "volume": 102,
+      "value": 102,
+      "reference_price": 1,
+      "change_percent": 0,
+      "market": "REGS",
+      "high": 1,
+      "low": 1
+    }
+  ]
+}

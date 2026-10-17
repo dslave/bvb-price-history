@@ -1,0 +1,21 @@
+{
+  "symbol": "CMF",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-16",
+      "close": 4.12,
+      "open": 4.12,
+      "average": 4.12,
+      "trades": 1,
+      "volume": 66,
+      "value": 271.92,
+      "reference_price": 4.54,
+      "change_percent": -9.25,
+      "market": "REGS",
+      "high": 4.12,
+      "low": 4.12
+    }
+  ]
+}

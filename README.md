@@ -18,11 +18,21 @@ Wealthfolio supports custom market data providers. Once this repository is publi
 | Price Path | `$.close` |
 | Date Path | `$.date` |
 
+For historical prices, configure the **Historical** source in the same provider:
+
+| Setting | Value |
+| --- | --- |
+| Format | JSON |
+| URL | `https://raw.githubusercontent.com/dslave/bvb-price-history/main/data/{SYMBOL}/historical.json` |
+| Price Path | `$.values[*].close` |
+| Date Path | `$.values[*].date` |
+| High Path | `$.values[*].high` |
+| Low Path | `$.values[*].low` |
+| Volume Path | `$.values[*].volume` |
+
 Wealthfolio substitutes `{SYMBOL}` with the asset ticker, for example `R2804AE`. In the asset's market data settings, select **BVB Daily Data** as its preferred provider and enable automatic updates if desired. Make sure the asset's currency is set appropriately (typically RON for BVB listings).
 
-### What this integration provides today
-
-The `latest.json` URL works as a **latest quote** source. The repository also keeps one JSON snapshot per trading date, but Wealthfolio's historical provider expects a date-range response containing a series of prices. These individual daily files do not currently provide that range response, so this setup does not automatically import historical prices into Wealthfolio. A history endpoint/file can be added separately if you want that integration.
+`latest.json` remains a single current quote. `historical.json` contains a `values` array of available daily quotes for Wealthfolio's Historical source. Historical data is limited to snapshots present in this repository; BVB's direct export only allows recent backfills, while the bond history also includes previously imported dates.
 
 See Wealthfolio's [Custom Market Data Providers guide](https://wealthfolio.app/docs/guide/custom-providers/) for current provider options and field mapping.
 
@@ -32,6 +42,7 @@ Each ticker has a latest snapshot and date-addressed snapshots:
 
 ```text
 data/{SYMBOL}/latest.json
+data/{SYMBOL}/historical.json
 data/{SYMBOL}/{YYYY-MM-DD}.json
 ```
 
@@ -84,6 +95,7 @@ For a public repository, the files are available directly from GitHub:
 
 ```text
 https://raw.githubusercontent.com/dslave/bvb-price-history/main/data/R2804AE/latest.json
+https://raw.githubusercontent.com/dslave/bvb-price-history/main/data/R2804AE/historical.json
 https://raw.githubusercontent.com/dslave/bvb-price-history/main/data/R2804AE/2026-10-16.json
 ```
 

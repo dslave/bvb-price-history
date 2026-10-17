@@ -1,0 +1,77 @@
+{
+  "symbol": "STZ",
+  "instrument_type": "share",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-12",
+      "close": 0.256,
+      "open": 0.254,
+      "average": 0.255,
+      "trades": 7,
+      "volume": 1427,
+      "value": 363.154,
+      "reference_price": 0.252,
+      "change_percent": 1.59,
+      "market": "REGS",
+      "high": 0.256,
+      "low": 0.238
+    },
+    {
+      "date": "2026-10-13",
+      "close": 0.252,
+      "open": 0.232,
+      "average": 0.229,
+      "trades": 8,
+      "volume": 25166,
+      "value": 5767.108,
+      "reference_price": 0.256,
+      "change_percent": -1.56,
+      "market": "REGS",
+      "high": 0.256,
+      "low": 0.228
+    },
+    {
+      "date": "2026-10-14",
+      "close": 0.242,
+      "open": 0.228,
+      "average": 0.234,
+      "trades": 8,
+      "volume": 11946,
+      "value": 2788.98,
+      "reference_price": 0.252,
+      "change_percent": -3.97,
+      "market": "REGS",
+      "high": 0.242,
+      "low": 0.228
+    },
+    {
+      "date": "2026-10-15",
+      "close": 0.241,
+      "open": 0.242,
+      "average": 0.248,
+      "trades": 12,
+      "volume": 10470,
+      "value": 2598.986,
+      "reference_price": 0.242,
+      "change_percent": -0.41,
+      "market": "REGS",
+      "high": 0.254,
+      "low": 0.232
+    },
+    {
+      "date": "2026-10-16",
+      "close": 0.259,
+      "open": 0.251,
+      "average": 0.254,
+      "trades": 15,
+      "volume": 15228,
+      "value": 3865.681,
+      "reference_price": 0.241,
+      "change_percent": 7.47,
+      "market": "REGS",
+      "high": 0.259,
+      "low": 0.25
+    }
+  ]
+}
