@@ -14,11 +14,11 @@ Wealthfolio supports custom market data providers. Once this repository is publi
 | --- | --- |
 | Name | BVB Daily Data |
 | Format | JSON |
-| Latest URL | `https://raw.githubusercontent.com/OWNER/REPO/main/data/{SYMBOL}/latest.json` |
+| Latest URL | `https://raw.githubusercontent.com/dslave/bvb-price-history/main/data/{SYMBOL}/latest.json` |
 | Price Path | `$.close` |
 | Date Path | `$.date` |
 
-Replace `OWNER/REPO` with the public GitHub repository path. Wealthfolio substitutes `{SYMBOL}` with the asset ticker, for example `R2804AE`. In the asset's market data settings, select **BVB Daily Data** as its preferred provider and enable automatic updates if desired. Make sure the asset's currency is set appropriately (typically RON for BVB listings).
+Wealthfolio substitutes `{SYMBOL}` with the asset ticker, for example `R2804AE`. In the asset's market data settings, select **BVB Daily Data** as its preferred provider and enable automatic updates if desired. Make sure the asset's currency is set appropriately (typically RON for BVB listings).
 
 ### What this integration provides today
 
@@ -83,8 +83,8 @@ Because BVB's historical export appears to expose only about the most recent 30 
 For a public repository, the files are available directly from GitHub:
 
 ```text
-https://raw.githubusercontent.com/OWNER/REPO/main/data/R2804AE/latest.json
-https://raw.githubusercontent.com/OWNER/REPO/main/data/R2804AE/2026-10-16.json
+https://raw.githubusercontent.com/dslave/bvb-price-history/main/data/R2804AE/latest.json
+https://raw.githubusercontent.com/dslave/bvb-price-history/main/data/R2804AE/2026-10-16.json
 ```
 
 ## Source, scope, and license
