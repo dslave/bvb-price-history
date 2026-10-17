@@ -162,6 +162,20 @@ def atomic_json(path: Path, document: dict) -> None:
     temp.replace(path)
 
 
+def has_market_data_changed(path: Path, document: dict) -> bool:
+    """Ignore fetch timestamp changes so unchanged snapshots stay untouched."""
+    if not path.exists():
+        return True
+    try:
+        existing = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return True
+    existing.pop("fetchedAt", None)
+    candidate = dict(document)
+    candidate.pop("fetchedAt", None)
+    return existing != candidate
+
+
 def write_rows(rows: List[Dict[str, object]]) -> None:
     fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
     for row in rows:
@@ -169,7 +183,9 @@ def write_rows(rows: List[Dict[str, object]]) -> None:
         record = dict(row)
         record["fetchedAt"] = fetched_at
         record["source"] = "BVB Historical Trading Info CSV export"
-        atomic_json(ticker_dir / f"{row['date']}.json", record)
+        daily_path = ticker_dir / f"{row['date']}.json"
+        if has_market_data_changed(daily_path, record):
+            atomic_json(daily_path, record)
         latest_path = ticker_dir / "latest.json"
         existing_date = ""
         if latest_path.exists():
@@ -178,7 +194,7 @@ def write_rows(rows: List[Dict[str, object]]) -> None:
             except (OSError, ValueError):
                 pass
         # Backfills are fetched newest-to-oldest; never let an older row replace latest.
-        if not existing_date or str(row["date"]) >= existing_date:
+        if (not existing_date or str(row["date"]) >= existing_date) and has_market_data_changed(latest_path, record):
             atomic_json(latest_path, record)
 
 
