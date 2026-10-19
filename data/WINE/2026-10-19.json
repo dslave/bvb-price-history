@@ -1,0 +1,19 @@
+{
+  "symbol": "WINE",
+  "instrument_type": "share",
+  "date": "2026-10-19",
+  "name": null,
+  "market": "REGS",
+  "trades": 24,
+  "volume": 2139,
+  "value": 43013.3,
+  "open": 21,
+  "min": 20,
+  "max": 21,
+  "average": 20.1,
+  "close": 20.5,
+  "reference_price": 20.4,
+  "change_percent": 0.49,
+  "fetchedAt": "2026-10-19T19:07:19Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

@@ -44,6 +44,20 @@
       "market": "EREGT",
       "high": 100.5,
       "low": 100.5
+    },
+    {
+      "date": "2026-10-19",
+      "close": 100.74,
+      "open": 100.7298,
+      "average": 100.7286,
+      "trades": 11,
+      "volume": 403,
+      "value": 216877.18,
+      "reference_price": 100.5,
+      "change_percent": 0.24,
+      "market": "EREGT",
+      "high": 100.74,
+      "low": 100.72
     }
   ]
 }

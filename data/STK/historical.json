@@ -1,0 +1,21 @@
+{
+  "symbol": "STK",
+  "instrument_type": "fund_unit",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-10-19",
+      "close": 64,
+      "open": 62.5,
+      "average": 63,
+      "trades": 8,
+      "volume": 600,
+      "value": 37792,
+      "reference_price": 62.5,
+      "change_percent": 2.4,
+      "market": "REGS",
+      "high": 64,
+      "low": 62.5
+    }
+  ]
+}
