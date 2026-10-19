@@ -83,9 +83,15 @@ SYMBOL_FILTER=R2804AE ./run.sh --backfill 7
 
 Leave `SYMBOL_FILTER` unset to collect all instruments in the configured BVB instrument classes.
 
-## Automated updates
+## Automated updates with Coolify
 
-The GitHub Actions workflow at `.github/workflows/bvb-data.yml` runs on weekdays after the BVB session, caches Python packages, fetches a seven-day rolling window, and commits changed files under `data/`. You can also start it manually from the repository's **Actions** tab. The workflow needs repository `contents: write` permission to commit the refreshed data.
+Coolify is the scheduled collector and the only automatic publisher. The GitHub Actions workflow is manual-only and remains available for recovery from the repository's **Actions** tab.
+
+Create a Coolify application from this repository and build it with the included `Dockerfile`. It does not expose a network port; the container stays running so Coolify can execute its Scheduled Task. Add a Coolify environment variable named `GITHUB_TOKEN` containing a fine-grained GitHub token restricted to this repository with **Contents: read and write** access. Keep it secret. `BACKFILL_DAYS` defaults to `7` and `BVB_EXCHSEGMENT` defaults to `BSE`.
+
+In the application's **Scheduled Tasks**, add `BACKFILL_DAYS=7 /app/run-on-coolify.sh`, set the timeout to 3600 seconds, and schedule it for weekdays at 20:30. Set the Coolify server timezone to `Europe/Bucharest` so the task stays after the BVB session across daylight-saving changes. Run **Execute now** once and confirm that the execution succeeds and a data commit appears in this repository. Coolify runs scheduled commands inside the running application container and records their execution output.
+
+Each run clones the latest `main`, collects the last seven calendar days, commits only changed files under `data/`, and pushes the commit. If there are no data changes, it exits without making a commit. Avoid running the manual GitHub workflow at the same time as Coolify; the push script retries once if another writer updates `main` during collection.
 
 Because BVB's historical export appears to expose only about the most recent 30 calendar days, the rolling window helps recover recent missed runs; it is not a full historical backfill service. When a date or instrument has no matching BVB rows, the collector logs a warning and writes no empty snapshot.
 

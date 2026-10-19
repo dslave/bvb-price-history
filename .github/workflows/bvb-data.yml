@@ -1,9 +1,6 @@
 name: Update BVB market data
 
 on:
-  schedule:
-    # 17:23 UTC is after the BVB close in both Romanian summer and winter time.
-    - cron: "23 17 * * 1-5"
   workflow_dispatch:
     inputs:
       backfill_days:
@@ -39,7 +36,7 @@ jobs:
       - name: Fetch recent BVB data
         env:
           BVB_EXCHSEGMENT: BSE
-          BACKFILL_DAYS: ${{ github.event_name == 'schedule' && '7' || inputs.backfill_days }}
+          BACKFILL_DAYS: ${{ inputs.backfill_days }}
         run: python collector.py --backfill "$BACKFILL_DAYS"
 
       - name: Commit new or updated JSON files
