@@ -1,0 +1,19 @@
+{
+  "symbol": "R3002A",
+  "instrument_type": "bond",
+  "date": "2026-10-20",
+  "name": null,
+  "market": "REGT",
+  "trades": 19,
+  "volume": 1284,
+  "value": 136323.84,
+  "open": 100.78,
+  "min": 100.78,
+  "max": 100.9499,
+  "average": 100.8311,
+  "close": 100.8,
+  "reference_price": 100.7,
+  "change_percent": 0.1,
+  "fetchedAt": "2026-10-20T20:30:08Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

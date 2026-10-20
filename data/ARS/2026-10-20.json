@@ -1,0 +1,19 @@
+{
+  "symbol": "ARS",
+  "instrument_type": "share",
+  "date": "2026-10-20",
+  "name": null,
+  "market": "REGS",
+  "trades": 34,
+  "volume": 3452,
+  "value": 60929.55,
+  "open": 17.5,
+  "min": 17.2,
+  "max": 17.8,
+  "average": 17.65,
+  "close": 17.8,
+  "reference_price": 17.5,
+  "change_percent": 1.71,
+  "fetchedAt": "2026-10-20T20:30:08Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

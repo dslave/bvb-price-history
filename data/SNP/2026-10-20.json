@@ -1,0 +1,19 @@
+{
+  "symbol": "SNP",
+  "instrument_type": "share",
+  "date": "2026-10-20",
+  "name": null,
+  "market": "REGS",
+  "trades": 1345,
+  "volume": 15465529,
+  "value": 20892862.935,
+  "open": 1.348,
+  "min": 1.342,
+  "max": 1.36,
+  "average": 1.351,
+  "close": 1.342,
+  "reference_price": 1.341,
+  "change_percent": 0.07,
+  "fetchedAt": "2026-10-20T20:30:08Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

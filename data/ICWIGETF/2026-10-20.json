@@ -1,0 +1,19 @@
+{
+  "symbol": "ICWIGETF",
+  "instrument_type": "fund_unit",
+  "date": "2026-10-20",
+  "name": null,
+  "market": "REGS",
+  "trades": 213,
+  "volume": 17820,
+  "value": 1105480.89,
+  "open": 62.4,
+  "min": 61.8,
+  "max": 62.42,
+  "average": 62.04,
+  "close": 61.85,
+  "reference_price": 62.35,
+  "change_percent": -0.8,
+  "fetchedAt": "2026-10-20T20:30:08Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

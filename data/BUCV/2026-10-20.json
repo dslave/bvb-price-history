@@ -1,0 +1,19 @@
+{
+  "symbol": "BUCV",
+  "instrument_type": "share",
+  "date": "2026-10-20",
+  "name": null,
+  "market": "REGS",
+  "trades": 3,
+  "volume": 1400,
+  "value": 1604,
+  "open": 1.16,
+  "min": 1.14,
+  "max": 1.16,
+  "average": 1.15,
+  "close": 1.16,
+  "reference_price": 1.14,
+  "change_percent": 1.75,
+  "fetchedAt": "2026-10-20T20:30:08Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "ALR",
+  "instrument_type": "share",
+  "date": "2026-10-20",
+  "name": null,
+  "market": "REGS",
+  "trades": 15,
+  "volume": 3967,
+  "value": 5500.945,
+  "open": 1.4,
+  "min": 1.37,
+  "max": 1.405,
+  "average": 1.385,
+  "close": 1.405,
+  "reference_price": 1.4,
+  "change_percent": 0.36,
+  "fetchedAt": "2026-10-20T20:30:08Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

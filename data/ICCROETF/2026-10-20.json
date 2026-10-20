@@ -1,0 +1,19 @@
+{
+  "symbol": "ICCROETF",
+  "instrument_type": "fund_unit",
+  "date": "2026-10-20",
+  "name": null,
+  "market": "REGS",
+  "trades": 2,
+  "volume": 18,
+  "value": 4087.5,
+  "open": 227,
+  "min": 227,
+  "max": 228.5,
+  "average": 227.1,
+  "close": 228.5,
+  "reference_price": 225.5,
+  "change_percent": 1.33,
+  "fetchedAt": "2026-10-20T20:30:08Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
