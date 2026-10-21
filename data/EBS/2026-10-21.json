@@ -1,0 +1,19 @@
+{
+  "symbol": "EBS",
+  "instrument_type": "share",
+  "date": "2026-10-21",
+  "name": null,
+  "market": "REGS",
+  "trades": 28,
+  "volume": 445,
+  "value": 261806,
+  "open": 588,
+  "min": 583.5,
+  "max": 597.5,
+  "average": 588.5,
+  "close": 597.5,
+  "reference_price": 591.5,
+  "change_percent": 1.01,
+  "fetchedAt": "2026-10-21T20:30:08Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

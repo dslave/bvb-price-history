@@ -1,0 +1,19 @@
+{
+  "symbol": "COTE",
+  "instrument_type": "share",
+  "date": "2026-10-21",
+  "name": null,
+  "market": "REGS",
+  "trades": 60,
+  "volume": 2173,
+  "value": 161459.4,
+  "open": 74.8,
+  "min": 74,
+  "max": 75.6,
+  "average": 74.4,
+  "close": 75,
+  "reference_price": 74.8,
+  "change_percent": 0.27,
+  "fetchedAt": "2026-10-21T20:30:08Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
