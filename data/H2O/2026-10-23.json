@@ -1,0 +1,19 @@
+{
+  "symbol": "H2O",
+  "instrument_type": "share",
+  "date": "2026-10-23",
+  "name": null,
+  "market": "REGS",
+  "trades": 232,
+  "volume": 6123,
+  "value": 1110060.2,
+  "open": 181.6,
+  "min": 180.2,
+  "max": 182,
+  "average": 181.2,
+  "close": 181,
+  "reference_price": 181.6,
+  "change_percent": -0.33,
+  "fetchedAt": "2026-10-23T20:30:09Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
