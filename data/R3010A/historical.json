@@ -16,6 +16,20 @@
       "market": "POFB",
       "high": 100,
       "low": 100
+    },
+    {
+      "date": "2026-10-27",
+      "close": 95.5055,
+      "open": 99,
+      "average": 95.6409,
+      "trades": 10,
+      "volume": 500,
+      "value": 47968.16,
+      "reference_price": 100,
+      "change_percent": -4.49,
+      "market": "REGT",
+      "high": 99,
+      "low": 95.5055
     }
   ]
 }
