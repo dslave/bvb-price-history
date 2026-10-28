@@ -1,0 +1,19 @@
+{
+  "symbol": "R3608A",
+  "instrument_type": "bond",
+  "date": "2026-10-28",
+  "name": null,
+  "market": "REGT",
+  "trades": 3,
+  "volume": 48,
+  "value": 4857.84,
+  "open": 99.001,
+  "min": 99.0001,
+  "max": 99.8699,
+  "average": 99.725,
+  "close": 99.8699,
+  "reference_price": 100,
+  "change_percent": -0.13,
+  "fetchedAt": "2026-10-28T18:35:48Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

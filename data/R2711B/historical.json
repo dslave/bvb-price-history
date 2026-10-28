@@ -4,20 +4,6 @@
   "source": "BVB market history",
   "values": [
     {
-      "date": "2026-09-10",
-      "close": 101.1,
-      "open": 101.1,
-      "average": 101.1,
-      "trades": 1,
-      "volume": 4.0,
-      "value": 430.44,
-      "reference_price": 101.0,
-      "change_percent": 0.1,
-      "market": "REGT",
-      "high": 101.1,
-      "low": 101.1
-    },
-    {
       "date": "2026-09-11",
       "close": 101.1,
       "open": 100.6001,
@@ -422,6 +408,20 @@
       "market": "REGT",
       "high": 100.626,
       "low": 100.6252
+    },
+    {
+      "date": "2026-10-28",
+      "close": 100.8,
+      "open": 100.801,
+      "average": 100.8,
+      "trades": 2,
+      "volume": 93,
+      "value": 10072.84,
+      "reference_price": 100.6252,
+      "change_percent": 0.17,
+      "market": "REGT",
+      "high": 100.801,
+      "low": 100.8
     }
   ]
 }

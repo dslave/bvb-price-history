@@ -170,6 +170,20 @@
       "market": "REGS",
       "high": 15.9,
       "low": 15.85
+    },
+    {
+      "date": "2026-10-28",
+      "close": 15.85,
+      "open": 15.85,
+      "average": 16.1,
+      "trades": 9,
+      "volume": 1062,
+      "value": 17115.8,
+      "reference_price": 15.9,
+      "change_percent": -0.31,
+      "market": "REGS",
+      "high": 16.25,
+      "low": 15.85
     }
   ]
 }
