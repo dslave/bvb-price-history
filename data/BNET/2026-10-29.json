@@ -1,0 +1,19 @@
+{
+  "symbol": "BNET",
+  "instrument_type": "share",
+  "date": "2026-10-29",
+  "name": null,
+  "market": "REGS",
+  "trades": 19,
+  "volume": 149101,
+  "value": 16873.146,
+  "open": 0.1125,
+  "min": 0.1105,
+  "max": 0.114,
+  "average": 0.113,
+  "close": 0.1115,
+  "reference_price": 0.1125,
+  "change_percent": -0.89,
+  "fetchedAt": "2026-10-29T16:30:15Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

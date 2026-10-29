@@ -1,12 +1,12 @@
 {
   "symbol": "R3011AE",
   "instrument_type": "bond",
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "name": null,
   "market": "EREGT",
-  "trades": 3,
-  "volume": 116,
-  "value": 64173.52,
+  "trades": 5,
+  "volume": 365,
+  "value": 202031.15,
   "open": 98.7,
   "min": 98.7,
   "max": 98.7,
@@ -14,6 +14,6 @@
   "close": 98.7,
   "reference_price": 98.7,
   "change_percent": 0,
-  "fetchedAt": "2026-10-28T18:35:48Z",
+  "fetchedAt": "2026-10-29T16:30:15Z",
   "source": "BVB Historical Trading Info CSV export"
 }

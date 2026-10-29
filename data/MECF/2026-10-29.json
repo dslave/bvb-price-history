@@ -1,0 +1,19 @@
+{
+  "symbol": "MECF",
+  "instrument_type": "share",
+  "date": "2026-10-29",
+  "name": null,
+  "market": "REGS",
+  "trades": 4,
+  "volume": 5360,
+  "value": 627.76,
+  "open": 0.119,
+  "min": 0.113,
+  "max": 0.119,
+  "average": 0.117,
+  "close": 0.113,
+  "reference_price": 0.119,
+  "change_percent": -5.04,
+  "fetchedAt": "2026-10-29T16:30:15Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

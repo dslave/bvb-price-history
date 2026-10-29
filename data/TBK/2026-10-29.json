@@ -1,0 +1,19 @@
+{
+  "symbol": "TBK",
+  "instrument_type": "share",
+  "date": "2026-10-29",
+  "name": null,
+  "market": "REGS",
+  "trades": 20,
+  "volume": 2024,
+  "value": 32141.15,
+  "open": 15.9,
+  "min": 15.75,
+  "max": 16,
+  "average": 15.9,
+  "close": 16,
+  "reference_price": 15.85,
+  "change_percent": 0.95,
+  "fetchedAt": "2026-10-29T16:30:15Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

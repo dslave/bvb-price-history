@@ -1,0 +1,19 @@
+{
+  "symbol": "R3205A",
+  "instrument_type": "bond",
+  "date": "2026-10-29",
+  "name": null,
+  "market": "REGT",
+  "trades": 1,
+  "volume": 60,
+  "value": 6210,
+  "open": 100.086,
+  "min": 100.086,
+  "max": 100.086,
+  "average": 100.086,
+  "close": 100.086,
+  "reference_price": 100,
+  "change_percent": 0.09,
+  "fetchedAt": "2026-10-29T16:30:15Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
