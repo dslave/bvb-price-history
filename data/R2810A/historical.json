@@ -156,6 +156,20 @@
       "market": "REGT",
       "high": 100.3999,
       "low": 99.0001
+    },
+    {
+      "date": "2026-11-02",
+      "close": 100.29,
+      "open": 100.2899,
+      "average": 100.29,
+      "trades": 2,
+      "volume": 78,
+      "value": 7852.26,
+      "reference_price": 100.3999,
+      "change_percent": -0.11,
+      "market": "REGT",
+      "high": 100.29,
+      "low": 100.2899
     }
   ]
 }
