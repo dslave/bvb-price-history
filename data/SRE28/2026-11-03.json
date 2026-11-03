@@ -1,0 +1,19 @@
+{
+  "symbol": "SRE28",
+  "instrument_type": "bond",
+  "date": "2026-11-03",
+  "name": null,
+  "market": "ORDB",
+  "trades": 1,
+  "volume": 50,
+  "value": 555.02,
+  "open": 102.97,
+  "min": 102.97,
+  "max": 102.97,
+  "average": 102.97,
+  "close": 102.97,
+  "reference_price": 95.32,
+  "change_percent": 8.03,
+  "fetchedAt": "2026-11-03T16:30:11Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

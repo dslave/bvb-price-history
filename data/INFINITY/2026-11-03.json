@@ -1,0 +1,19 @@
+{
+  "symbol": "INFINITY",
+  "instrument_type": "share",
+  "date": "2026-11-03",
+  "name": null,
+  "market": "REGS",
+  "trades": 32,
+  "volume": 49173,
+  "value": 250058.64,
+  "open": 5,
+  "min": 5,
+  "max": 5.12,
+  "average": 5.08,
+  "close": 5.1,
+  "reference_price": 5.08,
+  "change_percent": 0.39,
+  "fetchedAt": "2026-11-03T16:30:11Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

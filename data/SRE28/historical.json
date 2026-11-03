@@ -198,6 +198,20 @@
       "market": "ORDB",
       "high": 95.32,
       "low": 95.32
+    },
+    {
+      "date": "2026-11-03",
+      "close": 102.97,
+      "open": 102.97,
+      "average": 102.97,
+      "trades": 1,
+      "volume": 50,
+      "value": 555.02,
+      "reference_price": 95.32,
+      "change_percent": 8.03,
+      "market": "ORDB",
+      "high": 102.97,
+      "low": 102.97
     }
   ]
 }

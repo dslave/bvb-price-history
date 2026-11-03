@@ -4,20 +4,6 @@
   "source": "BVB market history",
   "values": [
     {
-      "date": "2026-09-11",
-      "close": 99.0022,
-      "open": 99.05,
-      "average": 99.0261,
-      "trades": 2,
-      "volume": 10.0,
-      "value": 5308.6,
-      "reference_price": 99.2,
-      "change_percent": -0.2,
-      "market": "EREGT",
-      "high": 99.05,
-      "low": 99.0022
-    },
-    {
       "date": "2026-09-14",
       "close": 99.5,
       "open": 99.4999,
@@ -421,6 +407,20 @@
       "change_percent": -0.15,
       "market": "EREGT",
       "high": 98.0314,
+      "low": 98
+    },
+    {
+      "date": "2026-11-03",
+      "close": 98.27,
+      "open": 98.1909,
+      "average": 98.0741,
+      "trades": 10,
+      "volume": 293,
+      "value": 157978.28,
+      "reference_price": 98,
+      "change_percent": 0.28,
+      "market": "EREGT",
+      "high": 98.27,
       "low": 98
     }
   ]

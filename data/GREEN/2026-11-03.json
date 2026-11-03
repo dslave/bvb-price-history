@@ -1,0 +1,19 @@
+{
+  "symbol": "GREEN",
+  "instrument_type": "share",
+  "date": "2026-11-03",
+  "name": null,
+  "market": "REGS",
+  "trades": 5,
+  "volume": 208,
+  "value": 2358.3,
+  "open": 11.3,
+  "min": 11.2,
+  "max": 11.6,
+  "average": 11.3,
+  "close": 11.6,
+  "reference_price": 13,
+  "change_percent": -10.77,
+  "fetchedAt": "2026-11-03T16:30:11Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

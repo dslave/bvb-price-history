@@ -1,0 +1,19 @@
+{
+  "symbol": "ICSLOETF",
+  "instrument_type": "fund_unit",
+  "date": "2026-11-03",
+  "name": null,
+  "market": "REGS",
+  "trades": 3,
+  "volume": 27,
+  "value": 8985.8,
+  "open": 332.6,
+  "min": 332.5,
+  "max": 333.4,
+  "average": 332.8,
+  "close": 333.4,
+  "reference_price": 333.25,
+  "change_percent": 0.05,
+  "fetchedAt": "2026-11-03T16:30:11Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
