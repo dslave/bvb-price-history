@@ -1,0 +1,19 @@
+{
+  "symbol": "CBC",
+  "instrument_type": "share",
+  "date": "2026-11-05",
+  "name": null,
+  "market": "REGS",
+  "trades": 3,
+  "volume": 45,
+  "value": 1075,
+  "open": 23,
+  "min": 22.4,
+  "max": 25.6,
+  "average": 23.8,
+  "close": 25.6,
+  "reference_price": 26,
+  "change_percent": -1.54,
+  "fetchedAt": "2026-11-05T16:30:16Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

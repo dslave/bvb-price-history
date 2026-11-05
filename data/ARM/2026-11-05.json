@@ -1,0 +1,19 @@
+{
+  "symbol": "ARM",
+  "instrument_type": "share",
+  "date": "2026-11-05",
+  "name": null,
+  "market": "REGS",
+  "trades": 5,
+  "volume": 661,
+  "value": 397.985,
+  "open": 0.635,
+  "min": 0.58,
+  "max": 0.635,
+  "average": 0.6,
+  "close": 0.635,
+  "reference_price": 0.655,
+  "change_percent": -3.05,
+  "fetchedAt": "2026-11-05T16:30:16Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
