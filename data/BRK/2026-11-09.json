@@ -1,0 +1,19 @@
+{
+  "symbol": "BRK",
+  "instrument_type": "share",
+  "date": "2026-11-09",
+  "name": null,
+  "market": "REGS",
+  "trades": 22,
+  "volume": 410256,
+  "value": 59823.26,
+  "open": 0.1505,
+  "min": 0.144,
+  "max": 0.1505,
+  "average": 0.146,
+  "close": 0.15,
+  "reference_price": 0.1505,
+  "change_percent": -0.33,
+  "fetchedAt": "2026-11-09T16:30:12Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "NC",
+  "instrument_type": "share",
+  "date": "2026-11-09",
+  "name": null,
+  "market": "REGS",
+  "trades": 4,
+  "volume": 1000,
+  "value": 625.5,
+  "open": 0.625,
+  "min": 0.625,
+  "max": 0.63,
+  "average": 0.625,
+  "close": 0.625,
+  "reference_price": 0.63,
+  "change_percent": -0.79,
+  "fetchedAt": "2026-11-09T16:30:12Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
