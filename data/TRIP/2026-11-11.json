@@ -1,0 +1,19 @@
+{
+  "symbol": "TRIP",
+  "instrument_type": "share",
+  "date": "2026-11-11",
+  "name": null,
+  "market": "REGS",
+  "trades": 25,
+  "volume": 34288,
+  "value": 44838.048,
+  "open": 1.324,
+  "min": 1.304,
+  "max": 1.324,
+  "average": 1.308,
+  "close": 1.31,
+  "reference_price": 1.314,
+  "change_percent": -0.3,
+  "fetchedAt": "2026-11-11T16:30:11Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

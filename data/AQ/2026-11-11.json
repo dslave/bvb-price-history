@@ -1,0 +1,19 @@
+{
+  "symbol": "AQ",
+  "instrument_type": "share",
+  "date": "2026-11-11",
+  "name": null,
+  "market": "REGS",
+  "trades": 29,
+  "volume": 40936,
+  "value": 64546.42,
+  "open": 1.585,
+  "min": 1.57,
+  "max": 1.585,
+  "average": 1.575,
+  "close": 1.575,
+  "reference_price": 1.56,
+  "change_percent": 0.96,
+  "fetchedAt": "2026-11-11T16:30:11Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

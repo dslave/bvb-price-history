@@ -1,0 +1,19 @@
+{
+  "symbol": "R2706B",
+  "instrument_type": "bond",
+  "date": "2026-11-11",
+  "name": null,
+  "market": "REGT",
+  "trades": 5,
+  "volume": 33,
+  "value": 3430.54,
+  "open": 100.9,
+  "min": 100.5801,
+  "max": 100.9,
+  "average": 100.5958,
+  "close": 100.5801,
+  "reference_price": 100.6,
+  "change_percent": -0.02,
+  "fetchedAt": "2026-11-11T16:30:11Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

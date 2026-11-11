@@ -1,0 +1,19 @@
+{
+  "symbol": "CAOR",
+  "instrument_type": "share",
+  "date": "2026-11-11",
+  "name": null,
+  "market": "REGS",
+  "trades": 2,
+  "volume": 111,
+  "value": 178.88,
+  "open": 1.61,
+  "min": 1.61,
+  "max": 1.78,
+  "average": 1.61,
+  "close": 1.78,
+  "reference_price": 1.77,
+  "change_percent": 0.56,
+  "fetchedAt": "2026-11-11T16:30:11Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
