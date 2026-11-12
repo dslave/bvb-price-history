@@ -1,12 +1,12 @@
 {
   "symbol": "ROC1",
   "instrument_type": "share",
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "name": null,
   "market": "REGS",
   "trades": 3,
-  "volume": 6201,
-  "value": 3596.58,
+  "volume": 2986,
+  "value": 1731.88,
   "open": 0.58,
   "min": 0.58,
   "max": 0.58,
@@ -14,6 +14,6 @@
   "close": 0.58,
   "reference_price": 0.58,
   "change_percent": 0,
-  "fetchedAt": "2026-11-11T16:30:11Z",
+  "fetchedAt": "2026-11-12T16:30:09Z",
   "source": "BVB Historical Trading Info CSV export"
 }

@@ -1,0 +1,19 @@
+{
+  "symbol": "CMP",
+  "instrument_type": "share",
+  "date": "2026-11-12",
+  "name": null,
+  "market": "REGS",
+  "trades": 42,
+  "volume": 1054185,
+  "value": 725916.746,
+  "open": 0.686,
+  "min": 0.682,
+  "max": 0.74,
+  "average": 0.688,
+  "close": 0.72,
+  "reference_price": 0.686,
+  "change_percent": 4.96,
+  "fetchedAt": "2026-11-12T16:30:09Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "LION",
+  "instrument_type": "share",
+  "date": "2026-11-12",
+  "name": null,
+  "market": "REGS",
+  "trades": 12,
+  "volume": 3456,
+  "value": 16605.36,
+  "open": 4.79,
+  "min": 4.79,
+  "max": 4.82,
+  "average": 4.8,
+  "close": 4.81,
+  "reference_price": 4.85,
+  "change_percent": -0.82,
+  "fetchedAt": "2026-11-12T16:30:09Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
