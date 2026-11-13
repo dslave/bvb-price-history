@@ -1,0 +1,19 @@
+{
+  "symbol": "BNET28A",
+  "instrument_type": "bond",
+  "date": "2026-11-13",
+  "name": null,
+  "market": "ORDB",
+  "trades": 3,
+  "volume": 28,
+  "value": 2664.26,
+  "open": 94.25,
+  "min": 94.25,
+  "max": 95.24,
+  "average": 94.43,
+  "close": 95.24,
+  "reference_price": 94.3,
+  "change_percent": 1,
+  "fetchedAt": "2026-11-13T16:30:10Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
