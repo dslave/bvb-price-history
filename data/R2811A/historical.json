@@ -1,0 +1,21 @@
+{
+  "symbol": "R2811A",
+  "instrument_type": "bond",
+  "source": "BVB market history",
+  "values": [
+    {
+      "date": "2026-11-16",
+      "close": 100,
+      "open": 100,
+      "average": 100,
+      "trades": 2357,
+      "volume": 1468775,
+      "value": 146877500,
+      "reference_price": 0,
+      "change_percent": 0,
+      "market": "POFB",
+      "high": 100,
+      "low": 100
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "LONG",
+  "instrument_type": "share",
+  "date": "2026-11-16",
+  "name": null,
+  "market": "REGS",
+  "trades": 13,
+  "volume": 798,
+  "value": 2023.88,
+  "open": 2.55,
+  "min": 2.52,
+  "max": 2.55,
+  "average": 2.54,
+  "close": 2.53,
+  "reference_price": 2.55,
+  "change_percent": -0.78,
+  "fetchedAt": "2026-11-16T16:30:12Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
