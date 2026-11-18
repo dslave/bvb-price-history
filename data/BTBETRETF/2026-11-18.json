@@ -1,0 +1,19 @@
+{
+  "symbol": "BTBETRETF",
+  "instrument_type": "fund_unit",
+  "date": "2026-11-18",
+  "name": null,
+  "market": "REGS",
+  "trades": 330,
+  "volume": 38101,
+  "value": 456940.368,
+  "open": 12.03,
+  "min": 11.95,
+  "max": 12.06,
+  "average": 11.992,
+  "close": 11.98,
+  "reference_price": 12.04,
+  "change_percent": -0.5,
+  "fetchedAt": "2026-11-18T16:30:09Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

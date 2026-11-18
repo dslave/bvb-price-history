@@ -1,0 +1,19 @@
+{
+  "symbol": "R3204A",
+  "instrument_type": "bond",
+  "date": "2026-11-18",
+  "name": null,
+  "market": "REGT",
+  "trades": 10,
+  "volume": 559,
+  "value": 58063.66,
+  "open": 99.49,
+  "min": 99.49,
+  "max": 99.55,
+  "average": 99.5006,
+  "close": 99.55,
+  "reference_price": 99.49,
+  "change_percent": 0.06,
+  "fetchedAt": "2026-11-18T16:30:09Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
