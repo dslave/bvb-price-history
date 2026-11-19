@@ -16,6 +16,20 @@
       "market": "EPOFB",
       "high": 100,
       "low": 100
+    },
+    {
+      "date": "2026-11-19",
+      "close": 100.7,
+      "open": 100.78,
+      "average": 100.8728,
+      "trades": 30,
+      "volume": 965,
+      "value": 520783.34,
+      "reference_price": 100,
+      "change_percent": 0.7,
+      "market": "EREGT",
+      "high": 100.9999,
+      "low": 100.67
     }
   ]
 }
