@@ -1,0 +1,19 @@
+{
+  "symbol": "R3108A",
+  "instrument_type": "bond",
+  "date": "2026-11-20",
+  "name": null,
+  "market": "REGT",
+  "trades": 4,
+  "volume": 219,
+  "value": 22565.42,
+  "open": 100.755,
+  "min": 100.755,
+  "max": 101.389,
+  "average": 100.8129,
+  "close": 101.389,
+  "reference_price": 100.755,
+  "change_percent": 0.63,
+  "fetchedAt": "2026-11-20T16:30:10Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

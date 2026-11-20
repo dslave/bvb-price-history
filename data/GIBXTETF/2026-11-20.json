@@ -1,0 +1,19 @@
+{
+  "symbol": "GIBXTETF",
+  "instrument_type": "fund_unit",
+  "date": "2026-11-20",
+  "name": null,
+  "market": "REGS",
+  "trades": 20,
+  "volume": 2555,
+  "value": 23868.734,
+  "open": 9.353,
+  "min": 9.3,
+  "max": 9.45,
+  "average": 9.342,
+  "close": 9.3,
+  "reference_price": 9.4,
+  "change_percent": -1.06,
+  "fetchedAt": "2026-11-20T16:30:10Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

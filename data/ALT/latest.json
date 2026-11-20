@@ -1,12 +1,12 @@
 {
   "symbol": "ALT",
   "instrument_type": "share",
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "name": null,
   "market": "REGS",
-  "trades": 2,
-  "volume": 634,
-  "value": 44.0605,
+  "trades": 3,
+  "volume": 966,
+  "value": 67.1345,
   "open": 0.0695,
   "min": 0.067,
   "max": 0.0695,
@@ -14,6 +14,6 @@
   "close": 0.067,
   "reference_price": 0.067,
   "change_percent": 0,
-  "fetchedAt": "2026-11-19T16:30:10Z",
+  "fetchedAt": "2026-11-20T16:30:10Z",
   "source": "BVB Historical Trading Info CSV export"
 }
