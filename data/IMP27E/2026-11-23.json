@@ -1,0 +1,19 @@
+{
+  "symbol": "IMP27E",
+  "instrument_type": "bond",
+  "date": "2026-11-23",
+  "name": null,
+  "market": "EORDB",
+  "trades": 2,
+  "volume": 20,
+  "value": 10925.95,
+  "open": 99.69,
+  "min": 99.69,
+  "max": 100.2,
+  "average": 99.97,
+  "close": 100.2,
+  "reference_price": 100.4,
+  "change_percent": -0.2,
+  "fetchedAt": "2026-11-23T16:30:11Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
