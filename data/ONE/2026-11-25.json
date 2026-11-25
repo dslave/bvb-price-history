@@ -1,0 +1,19 @@
+{
+  "symbol": "ONE",
+  "instrument_type": "share",
+  "date": "2026-11-25",
+  "name": null,
+  "market": "REGS",
+  "trades": 102,
+  "volume": 21743,
+  "value": 707232.2,
+  "open": 33,
+  "min": 32.15,
+  "max": 33.45,
+  "average": 32.55,
+  "close": 32.15,
+  "reference_price": 33.7,
+  "change_percent": -4.6,
+  "fetchedAt": "2026-11-25T16:30:13Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
