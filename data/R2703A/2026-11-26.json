@@ -1,0 +1,19 @@
+{
+  "symbol": "R2703A",
+  "instrument_type": "bond",
+  "date": "2026-11-26",
+  "name": null,
+  "market": "REGT",
+  "trades": 4,
+  "volume": 403,
+  "value": 42349.75,
+  "open": 100.0002,
+  "min": 100,
+  "max": 100.12,
+  "average": 100.0762,
+  "close": 100.12,
+  "reference_price": 100.12,
+  "change_percent": 0,
+  "fetchedAt": "2026-11-26T16:30:12Z",
+  "source": "BVB Historical Trading Info CSV export"
+}

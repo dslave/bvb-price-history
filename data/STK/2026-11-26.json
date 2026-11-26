@@ -1,0 +1,19 @@
+{
+  "symbol": "STK",
+  "instrument_type": "fund_unit",
+  "date": "2026-11-26",
+  "name": null,
+  "market": "REGS",
+  "trades": 5,
+  "volume": 262,
+  "value": 15412.5,
+  "open": 60,
+  "min": 54,
+  "max": 60,
+  "average": 59,
+  "close": 54,
+  "reference_price": 62.5,
+  "change_percent": -13.6,
+  "fetchedAt": "2026-11-26T16:30:12Z",
+  "source": "BVB Historical Trading Info CSV export"
+}
