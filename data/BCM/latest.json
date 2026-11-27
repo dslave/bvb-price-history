@@ -1,12 +1,12 @@
 {
   "symbol": "BCM",
   "instrument_type": "share",
-  "date": "2026-11-19",
+  "date": "2026-11-27",
   "name": null,
   "market": "REGS",
   "trades": 1,
-  "volume": 40,
-  "value": 5.12,
+  "volume": 4552,
+  "value": 582.656,
   "open": 0.128,
   "min": 0.128,
   "max": 0.128,
@@ -14,6 +14,6 @@
   "close": 0.128,
   "reference_price": 0.128,
   "change_percent": 0,
-  "fetchedAt": "2026-11-19T16:30:10Z",
+  "fetchedAt": "2026-11-27T16:30:13Z",
   "source": "BVB Historical Trading Info CSV export"
 }
